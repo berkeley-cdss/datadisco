@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  site-url: https://datadisco.cdss.berkeley.edu
+  title: "Data Discovery"
+  sidebar:
+    style: docked
+    logo: assets/CDSS_LOGO_NEW_FOOTER.svg
+    contents:
+      - href: index.qmd
+      - href: get-involved.qmd
+        contents:
+          - href: get-involved/student-researchers.qmd
+          - href: get-involved/partner.qmd
+      - href: program-team.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: assets/styles.css
+    toc: true
+    include-in-header:
+      file: siteimprove.html

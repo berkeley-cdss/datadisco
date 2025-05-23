@@ -1,0 +1,46 @@
+---
+title: "Student Researchers"
+---
+
+Discovery project applications for Spring 2025 are now closed. See Guidelines and Deadlines below.
+
+[APPLICATION HAS CLOSED](https://projectmatch.app/?limit=12&offset=0)
+
+As a Discovery participant, you’ll work with a team of students and partners in academia, industry, government, or nonprofit to address cutting edge problems in data science.
+
+## Program Guidelines
+
+Read the full guidelines here: [Program Guidelines](https://docs.google.com/document/d/1Z6KQFgMlmy91k3-YMUIoP3Re0QTYZfzrJf7KM3MRiqA/edit?usp=sharing)
+
+## Deadlines
+
+- **Applications open:** January 14. Begin reading the project descriptions and preparing your application(s).
+- **Priority deadline:** January 20. Get your application in by the priority deadline to have the most competitive application! Partners may form teams before the extended deadline closes.
+- **Extended deadline:** January 24. Take advantage of the extended deadline if you can’t make the priority deadline or want to apply to additional projects!
+- **Enroll:** January 31. Partners will submit their teams to us, and you'll confirm the selection by submitting the commitment form and enrolling in CDSS 198.
+
+## Requirements
+
+- **Who can participate:** Any UC Berkeley undergraduate and masters students enrolled in any in-person program.
+- **One project:** Students may participate in one Discovery project per semester, even if they are selected for more than one.
+- **Teamwork:** Students work in teams, including developing expectations for the team with the mentor.
+- **Enrollment:** Students enroll in the CDSS Discovery course (CDSS 198), which offers variable units on a P/NP basis. This course includes required activities and homework, including attending several workshops.
+- **Final project:** A poster summarizing the research to be presented at the Discovery Symposium during RRR week.
+
+## Application
+
+- **Max applications:** You may apply for up to 10 projects (you may participate in only one).
+- **Questions:** Submit the form responding to these questions for each project you want to apply to, using the link in the project description. Refer to the specific instructions in the description for each project, and address all relevant details for a complete application. See the guide for the list of questions in the application.
+- **Tips:** See the guidelines for tips on how to choose projects to apply to, prepare your application, and prepare your resume.
+
+---
+
+![UC Berkeley CDSS Logo](../assets/CDSS_LOGO_NEW_FOOTER.svg)
+
+University of California, Berkeley  
+Berkeley, CA 94720-1786  
+Email: CDSSinfo@berkeley.edu
+
+[Accessibility](https://dac.berkeley.edu/web-accessibility) | [Nondiscrimination](https://ophd.berkeley.edu/policies-and-procedures/nondiscrimination-policy-statement) | [Privacy](https://security.berkeley.edu/policy/privacy-statement-uc-berkeley-websites)
+
+Copyright © 2025 UC Regents; all rights reserved
