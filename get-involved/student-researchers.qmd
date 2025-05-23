@@ -4,13 +4,13 @@ title: "Student Researchers"
 
 Discovery project applications for Spring 2025 are now closed. See Guidelines and Deadlines below.
 
-[APPLICATION HAS CLOSED](https://projectmatch.app/?limit=12&offset=0)
+The [application](https://projectmatch.app/?limit=12&offset=0) has closed.
 
 As a Discovery participant, you’ll work with a team of students and partners in academia, industry, government, or nonprofit to address cutting edge problems in data science.
 
 ## Program Guidelines
 
-Read the full guidelines here: [Program Guidelines](https://docs.google.com/document/d/1Z6KQFgMlmy91k3-YMUIoP3Re0QTYZfzrJf7KM3MRiqA/edit?usp=sharing)
+We have documented our [full program guidelines](https://docs.google.com/document/d/1Z6KQFgMlmy91k3-YMUIoP3Re0QTYZfzrJf7KM3MRiqA/edit?usp=sharing).
 
 ## Deadlines
 
@@ -32,15 +32,3 @@ Read the full guidelines here: [Program Guidelines](https://docs.google.com/docu
 - **Max applications:** You may apply for up to 10 projects (you may participate in only one).
 - **Questions:** Submit the form responding to these questions for each project you want to apply to, using the link in the project description. Refer to the specific instructions in the description for each project, and address all relevant details for a complete application. See the guide for the list of questions in the application.
 - **Tips:** See the guidelines for tips on how to choose projects to apply to, prepare your application, and prepare your resume.
-
----
-
-![UC Berkeley CDSS Logo](../assets/CDSS_LOGO_NEW_FOOTER.svg)
-
-University of California, Berkeley  
-Berkeley, CA 94720-1786  
-Email: CDSSinfo@berkeley.edu
-
-[Accessibility](https://dac.berkeley.edu/web-accessibility) | [Nondiscrimination](https://ophd.berkeley.edu/policies-and-procedures/nondiscrimination-policy-statement) | [Privacy](https://security.berkeley.edu/policy/privacy-statement-uc-berkeley-websites)
-
-Copyright © 2025 UC Regents; all rights reserved
