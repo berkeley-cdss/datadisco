@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://datadisco.cdss.berkeley.edu/program-team.html</loc>
-    <lastmod>2025-05-23T00:36:13.851Z</lastmod>
+    <loc>https://datadisco.cdss.berkeley.edu/get-involved/partner.html</loc>
+    <lastmod>2025-05-23T00:39:03.364Z</lastmod>
   </url>
   <url>
     <loc>https://datadisco.cdss.berkeley.edu/index.html</loc>
-    <lastmod>2025-05-23T00:36:13.851Z</lastmod>
+    <lastmod>2025-05-23T00:39:03.364Z</lastmod>
   </url>
   <url>
-    <loc>https://datadisco.cdss.berkeley.edu/get-involved/student-researchers.html</loc>
-    <lastmod>2025-05-23T00:36:13.851Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datadisco.cdss.berkeley.edu/get-involved/partner.html</loc>
-    <lastmod>2025-05-23T00:36:13.851Z</lastmod>
+    <loc>https://datadisco.cdss.berkeley.edu/program-team.html</loc>
+    <lastmod>2025-05-23T00:39:03.364Z</lastmod>
   </url>
   <url>
     <loc>https://datadisco.cdss.berkeley.edu/get-involved.html</loc>
-    <lastmod>2025-05-23T00:36:13.851Z</lastmod>
+    <lastmod>2025-05-23T00:39:03.364Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datadisco.cdss.berkeley.edu/get-involved/student-researchers.html</loc>
+    <lastmod>2025-05-23T00:39:03.364Z</lastmod>
   </url>
 </urlset>
