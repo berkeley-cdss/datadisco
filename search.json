@@ -1,66 +1,345 @@
 [
   {
-    "objectID": "get-involved/partner.html",
-    "href": "get-involved/partner.html",
-    "title": "Partner With Us",
+    "objectID": "get-involved/student-researchers.html",
+    "href": "get-involved/student-researchers.html",
+    "title": "Student Researchers",
     "section": "",
-    "text": "Discovery Partner applications for Spring 2025 are now open!\n\nApplication deadline: January 10, 2025, 11:59 PM\nApplication Form (Closed)\n\nSince 2015, the Discovery Program has helped incubate and accelerate research for over 1,000 partner projects by connecting projects with talented student teams, project management, and technical infrastructure support. We welcome all academic institutions, non-profits, government agencies, and industry to partner with us.\n\n\nFor specific inquiries about our program, please email us at ds-discovery@berkeley.edu. We are happy to provide more details for you.\n\n\n\nDiscovery partners and students can request cloud computing credits. We offer several options and resources for cloud computing, including Savio, UC Berkeley’s Linux cluster with high-speed, low-latency networking and a high-speed parallel file system for high performance computing.\n\n\n\n    \n\n\n\n\n\n\n\nWhat types of organizations have we partnered with? What have been some of our past projects?\n\nWe have partnered with academic institutions, non-profits, government agencies, and industry. Past projects span a wide range of domains and impact areas.\n\nWhat resources are available to project partners? Why is it beneficial to project partners to participate in this program?\n\nPartners receive support from talented student teams, project management, and technical infrastructure. Participation provides access to innovative solutions and a pipeline of skilled talent.\n\nDoes the Discovery Program work closely with any other Data Science Department programs?\n\nYes, the program collaborates with other Data Science Department initiatives.\n\nWho has the intellectual property rights to the research projects?\n\nIntellectual property rights are typically retained by the partner organization, but specific arrangements can be discussed.\n\nAre there specific legal documents we need to create or sign? How will we ensure data security?\n\nLegal and data security requirements are addressed on a case-by-case basis to ensure compliance and protection.\n\nOur organization does not have the capacity to take on a partnership this semester. When is the next available opportunity?\n\nNew opportunities are available each semester.\n\nI haven’t heard back from the students I accepted. What does this mean?\n\nPlease contact the program for updates if you have not received communication from your selected students.\n\n\n\n\n\n\nDo we have to interview students?\n\nInterviews are encouraged but not required.\n\nWhat is the time commitment for project partners?\n\nPartners should expect to engage with their student teams regularly throughout the semester.\n\nHow many people from our organization are needed for these project(s)?\n\nAt least one primary contact is required, but more are welcome.\n\nHow can we get aid in handling technical and logistical project challenges?\n\nThe program provides support and resources to help address challenges.\n\nWhat is the Discovery Showcase? Do partners have to attend?\n\nThe Discovery Showcase is an end-of-semester event where projects are presented. Partner attendance is encouraged.\n\n\n\n\n\n\nAre students expected to be paid? If so, is the Discovery program responsible or the project partners?\n\nStudents are not required to be paid; if compensation is offered, it is the responsibility of the partner.\n\nHow many students should we select?\n\nThe number of students per project varies; guidance is provided during the application process.\n\nWhat types of students are applying to partner projects?\n\nApplicants include undergraduates and master’s students from diverse backgrounds.\n\nWhat is the skill level of applicants?\n\nStudents have a range of skills in data science, computer science, and related fields.\n\n\n\n\n\n\nHow long do projects run?\n\nProjects typically run for one semester (about 12 weeks).\n\nWhen should we finish interviewing students?\n\nInterviews should be completed before the semester begins.\n\n\n\n\n\n\nHow do I work around logistical and data security challenges as a governmental agency?\n\nThe program team will work with you to address any unique requirements or challenges.",
+    "text": "Discovery project applications for Spring 2025 are now closed. See Guidelines and Deadlines below.\nThe application has closed.\nAs a Discovery participant, you’ll work with a team of students and partners in academia, industry, government, or nonprofit to address cutting edge problems in data science."
+  },
+  {
+    "objectID": "get-involved/student-researchers.html#program-guidelines",
+    "href": "get-involved/student-researchers.html#program-guidelines",
+    "title": "Student Researchers",
+    "section": "Program Guidelines",
+    "text": "Program Guidelines\nWe have documented our full program guidelines."
+  },
+  {
+    "objectID": "get-involved/student-researchers.html#deadlines",
+    "href": "get-involved/student-researchers.html#deadlines",
+    "title": "Student Researchers",
+    "section": "Deadlines",
+    "text": "Deadlines\n\nApplications open: January 14. Begin reading the project descriptions and preparing your application(s).\nPriority deadline: January 20. Get your application in by the priority deadline to have the most competitive application! Partners may form teams before the extended deadline closes.\nExtended deadline: January 24. Take advantage of the extended deadline if you can’t make the priority deadline or want to apply to additional projects!\nEnroll: January 31. Partners will submit their teams to us, and you’ll confirm the selection by submitting the commitment form and enrolling in CDSS 198."
+  },
+  {
+    "objectID": "get-involved/student-researchers.html#requirements",
+    "href": "get-involved/student-researchers.html#requirements",
+    "title": "Student Researchers",
+    "section": "Requirements",
+    "text": "Requirements\n\nWho can participate: Any UC Berkeley undergraduate and masters students enrolled in any in-person program.\nOne project: Students may participate in one Discovery project per semester, even if they are selected for more than one.\nTeamwork: Students work in teams, including developing expectations for the team with the mentor.\nEnrollment: Students enroll in the CDSS Discovery course (CDSS 198), which offers variable units on a P/NP basis. This course includes required activities and homework, including attending several workshops.\nFinal project: A poster summarizing the research to be presented at the Discovery Symposium during RRR week."
+  },
+  {
+    "objectID": "get-involved/student-researchers.html#application",
+    "href": "get-involved/student-researchers.html#application",
+    "title": "Student Researchers",
+    "section": "Application",
+    "text": "Application\n\nMax applications: You may apply for up to 10 projects (you may participate in only one).\nQuestions: Submit the form responding to these questions for each project you want to apply to, using the link in the project description. Refer to the specific instructions in the description for each project, and address all relevant details for a complete application. See the guide for the list of questions in the application.\nTips: See the guidelines for tips on how to choose projects to apply to, prepare your application, and prepare your resume."
+  },
+  {
+    "objectID": "ddmatch.html",
+    "href": "ddmatch.html",
+    "title": "DD Match Platform Guide",
+    "section": "",
+    "text": "Welcome\nWelcome to the Data Discovery Match Platform. This guide will walk you through how to use the platform whether you are a Project Partner or Student Researcher. You’ll learn how to sign up, submit projects, apply, and manage submissions.",
     "crumbs": [
-      "Get Involved",
-      "Partner With Us"
+      "DD Match Platform Guide"
     ]
   },
   {
-    "objectID": "get-involved/partner.html#contact-us",
-    "href": "get-involved/partner.html#contact-us",
-    "title": "Partner With Us",
+    "objectID": "welcome.html",
+    "href": "welcome.html",
+    "title": "Welcome",
     "section": "",
-    "text": "For specific inquiries about our program, please email us at ds-discovery@berkeley.edu. We are happy to provide more details for you.",
+    "text": "Welcome\nWelcome to the Data Discovery Match Platform. This guide will walk you through how to use the platform whether you are a Project Partner or Student Researcher. You’ll learn how to sign up, submit projects, apply, and manage submissions."
+  },
+  {
+    "objectID": "walkthrough.html",
+    "href": "walkthrough.html",
+    "title": "Hello, Quarto",
+    "section": "",
+    "text": "Markdown is an easy to read and write text format:\n\nIt’s plain text so works well with version control\nIt can be rendered into HTML, PDF, and more\nLearn more at: https://quarto.org/docs/authoring/"
+  },
+  {
+    "objectID": "walkthrough.html#markdown",
+    "href": "walkthrough.html#markdown",
+    "title": "Hello, Quarto",
+    "section": "",
+    "text": "Markdown is an easy to read and write text format:\n\nIt’s plain text so works well with version control\nIt can be rendered into HTML, PDF, and more\nLearn more at: https://quarto.org/docs/authoring/"
+  },
+  {
+    "objectID": "walkthrough.html#code-cell",
+    "href": "walkthrough.html#code-cell",
+    "title": "Hello, Quarto",
+    "section": "Code Cell",
+    "text": "Code Cell\nHere is a Python code cell:\n\nimport os\nos.cpu_count()\n\n4"
+  },
+  {
+    "objectID": "walkthrough.html#equation",
+    "href": "walkthrough.html#equation",
+    "title": "Hello, Quarto",
+    "section": "Equation",
+    "text": "Equation\nUse LaTeX to write equations:\n\\[\n\\chi' = \\sum_{i=1}^n k_i s_i^2\n\\]"
+  },
+  {
+    "objectID": "ddmatch/create-partner.html",
+    "href": "ddmatch/create-partner.html",
+    "title": "Creating a Partner Account",
+    "section": "",
+    "text": "This guide walks new partners through the account signup process on the DDMatch platform.\n\n\nNavigate to the homepage and click the “Partner Login” tab in the top menu.\n\n\n\nStep 1: Partner Signup\n\n\n\nThis will redirect you to the partner login portal where you can either create a new account or log in with your existing credentials.\n\n\n\n\nOn the login screen, locate the “Don’t have an account? Signup” link below the login button and click it.\n\n\n\nStep 2: Click Signup\n\n\n\nThis will redirect you to the registration form where you can create your new Partner account.\n\n\n\n\nEnter your email address and choose a secure password that includes at least one lowercase letter, one uppercase letter, one number, and one special character. Confirm your password, then click “Signup”.\n\n\n\nStep 3: Complete the Signup Form\n\n\n\nOnce submitted, you will be prompted to verify your email before gaining access to your partner dashboard.\n\n\n\n\nCheck your inbox for a one-time password (OTP) sent to your registered email address. Enter the 6-digit code in the boxes provided, then click “Confirm”.\n\n\n\nStep 4: Email Verification\n\n\n\nIf you didn’t receive the OTP, click “Request new OTP” to resend the verification code.\n\n\n\n\nOnce your account has been verified, return to the Partner Login page. Enter your registered email and password, then click “Login” to access your dashboard.\n\n\n\nStep 5: Login to Your Account\n\n\n\nYou now have full access to your Partner Dashboard, where you can manage your profile, submit project proposals, and track student applications.\n\n\n\n\nUpon first login, you’ll be asked to provide essential information. Enter your full name, email address, and your role in the organization. Click Next to continue through the remaining onboarding steps.\n\n\n\nStep 6: Complete Partner Information\n\n\n\nThis information helps the platform connect you with students and clarify your role in the research process.\n\n\n\n\nContinue filling in your organization details such as name, website, a short introduction, and select the appropriate sector for your organization (e.g., Private Industry, Non-Profit).\n\n\n\nStep 7: Complete Partner Information (Part 2)\n\n\n\nThese details will be displayed to students and help match your organization with the right candidates.\n\n\n\n\nYou will be asked whether your project would benefit from free cloud computing credits. These resources may include access to CDSS DataHub, NAIRR Infrastructure, UC Berkeley’s Savio cluster, OpenAI API, or Hugging Face models.\n\n\n\nStep 8: Request Cloud Credits\n\n\n\nSelect the most accurate response: Yes, No, or Maybe, then click Next to proceed.\n\n\n\n\nYou must confirm that you can meet the program’s expectations, including weekly meetings, evaluations, and support for student learning. Carefully read all the listed commitments before selecting your response.\n\n\n\nStep 9: Commit to Program Requirements\n\n\n\nSelect “Yes, I agree to commit to the requirements.” to proceed.\n\n\n\n\nTo acknowledge your institution’s contribution, you can optionally upload your logo (under 1MB and exactly 700×200 pixels). Choose “Yes, please include our logo” and upload the image file. Then click Submit to complete the process.\n\n\n\nStep 10: Upload Logo & Submit\n\n\n\nYour profile is now ready! You’ll receive a confirmation email and gain access to additional platform features.\n\n\n\n\nOnce onboarded, you’ll land in your Partner Dashboard. From here you can view:\n\nTotal projects\nApproved projects\nApplications received\n\nYou can also manage your profile, review applications, and extend offers using the navigation on the left.\n\n\n\nStep 11: Explore the Dashboard\n\n\n\nThis is your command center for participating in the Data Discovery program.",
     "crumbs": [
-      "Get Involved",
-      "Partner With Us"
+      "DD Match Platform Guide",
+      "Creating a Partner Account"
     ]
   },
   {
-    "objectID": "get-involved/partner.html#cloud-computing-resources",
-    "href": "get-involved/partner.html#cloud-computing-resources",
-    "title": "Partner With Us",
+    "objectID": "ddmatch/create-partner.html#step-1-signup",
+    "href": "ddmatch/create-partner.html#step-1-signup",
+    "title": "Creating a Partner Account",
     "section": "",
-    "text": "Discovery partners and students can request cloud computing credits. We offer several options and resources for cloud computing, including Savio, UC Berkeley’s Linux cluster with high-speed, low-latency networking and a high-speed parallel file system for high performance computing.",
+    "text": "Navigate to the homepage and click the “Partner Login” tab in the top menu.\n\n\n\nStep 1: Partner Signup\n\n\n\nThis will redirect you to the partner login portal where you can either create a new account or log in with your existing credentials.",
     "crumbs": [
-      "Get Involved",
-      "Partner With Us"
+      "DD Match Platform Guide",
+      "Creating a Partner Account"
     ]
   },
   {
-    "objectID": "get-involved/partner.html#frequently-asked-questions-faqs",
-    "href": "get-involved/partner.html#frequently-asked-questions-faqs",
-    "title": "Partner With Us",
+    "objectID": "ddmatch/create-partner.html#step-2-click-signup",
+    "href": "ddmatch/create-partner.html#step-2-click-signup",
+    "title": "Creating a Partner Account",
     "section": "",
-    "text": "What types of organizations have we partnered with? What have been some of our past projects?\n\nWe have partnered with academic institutions, non-profits, government agencies, and industry. Past projects span a wide range of domains and impact areas.\n\nWhat resources are available to project partners? Why is it beneficial to project partners to participate in this program?\n\nPartners receive support from talented student teams, project management, and technical infrastructure. Participation provides access to innovative solutions and a pipeline of skilled talent.\n\nDoes the Discovery Program work closely with any other Data Science Department programs?\n\nYes, the program collaborates with other Data Science Department initiatives.\n\nWho has the intellectual property rights to the research projects?\n\nIntellectual property rights are typically retained by the partner organization, but specific arrangements can be discussed.\n\nAre there specific legal documents we need to create or sign? How will we ensure data security?\n\nLegal and data security requirements are addressed on a case-by-case basis to ensure compliance and protection.\n\nOur organization does not have the capacity to take on a partnership this semester. When is the next available opportunity?\n\nNew opportunities are available each semester.\n\nI haven’t heard back from the students I accepted. What does this mean?\n\nPlease contact the program for updates if you have not received communication from your selected students.\n\n\n\n\n\n\nDo we have to interview students?\n\nInterviews are encouraged but not required.\n\nWhat is the time commitment for project partners?\n\nPartners should expect to engage with their student teams regularly throughout the semester.\n\nHow many people from our organization are needed for these project(s)?\n\nAt least one primary contact is required, but more are welcome.\n\nHow can we get aid in handling technical and logistical project challenges?\n\nThe program provides support and resources to help address challenges.\n\nWhat is the Discovery Showcase? Do partners have to attend?\n\nThe Discovery Showcase is an end-of-semester event where projects are presented. Partner attendance is encouraged.\n\n\n\n\n\n\nAre students expected to be paid? If so, is the Discovery program responsible or the project partners?\n\nStudents are not required to be paid; if compensation is offered, it is the responsibility of the partner.\n\nHow many students should we select?\n\nThe number of students per project varies; guidance is provided during the application process.\n\nWhat types of students are applying to partner projects?\n\nApplicants include undergraduates and master’s students from diverse backgrounds.\n\nWhat is the skill level of applicants?\n\nStudents have a range of skills in data science, computer science, and related fields.\n\n\n\n\n\n\nHow long do projects run?\n\nProjects typically run for one semester (about 12 weeks).\n\nWhen should we finish interviewing students?\n\nInterviews should be completed before the semester begins.\n\n\n\n\n\n\nHow do I work around logistical and data security challenges as a governmental agency?\n\nThe program team will work with you to address any unique requirements or challenges.",
+    "text": "On the login screen, locate the “Don’t have an account? Signup” link below the login button and click it.\n\n\n\nStep 2: Click Signup\n\n\n\nThis will redirect you to the registration form where you can create your new Partner account.",
     "crumbs": [
-      "Get Involved",
-      "Partner With Us"
+      "DD Match Platform Guide",
+      "Creating a Partner Account"
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Data Discovery Program",
+    "objectID": "ddmatch/create-partner.html#step-3-complete-the-signup-form",
+    "href": "ddmatch/create-partner.html#step-3-complete-the-signup-form",
+    "title": "Creating a Partner Account",
     "section": "",
-    "text": "The Data Discovery Program incubates and accelerates high impact research in academic, government, non-profit, and industry projects across the globe while providing UC Berkeley students real world research experiences and mentorship opportunities.",
+    "text": "Enter your email address and choose a secure password that includes at least one lowercase letter, one uppercase letter, one number, and one special character. Confirm your password, then click “Signup”.\n\n\n\nStep 3: Complete the Signup Form\n\n\n\nOnce submitted, you will be prompted to verify your email before gaining access to your partner dashboard.",
     "crumbs": [
-      "Data Discovery Program"
+      "DD Match Platform Guide",
+      "Creating a Partner Account"
     ]
   },
   {
-    "objectID": "index.html#program-offerings",
-    "href": "index.html#program-offerings",
-    "title": "Data Discovery Program",
-    "section": "Program Offerings",
-    "text": "Program Offerings\n\n\n\n\nProjects\nStudent researchers work on semester-long projects applying data science to real-world problems with a variety of companies, from startups to NGOs to well-established corporations.\n\n\n\n\nShowcase events\nEach semester, a showcase attracts over 500 participants, including students, industry partners, and academicians.\n\n\n\n\n\n\n\nProfessional support\nData science consulting teams offer workshops and one-on-one consulting. Past topics include machine learning, web scraping, and data visualization.\n\n\n\n\nCloud computing resources\nDiscovery partners and students can request cloud computing credits, including access to Savio, UC Berkeley’s Linux cluster.",
+    "objectID": "ddmatch/create-partner.html#step-4-verify-your-email",
+    "href": "ddmatch/create-partner.html#step-4-verify-your-email",
+    "title": "Creating a Partner Account",
+    "section": "",
+    "text": "Check your inbox for a one-time password (OTP) sent to your registered email address. Enter the 6-digit code in the boxes provided, then click “Confirm”.\n\n\n\nStep 4: Email Verification\n\n\n\nIf you didn’t receive the OTP, click “Request new OTP” to resend the verification code.",
     "crumbs": [
-      "Data Discovery Program"
+      "DD Match Platform Guide",
+      "Creating a Partner Account"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-partner.html#step-5-login-to-your-account",
+    "href": "ddmatch/create-partner.html#step-5-login-to-your-account",
+    "title": "Creating a Partner Account",
+    "section": "",
+    "text": "Once your account has been verified, return to the Partner Login page. Enter your registered email and password, then click “Login” to access your dashboard.\n\n\n\nStep 5: Login to Your Account\n\n\n\nYou now have full access to your Partner Dashboard, where you can manage your profile, submit project proposals, and track student applications.",
+    "crumbs": [
+      "DD Match Platform Guide",
+      "Creating a Partner Account"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-partner.html#step-6-complete-partner-information",
+    "href": "ddmatch/create-partner.html#step-6-complete-partner-information",
+    "title": "Creating a Partner Account",
+    "section": "",
+    "text": "Upon first login, you’ll be asked to provide essential information. Enter your full name, email address, and your role in the organization. Click Next to continue through the remaining onboarding steps.\n\n\n\nStep 6: Complete Partner Information\n\n\n\nThis information helps the platform connect you with students and clarify your role in the research process.",
+    "crumbs": [
+      "DD Match Platform Guide",
+      "Creating a Partner Account"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-partner.html#step-7-complete-partner-information-part-2",
+    "href": "ddmatch/create-partner.html#step-7-complete-partner-information-part-2",
+    "title": "Creating a Partner Account",
+    "section": "",
+    "text": "Continue filling in your organization details such as name, website, a short introduction, and select the appropriate sector for your organization (e.g., Private Industry, Non-Profit).\n\n\n\nStep 7: Complete Partner Information (Part 2)\n\n\n\nThese details will be displayed to students and help match your organization with the right candidates.",
+    "crumbs": [
+      "DD Match Platform Guide",
+      "Creating a Partner Account"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-partner.html#step-8-request-cloud-credits",
+    "href": "ddmatch/create-partner.html#step-8-request-cloud-credits",
+    "title": "Creating a Partner Account",
+    "section": "",
+    "text": "You will be asked whether your project would benefit from free cloud computing credits. These resources may include access to CDSS DataHub, NAIRR Infrastructure, UC Berkeley’s Savio cluster, OpenAI API, or Hugging Face models.\n\n\n\nStep 8: Request Cloud Credits\n\n\n\nSelect the most accurate response: Yes, No, or Maybe, then click Next to proceed.",
+    "crumbs": [
+      "DD Match Platform Guide",
+      "Creating a Partner Account"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-partner.html#step-9-commit-to-program-requirements",
+    "href": "ddmatch/create-partner.html#step-9-commit-to-program-requirements",
+    "title": "Creating a Partner Account",
+    "section": "",
+    "text": "You must confirm that you can meet the program’s expectations, including weekly meetings, evaluations, and support for student learning. Carefully read all the listed commitments before selecting your response.\n\n\n\nStep 9: Commit to Program Requirements\n\n\n\nSelect “Yes, I agree to commit to the requirements.” to proceed.",
+    "crumbs": [
+      "DD Match Platform Guide",
+      "Creating a Partner Account"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-partner.html#step-10-upload-your-logo-submit",
+    "href": "ddmatch/create-partner.html#step-10-upload-your-logo-submit",
+    "title": "Creating a Partner Account",
+    "section": "",
+    "text": "To acknowledge your institution’s contribution, you can optionally upload your logo (under 1MB and exactly 700×200 pixels). Choose “Yes, please include our logo” and upload the image file. Then click Submit to complete the process.\n\n\n\nStep 10: Upload Logo & Submit\n\n\n\nYour profile is now ready! You’ll receive a confirmation email and gain access to additional platform features.",
+    "crumbs": [
+      "DD Match Platform Guide",
+      "Creating a Partner Account"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-partner.html#step-11-explore-the-dashboard",
+    "href": "ddmatch/create-partner.html#step-11-explore-the-dashboard",
+    "title": "Creating a Partner Account",
+    "section": "",
+    "text": "Once onboarded, you’ll land in your Partner Dashboard. From here you can view:\n\nTotal projects\nApproved projects\nApplications received\n\nYou can also manage your profile, review applications, and extend offers using the navigation on the left.\n\n\n\nStep 11: Explore the Dashboard\n\n\n\nThis is your command center for participating in the Data Discovery program.",
+    "crumbs": [
+      "DD Match Platform Guide",
+      "Creating a Partner Account"
+    ]
+  },
+  {
+    "objectID": "get-involved.html",
+    "href": "get-involved.html",
+    "title": "Get Involved",
+    "section": "",
+    "text": "The Data Discovery Program connects undergraduates with hands-on, team-based opportunities in cutting-edge research projects at UC Berkeley, government agencies, community groups, and entrepreneurial ventures."
+  },
+  {
+    "objectID": "get-involved.html#for-student-researchers",
+    "href": "get-involved.html#for-student-researchers",
+    "title": "Get Involved",
+    "section": "For Student Researchers",
+    "text": "For Student Researchers\nStudent Researchers can apply to projects of their interest and work in teams throughout the semester on a research or social impact project under the guidance of a project mentor. Student Researchers earn academic units as they complete their project with their team. Discovery offers workshops throughout the semester to support students on their projects.\nLearn more for Student Researchers"
+  },
+  {
+    "objectID": "get-involved.html#for-research-partners",
+    "href": "get-involved.html#for-research-partners",
+    "title": "Get Involved",
+    "section": "For Research Partners",
+    "text": "For Research Partners\nDiscovery is dedicated to providing top-notch data science, computer science, and statistics capacity to our project partners while also fostering a unique learning environment for our students. Project partners should design projects so that a team of students can be engaged over the course of a single or multiple semesters (a semester is about 12 weeks of work). Projects should include a strong data component, and a dataset must be available by the start of the semester. Project partners can oversee multiple projects.\nLearn more for Research Partners"
+  },
+  {
+    "objectID": "ddmatch/create-project.html",
+    "href": "ddmatch/create-project.html",
+    "title": "Creating a Partner’s Project",
+    "section": "",
+    "text": "This guide walks partners through the steps required to successfully submit a project on the DD Match platform.",
+    "crumbs": [
+      "DD Match Platform Guide",
+      "Creating a Partner's Project"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-project.html#step-1-navigate-to-the-projects-tab",
+    "href": "ddmatch/create-project.html#step-1-navigate-to-the-projects-tab",
+    "title": "Creating a Partner’s Project",
+    "section": "Step 1: Navigate to the Projects Tab",
+    "text": "Step 1: Navigate to the Projects Tab\nOnce logged in, click the “Projects” tab on the left-hand menu. Then click the “Create Project” button on the top-right corner.\n\n\n\nStep 1: Navigate to Projects",
+    "crumbs": [
+      "DD Match Platform Guide",
+      "Creating a Partner's Project"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-project.html#step-2-add-basic-project-information",
+    "href": "ddmatch/create-project.html#step-2-add-basic-project-information",
+    "title": "Creating a Partner’s Project",
+    "section": "Step 2: Add Basic Project Information",
+    "text": "Step 2: Add Basic Project Information\nEnter your Project Title, a short Project Overview, upload a banner image (under 1MB, 700×200px), and provide your Name and Email.\n\n\n\nStep 2: Basic Info",
+    "crumbs": [
+      "DD Match Platform Guide",
+      "Creating a Partner's Project"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-project.html#step-3-choose-categories",
+    "href": "ddmatch/create-project.html#step-3-choose-categories",
+    "title": "Creating a Partner’s Project",
+    "section": "Step 3: Choose Categories",
+    "text": "Step 3: Choose Categories\nSelect the primary and secondary label that best categorize your project (e.g., Environment, Engineering, Public Policy, etc.).\n\n\n\nStep 3: Project Categories",
+    "crumbs": [
+      "DD Match Platform Guide",
+      "Creating a Partner's Project"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-project.html#step-4-define-deliverables",
+    "href": "ddmatch/create-project.html#step-4-define-deliverables",
+    "title": "Creating a Partner’s Project",
+    "section": "Step 4: Define Deliverables",
+    "text": "Step 4: Define Deliverables\nDescribe the tangible outcomes students will produce over the semester. Include things like reports, dashboards, models, or presentations.\n\n\n\nStep 4: Deliverables",
+    "crumbs": [
+      "DD Match Platform Guide",
+      "Creating a Partner's Project"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-project.html#step-5-project-scope",
+    "href": "ddmatch/create-project.html#step-5-project-scope",
+    "title": "Creating a Partner’s Project",
+    "section": "Step 5: Project Scope",
+    "text": "Step 5: Project Scope\nIndicate whether this is a new or continuing project, and provide a link to any related materials (website, deck, prior semester project).\n\n\n\nStep 5: Project Continuation Info",
+    "crumbs": [
+      "DD Match Platform Guide",
+      "Creating a Partner's Project"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-project.html#step-6-dataset-description",
+    "href": "ddmatch/create-project.html#step-6-dataset-description",
+    "title": "Creating a Partner’s Project",
+    "section": "Step 6: Dataset Description",
+    "text": "Step 6: Dataset Description\nDescribe the type, size, and structure of your dataset. Include whether it’s observational, spatial, time-series, etc., and note if students will need to collect it.\n\n\n\nStep 6: Dataset Details",
+    "crumbs": [
+      "DD Match Platform Guide",
+      "Creating a Partner's Project"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-project.html#step-7-skills-students-will-develop",
+    "href": "ddmatch/create-project.html#step-7-skills-students-will-develop",
+    "title": "Creating a Partner’s Project",
+    "section": "Step 7: Skills Students Will Develop",
+    "text": "Step 7: Skills Students Will Develop\nCheck the skills students will learn through this project (e.g., EDA, NLP, ML, data visualization).\n\n\n\nStep 7: Student Skill Development",
+    "crumbs": [
+      "DD Match Platform Guide",
+      "Creating a Partner's Project"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-project.html#step-8-technical-requirements",
+    "href": "ddmatch/create-project.html#step-8-technical-requirements",
+    "title": "Creating a Partner’s Project",
+    "section": "Step 8: Technical Requirements",
+    "text": "Step 8: Technical Requirements\nSpecify which skills or tools students should be familiar with (e.g., Python, SQL, Tableau, Hugging Face, AWS). Also add any helpful background knowledge.\n\n\n\nStep 8: Technical Expectations",
+    "crumbs": [
+      "DD Match Platform Guide",
+      "Creating a Partner's Project"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-project.html#step-9-final-review-and-submit",
+    "href": "ddmatch/create-project.html#step-9-final-review-and-submit",
+    "title": "Creating a Partner’s Project",
+    "section": "Step 9: Final Review and Submit",
+    "text": "Step 9: Final Review and Submit\nReview your inputs and click Submit to publish your project to the platform. Students will now be able to view and apply.\n\n\n\nStep 9: Submit Project\n\n\n\n✅ Congratulations! Your project has been successfully submitted for consideration and will undergo review by the Data Discovery Program Team. Please await further communication regarding the status of your submission.\n\n\nOnce approved, your project will appear in the student-facing portal, where eligible students can apply to join your team. In the meantime, you may return to your dashboard to monitor progress, update project details, or manage your profile.\n\n\nIf you have any questions, feel free to contact cdss-datadiscovery@berkeley.edu.",
+    "crumbs": [
+      "DD Match Platform Guide",
+      "Creating a Partner's Project"
     ]
   },
   {
@@ -68,7 +347,7 @@
     "href": "program-team.html",
     "title": "Program Team",
     "section": "",
-    "text": "Research Program Director\ngobaido@berkeley.edu\n\n\n\n\nResearch Program Assistant Director\neremirez@berkeley.edu",
+    "text": "Research Program Director\ngobaido@berkeley.edu\n\n\n\n\n\nResearch Program Assistant Director\neremirez@berkeley.edu",
     "crumbs": [
       "Program Team"
     ]
@@ -78,94 +357,47 @@
     "href": "program-team.html#meet-the-cdss-data-discovery-team",
     "title": "Program Team",
     "section": "",
-    "text": "Research Program Director\ngobaido@berkeley.edu\n\n\n\n\nResearch Program Assistant Director\neremirez@berkeley.edu",
+    "text": "Research Program Director\ngobaido@berkeley.edu\n\n\n\n\n\nResearch Program Assistant Director\neremirez@berkeley.edu",
     "crumbs": [
       "Program Team"
     ]
   },
   {
-    "objectID": "get-involved.html",
-    "href": "get-involved.html",
-    "title": "Get Involved",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
     "section": "",
-    "text": "The Data Discovery Program connects undergraduates with hands-on, team-based opportunities in cutting-edge research projects at UC Berkeley, government agencies, community groups, and entrepreneurial ventures.",
+    "text": "Welcome\nWelcome to the Data Discovery Match (DD Match) Platform. This guide will walk you through how to use the platform whether you are a Project Partner or Student Researcher. You’ll learn how to sign up, submit projects, apply, and manage submissions.",
     "crumbs": [
-      "Get Involved"
+      "Welcome"
     ]
   },
   {
-    "objectID": "get-involved.html#for-student-researchers",
-    "href": "get-involved.html#for-student-researchers",
-    "title": "Get Involved",
-    "section": "For Student Researchers",
-    "text": "For Student Researchers\nStudent Researchers can apply to projects of their interest and work in teams throughout the semester on a research or social impact project under the guidance of a project mentor. Student Researchers earn academic units as they complete their project with their team. Discovery offers workshops throughout the semester to support students on their projects.\nLearn more for Student Researchers",
-    "crumbs": [
-      "Get Involved"
-    ]
-  },
-  {
-    "objectID": "get-involved.html#for-research-partners",
-    "href": "get-involved.html#for-research-partners",
-    "title": "Get Involved",
-    "section": "For Research Partners",
-    "text": "For Research Partners\nDiscovery is dedicated to providing top-notch data science, computer science, and statistics capacity to our project partners while also fostering a unique learning environment for our students. Project partners should design projects so that a team of students can be engaged over the course of a single or multiple semesters (a semester is about 12 weeks of work). Projects should include a strong data component, and a dataset must be available by the start of the semester. Project partners can oversee multiple projects.\nLearn more for Research Partners",
-    "crumbs": [
-      "Get Involved"
-    ]
-  },
-  {
-    "objectID": "get-involved/student-researchers.html",
-    "href": "get-involved/student-researchers.html",
-    "title": "Student Researchers",
+    "objectID": "get-involved/partner.html",
+    "href": "get-involved/partner.html",
+    "title": "Partner With Us",
     "section": "",
-    "text": "Discovery project applications for Spring 2025 are now closed. See Guidelines and Deadlines below.\nThe application has closed.\nAs a Discovery participant, you’ll work with a team of students and partners in academia, industry, government, or nonprofit to address cutting edge problems in data science.",
-    "crumbs": [
-      "Get Involved",
-      "Student Researchers"
-    ]
+    "text": "Discovery Partner applications for Spring 2025 are now open!\n\nApplication deadline: January 10, 2025, 11:59 PM\nApplication Form (Closed)\n\nSince 2015, the Discovery Program has helped incubate and accelerate research for over 1,000 partner projects by connecting projects with talented student teams, project management, and technical infrastructure support. We welcome all academic institutions, non-profits, government agencies, and industry to partner with us.\n\n\nFor specific inquiries about our program, please email us at ds-discovery@berkeley.edu. We are happy to provide more details for you.\n\n\n\nDiscovery partners and students can request cloud computing credits. We offer several options and resources for cloud computing, including Savio, UC Berkeley’s Linux cluster with high-speed, low-latency networking and a high-speed parallel file system for high performance computing.\n\n\n\n    \n\n\n\n\n\n\n\nWhat types of organizations have we partnered with? What have been some of our past projects?\n\nWe have partnered with academic institutions, non-profits, government agencies, and industry. Past projects span a wide range of domains and impact areas.\n\nWhat resources are available to project partners? Why is it beneficial to project partners to participate in this program?\n\nPartners receive support from talented student teams, project management, and technical infrastructure. Participation provides access to innovative solutions and a pipeline of skilled talent.\n\nDoes the Discovery Program work closely with any other Data Science Department programs?\n\nYes, the program collaborates with other Data Science Department initiatives.\n\nWho has the intellectual property rights to the research projects?\n\nIntellectual property rights are typically retained by the partner organization, but specific arrangements can be discussed.\n\nAre there specific legal documents we need to create or sign? How will we ensure data security?\n\nLegal and data security requirements are addressed on a case-by-case basis to ensure compliance and protection.\n\nOur organization does not have the capacity to take on a partnership this semester. When is the next available opportunity?\n\nNew opportunities are available each semester.\n\nI haven’t heard back from the students I accepted. What does this mean?\n\nPlease contact the program for updates if you have not received communication from your selected students.\n\n\n\n\n\n\nDo we have to interview students?\n\nInterviews are encouraged but not required.\n\nWhat is the time commitment for project partners?\n\nPartners should expect to engage with their student teams regularly throughout the semester.\n\nHow many people from our organization are needed for these project(s)?\n\nAt least one primary contact is required, but more are welcome.\n\nHow can we get aid in handling technical and logistical project challenges?\n\nThe program provides support and resources to help address challenges.\n\nWhat is the Discovery Showcase? Do partners have to attend?\n\nThe Discovery Showcase is an end-of-semester event where projects are presented. Partner attendance is encouraged.\n\n\n\n\n\n\nAre students expected to be paid? If so, is the Discovery program responsible or the project partners?\n\nStudents are not required to be paid; if compensation is offered, it is the responsibility of the partner.\n\nHow many students should we select?\n\nThe number of students per project varies; guidance is provided during the application process.\n\nWhat types of students are applying to partner projects?\n\nApplicants include undergraduates and master’s students from diverse backgrounds.\n\nWhat is the skill level of applicants?\n\nStudents have a range of skills in data science, computer science, and related fields.\n\n\n\n\n\n\nHow long do projects run?\n\nProjects typically run for one semester (about 12 weeks).\n\nWhen should we finish interviewing students?\n\nInterviews should be completed before the semester begins.\n\n\n\n\n\n\nHow do I work around logistical and data security challenges as a governmental agency?\n\nThe program team will work with you to address any unique requirements or challenges."
   },
   {
-    "objectID": "get-involved/student-researchers.html#program-guidelines",
-    "href": "get-involved/student-researchers.html#program-guidelines",
-    "title": "Student Researchers",
-    "section": "Program Guidelines",
-    "text": "Program Guidelines\nWe have documented our full program guidelines.",
-    "crumbs": [
-      "Get Involved",
-      "Student Researchers"
-    ]
+    "objectID": "get-involved/partner.html#contact-us",
+    "href": "get-involved/partner.html#contact-us",
+    "title": "Partner With Us",
+    "section": "",
+    "text": "For specific inquiries about our program, please email us at ds-discovery@berkeley.edu. We are happy to provide more details for you."
   },
   {
-    "objectID": "get-involved/student-researchers.html#deadlines",
-    "href": "get-involved/student-researchers.html#deadlines",
-    "title": "Student Researchers",
-    "section": "Deadlines",
-    "text": "Deadlines\n\nApplications open: January 14. Begin reading the project descriptions and preparing your application(s).\nPriority deadline: January 20. Get your application in by the priority deadline to have the most competitive application! Partners may form teams before the extended deadline closes.\nExtended deadline: January 24. Take advantage of the extended deadline if you can’t make the priority deadline or want to apply to additional projects!\nEnroll: January 31. Partners will submit their teams to us, and you’ll confirm the selection by submitting the commitment form and enrolling in CDSS 198.",
-    "crumbs": [
-      "Get Involved",
-      "Student Researchers"
-    ]
+    "objectID": "get-involved/partner.html#cloud-computing-resources",
+    "href": "get-involved/partner.html#cloud-computing-resources",
+    "title": "Partner With Us",
+    "section": "",
+    "text": "Discovery partners and students can request cloud computing credits. We offer several options and resources for cloud computing, including Savio, UC Berkeley’s Linux cluster with high-speed, low-latency networking and a high-speed parallel file system for high performance computing."
   },
   {
-    "objectID": "get-involved/student-researchers.html#requirements",
-    "href": "get-involved/student-researchers.html#requirements",
-    "title": "Student Researchers",
-    "section": "Requirements",
-    "text": "Requirements\n\nWho can participate: Any UC Berkeley undergraduate and masters students enrolled in any in-person program.\nOne project: Students may participate in one Discovery project per semester, even if they are selected for more than one.\nTeamwork: Students work in teams, including developing expectations for the team with the mentor.\nEnrollment: Students enroll in the CDSS Discovery course (CDSS 198), which offers variable units on a P/NP basis. This course includes required activities and homework, including attending several workshops.\nFinal project: A poster summarizing the research to be presented at the Discovery Symposium during RRR week.",
-    "crumbs": [
-      "Get Involved",
-      "Student Researchers"
-    ]
-  },
-  {
-    "objectID": "get-involved/student-researchers.html#application",
-    "href": "get-involved/student-researchers.html#application",
-    "title": "Student Researchers",
-    "section": "Application",
-    "text": "Application\n\nMax applications: You may apply for up to 10 projects (you may participate in only one).\nQuestions: Submit the form responding to these questions for each project you want to apply to, using the link in the project description. Refer to the specific instructions in the description for each project, and address all relevant details for a complete application. See the guide for the list of questions in the application.\nTips: See the guidelines for tips on how to choose projects to apply to, prepare your application, and prepare your resume.",
-    "crumbs": [
-      "Get Involved",
-      "Student Researchers"
-    ]
+    "objectID": "get-involved/partner.html#frequently-asked-questions-faqs",
+    "href": "get-involved/partner.html#frequently-asked-questions-faqs",
+    "title": "Partner With Us",
+    "section": "",
+    "text": "What types of organizations have we partnered with? What have been some of our past projects?\n\nWe have partnered with academic institutions, non-profits, government agencies, and industry. Past projects span a wide range of domains and impact areas.\n\nWhat resources are available to project partners? Why is it beneficial to project partners to participate in this program?\n\nPartners receive support from talented student teams, project management, and technical infrastructure. Participation provides access to innovative solutions and a pipeline of skilled talent.\n\nDoes the Discovery Program work closely with any other Data Science Department programs?\n\nYes, the program collaborates with other Data Science Department initiatives.\n\nWho has the intellectual property rights to the research projects?\n\nIntellectual property rights are typically retained by the partner organization, but specific arrangements can be discussed.\n\nAre there specific legal documents we need to create or sign? How will we ensure data security?\n\nLegal and data security requirements are addressed on a case-by-case basis to ensure compliance and protection.\n\nOur organization does not have the capacity to take on a partnership this semester. When is the next available opportunity?\n\nNew opportunities are available each semester.\n\nI haven’t heard back from the students I accepted. What does this mean?\n\nPlease contact the program for updates if you have not received communication from your selected students.\n\n\n\n\n\n\nDo we have to interview students?\n\nInterviews are encouraged but not required.\n\nWhat is the time commitment for project partners?\n\nPartners should expect to engage with their student teams regularly throughout the semester.\n\nHow many people from our organization are needed for these project(s)?\n\nAt least one primary contact is required, but more are welcome.\n\nHow can we get aid in handling technical and logistical project challenges?\n\nThe program provides support and resources to help address challenges.\n\nWhat is the Discovery Showcase? Do partners have to attend?\n\nThe Discovery Showcase is an end-of-semester event where projects are presented. Partner attendance is encouraged.\n\n\n\n\n\n\nAre students expected to be paid? If so, is the Discovery program responsible or the project partners?\n\nStudents are not required to be paid; if compensation is offered, it is the responsibility of the partner.\n\nHow many students should we select?\n\nThe number of students per project varies; guidance is provided during the application process.\n\nWhat types of students are applying to partner projects?\n\nApplicants include undergraduates and master’s students from diverse backgrounds.\n\nWhat is the skill level of applicants?\n\nStudents have a range of skills in data science, computer science, and related fields.\n\n\n\n\n\n\nHow long do projects run?\n\nProjects typically run for one semester (about 12 weeks).\n\nWhen should we finish interviewing students?\n\nInterviews should be completed before the semester begins.\n\n\n\n\n\n\nHow do I work around logistical and data security challenges as a governmental agency?\n\nThe program team will work with you to address any unique requirements or challenges."
   }
 ]
