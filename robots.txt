@@ -1,1 +1,1 @@
-Sitemap: https://berkeley-cdss.github.io/datadisco/sitemap.xml
+Sitemap: https://datadisco.cdss.berkeley.edu/sitemap.xml
