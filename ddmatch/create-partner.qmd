@@ -2,8 +2,6 @@
 title: "Creating a Partner Account"
 ---
 
-# Data Discovery Partner Portal Guide
-
 This guide walks new partners through the account signup process on the DDMatch platform.
 
 
