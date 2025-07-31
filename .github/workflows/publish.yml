@@ -25,4 +25,4 @@ jobs:
         uses: quarto-dev/quarto-actions/setup@v2
 
       - name: Render and Publish
-        run: quarto publish
+        run: quarto publish gh-pages --no-prompt
