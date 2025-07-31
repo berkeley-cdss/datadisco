@@ -10,7 +10,7 @@ website:
     logo: assets/CDSS_LOGO_NEW_FOOTER.svg
     contents:
       #- href: index.qmd
-      - href: welcome.qmd
+      - href: index.qmd
       - href: ddmatch.qmd
         contents:
           - href: ddmatch/create-partner.qmd
