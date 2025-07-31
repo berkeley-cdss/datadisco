@@ -31,7 +31,7 @@ Enter your email address and choose a secure password that includes at least one
 
 ## Step 4: Verify Your Email
 
-Check your inbox for a one-time password (OTP) sent to your registered email address. Enter the 6-digit code in the boxes provided, then click **"Confirm"**.
+Check your inbox for a one-time password (OTP) sent to your registered email address. If you don’t see it, be sure to check your spam or junk folder. Enter the 6-digit code in the boxes provided, then click **"Confirm"**.
 
 ![Step 4: Email Verification](/assets/step4.png)
 
