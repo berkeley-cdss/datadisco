@@ -39,7 +39,7 @@
     "href": "ddmatch.html",
     "title": "DD Match Platform Guide",
     "section": "",
-    "text": "Welcome\nWelcome to the Data Discovery Match Platform. This guide will walk you through how to use the platform whether you are a Project Partner or Student Researcher. You’ll learn how to sign up, submit projects, apply, and manage submissions.",
+    "text": "Welcome to the Data Discovery Match Platform. This guide will walk you through how to use the platform whether you are a Project Partner or Student Researcher. You’ll learn how to sign up, submit projects, apply, and manage submissions.",
     "crumbs": [
       "DD Match Platform Guide"
     ]
@@ -84,7 +84,7 @@
     "href": "ddmatch/create-partner.html",
     "title": "Creating a Partner Account",
     "section": "",
-    "text": "This guide walks new partners through the account signup process on the DDMatch platform.\n\n\nNavigate to the homepage and click the “Partner Login” tab in the top menu.\n\n\n\nStep 1: Partner Signup\n\n\n\nThis will redirect you to the partner login portal where you can either create a new account or log in with your existing credentials.\n\n\n\n\nOn the login screen, locate the “Don’t have an account? Signup” link below the login button and click it.\n\n\n\nStep 2: Click Signup\n\n\n\nThis will redirect you to the registration form where you can create your new Partner account.\n\n\n\n\nEnter your email address and choose a secure password that includes at least one lowercase letter, one uppercase letter, one number, and one special character. Confirm your password, then click “Signup”.\n\n\n\nStep 3: Complete the Signup Form\n\n\n\nOnce submitted, you will be prompted to verify your email before gaining access to your partner dashboard.\n\n\n\n\nCheck your inbox for a one-time password (OTP) sent to your registered email address. Enter the 6-digit code in the boxes provided, then click “Confirm”.\n\n\n\nStep 4: Email Verification\n\n\n\nIf you didn’t receive the OTP, click “Request new OTP” to resend the verification code.\n\n\n\n\nOnce your account has been verified, return to the Partner Login page. Enter your registered email and password, then click “Login” to access your dashboard.\n\n\n\nStep 5: Login to Your Account\n\n\n\nYou now have full access to your Partner Dashboard, where you can manage your profile, submit project proposals, and track student applications.\n\n\n\n\nUpon first login, you’ll be asked to provide essential information. Enter your full name, email address, and your role in the organization. Click Next to continue through the remaining onboarding steps.\n\n\n\nStep 6: Complete Partner Information\n\n\n\nThis information helps the platform connect you with students and clarify your role in the research process.\n\n\n\n\nContinue filling in your organization details such as name, website, a short introduction, and select the appropriate sector for your organization (e.g., Private Industry, Non-Profit).\n\n\n\nStep 7: Complete Partner Information (Part 2)\n\n\n\nThese details will be displayed to students and help match your organization with the right candidates.\n\n\n\n\nYou will be asked whether your project would benefit from free cloud computing credits. These resources may include access to CDSS DataHub, NAIRR Infrastructure, UC Berkeley’s Savio cluster, OpenAI API, or Hugging Face models.\n\n\n\nStep 8: Request Cloud Credits\n\n\n\nSelect the most accurate response: Yes, No, or Maybe, then click Next to proceed.\n\n\n\n\nYou must confirm that you can meet the program’s expectations, including weekly meetings, evaluations, and support for student learning. Carefully read all the listed commitments before selecting your response.\n\n\n\nStep 9: Commit to Program Requirements\n\n\n\nSelect “Yes, I agree to commit to the requirements.” to proceed.\n\n\n\n\nTo acknowledge your institution’s contribution, you can optionally upload your logo (under 1MB and exactly 700×200 pixels). Choose “Yes, please include our logo” and upload the image file. Then click Submit to complete the process.\n\n\n\nStep 10: Upload Logo & Submit\n\n\n\nYour profile is now ready! You’ll receive a confirmation email and gain access to additional platform features.\n\n\n\n\nOnce onboarded, you’ll land in your Partner Dashboard. From here you can view:\n\nTotal projects\nApproved projects\nApplications received\n\nYou can also manage your profile, review applications, and extend offers using the navigation on the left.\n\n\n\nStep 11: Explore the Dashboard\n\n\n\nThis is your command center for participating in the Data Discovery program.",
+    "text": "This guide walks new partners through the account signup process on the DDMatch platform.",
     "crumbs": [
       "DD Match Platform Guide",
       "Creating a Partner Account"
@@ -94,8 +94,8 @@
     "objectID": "ddmatch/create-partner.html#step-1-signup",
     "href": "ddmatch/create-partner.html#step-1-signup",
     "title": "Creating a Partner Account",
-    "section": "",
-    "text": "Navigate to the homepage and click the “Partner Login” tab in the top menu.\n\n\n\nStep 1: Partner Signup\n\n\n\nThis will redirect you to the partner login portal where you can either create a new account or log in with your existing credentials.",
+    "section": "Step 1: Signup",
+    "text": "Step 1: Signup\nNavigate to the homepage and click the “Partner Login” tab in the top menu.\n\n\n\nStep 1: Partner Signup\n\n\n\nThis will redirect you to the partner login portal where you can either create a new account or log in with your existing credentials.",
     "crumbs": [
       "DD Match Platform Guide",
       "Creating a Partner Account"
@@ -105,8 +105,8 @@
     "objectID": "ddmatch/create-partner.html#step-2-click-signup",
     "href": "ddmatch/create-partner.html#step-2-click-signup",
     "title": "Creating a Partner Account",
-    "section": "",
-    "text": "On the login screen, locate the “Don’t have an account? Signup” link below the login button and click it.\n\n\n\nStep 2: Click Signup\n\n\n\nThis will redirect you to the registration form where you can create your new Partner account.",
+    "section": "Step 2: Click “Signup”",
+    "text": "Step 2: Click “Signup”\nOn the login screen, locate the “Don’t have an account? Signup” link below the login button and click it.\n\n\n\nStep 2: Click Signup\n\n\n\nThis will redirect you to the registration form where you can create your new Partner account.",
     "crumbs": [
       "DD Match Platform Guide",
       "Creating a Partner Account"
@@ -116,8 +116,8 @@
     "objectID": "ddmatch/create-partner.html#step-3-complete-the-signup-form",
     "href": "ddmatch/create-partner.html#step-3-complete-the-signup-form",
     "title": "Creating a Partner Account",
-    "section": "",
-    "text": "Enter your email address and choose a secure password that includes at least one lowercase letter, one uppercase letter, one number, and one special character. Confirm your password, then click “Signup”.\n\n\n\nStep 3: Complete the Signup Form\n\n\n\nOnce submitted, you will be prompted to verify your email before gaining access to your partner dashboard.",
+    "section": "Step 3: Complete the Signup Form",
+    "text": "Step 3: Complete the Signup Form\nEnter your email address and choose a secure password that includes at least one lowercase letter, one uppercase letter, one number, and one special character. Confirm your password, then click “Signup”.\n\n\n\nStep 3: Complete the Signup Form\n\n\n\nOnce submitted, you will be prompted to verify your email before gaining access to your partner dashboard.",
     "crumbs": [
       "DD Match Platform Guide",
       "Creating a Partner Account"
@@ -127,8 +127,8 @@
     "objectID": "ddmatch/create-partner.html#step-4-verify-your-email",
     "href": "ddmatch/create-partner.html#step-4-verify-your-email",
     "title": "Creating a Partner Account",
-    "section": "",
-    "text": "Check your inbox for a one-time password (OTP) sent to your registered email address. Enter the 6-digit code in the boxes provided, then click “Confirm”.\n\n\n\nStep 4: Email Verification\n\n\n\nIf you didn’t receive the OTP, click “Request new OTP” to resend the verification code.",
+    "section": "Step 4: Verify Your Email",
+    "text": "Step 4: Verify Your Email\nCheck your inbox for a one-time password (OTP) sent to your registered email address. Enter the 6-digit code in the boxes provided, then click “Confirm”.\n\n\n\nStep 4: Email Verification\n\n\n\nIf you didn’t receive the OTP, click “Request new OTP” to resend the verification code.",
     "crumbs": [
       "DD Match Platform Guide",
       "Creating a Partner Account"
@@ -138,8 +138,8 @@
     "objectID": "ddmatch/create-partner.html#step-5-login-to-your-account",
     "href": "ddmatch/create-partner.html#step-5-login-to-your-account",
     "title": "Creating a Partner Account",
-    "section": "",
-    "text": "Once your account has been verified, return to the Partner Login page. Enter your registered email and password, then click “Login” to access your dashboard.\n\n\n\nStep 5: Login to Your Account\n\n\n\nYou now have full access to your Partner Dashboard, where you can manage your profile, submit project proposals, and track student applications.",
+    "section": "Step 5: Login to Your Account",
+    "text": "Step 5: Login to Your Account\nOnce your account has been verified, return to the Partner Login page. Enter your registered email and password, then click “Login” to access your dashboard.\n\n\n\nStep 5: Login to Your Account\n\n\n\nYou now have full access to your Partner Dashboard, where you can manage your profile, submit project proposals, and track student applications.",
     "crumbs": [
       "DD Match Platform Guide",
       "Creating a Partner Account"
@@ -149,8 +149,8 @@
     "objectID": "ddmatch/create-partner.html#step-6-complete-partner-information",
     "href": "ddmatch/create-partner.html#step-6-complete-partner-information",
     "title": "Creating a Partner Account",
-    "section": "",
-    "text": "Upon first login, you’ll be asked to provide essential information. Enter your full name, email address, and your role in the organization. Click Next to continue through the remaining onboarding steps.\n\n\n\nStep 6: Complete Partner Information\n\n\n\nThis information helps the platform connect you with students and clarify your role in the research process.",
+    "section": "Step 6: Complete Partner Information",
+    "text": "Step 6: Complete Partner Information\nUpon first login, you’ll be asked to provide essential information. Enter your full name, email address, and your role in the organization. Click Next to continue through the remaining onboarding steps.\n\n\n\nStep 6: Complete Partner Information\n\n\n\nThis information helps the platform connect you with students and clarify your role in the research process.",
     "crumbs": [
       "DD Match Platform Guide",
       "Creating a Partner Account"
@@ -160,8 +160,8 @@
     "objectID": "ddmatch/create-partner.html#step-7-complete-partner-information-part-2",
     "href": "ddmatch/create-partner.html#step-7-complete-partner-information-part-2",
     "title": "Creating a Partner Account",
-    "section": "",
-    "text": "Continue filling in your organization details such as name, website, a short introduction, and select the appropriate sector for your organization (e.g., Private Industry, Non-Profit).\n\n\n\nStep 7: Complete Partner Information (Part 2)\n\n\n\nThese details will be displayed to students and help match your organization with the right candidates.",
+    "section": "Step 7: Complete Partner Information (Part 2)",
+    "text": "Step 7: Complete Partner Information (Part 2)\nContinue filling in your organization details such as name, website, a short introduction, and select the appropriate sector for your organization (e.g., Private Industry, Non-Profit).\n\n\n\nStep 7: Complete Partner Information (Part 2)\n\n\n\nThese details will be displayed to students and help match your organization with the right candidates.",
     "crumbs": [
       "DD Match Platform Guide",
       "Creating a Partner Account"
@@ -171,8 +171,8 @@
     "objectID": "ddmatch/create-partner.html#step-8-request-cloud-credits",
     "href": "ddmatch/create-partner.html#step-8-request-cloud-credits",
     "title": "Creating a Partner Account",
-    "section": "",
-    "text": "You will be asked whether your project would benefit from free cloud computing credits. These resources may include access to CDSS DataHub, NAIRR Infrastructure, UC Berkeley’s Savio cluster, OpenAI API, or Hugging Face models.\n\n\n\nStep 8: Request Cloud Credits\n\n\n\nSelect the most accurate response: Yes, No, or Maybe, then click Next to proceed.",
+    "section": "Step 8: Request Cloud Credits",
+    "text": "Step 8: Request Cloud Credits\nYou will be asked whether your project would benefit from free cloud computing credits. These resources may include access to CDSS DataHub, NAIRR Infrastructure, UC Berkeley’s Savio cluster, OpenAI API, or Hugging Face models.\n\n\n\nStep 8: Request Cloud Credits\n\n\n\nSelect the most accurate response: Yes, No, or Maybe, then click Next to proceed.",
     "crumbs": [
       "DD Match Platform Guide",
       "Creating a Partner Account"
@@ -182,8 +182,8 @@
     "objectID": "ddmatch/create-partner.html#step-9-commit-to-program-requirements",
     "href": "ddmatch/create-partner.html#step-9-commit-to-program-requirements",
     "title": "Creating a Partner Account",
-    "section": "",
-    "text": "You must confirm that you can meet the program’s expectations, including weekly meetings, evaluations, and support for student learning. Carefully read all the listed commitments before selecting your response.\n\n\n\nStep 9: Commit to Program Requirements\n\n\n\nSelect “Yes, I agree to commit to the requirements.” to proceed.",
+    "section": "Step 9: Commit to Program Requirements",
+    "text": "Step 9: Commit to Program Requirements\nYou must confirm that you can meet the program’s expectations, including weekly meetings, evaluations, and support for student learning. Carefully read all the listed commitments before selecting your response.\n\n\n\nStep 9: Commit to Program Requirements\n\n\n\nSelect “Yes, I agree to commit to the requirements.” to proceed.",
     "crumbs": [
       "DD Match Platform Guide",
       "Creating a Partner Account"
@@ -193,8 +193,8 @@
     "objectID": "ddmatch/create-partner.html#step-10-upload-your-logo-submit",
     "href": "ddmatch/create-partner.html#step-10-upload-your-logo-submit",
     "title": "Creating a Partner Account",
-    "section": "",
-    "text": "To acknowledge your institution’s contribution, you can optionally upload your logo (under 1MB and exactly 700×200 pixels). Choose “Yes, please include our logo” and upload the image file. Then click Submit to complete the process.\n\n\n\nStep 10: Upload Logo & Submit\n\n\n\nYour profile is now ready! You’ll receive a confirmation email and gain access to additional platform features.",
+    "section": "Step 10: Upload Your Logo & Submit",
+    "text": "Step 10: Upload Your Logo & Submit\nTo acknowledge your institution’s contribution, you can optionally upload your logo (under 1MB and exactly 700×200 pixels). Choose “Yes, please include our logo” and upload the image file. Then click Submit to complete the process.\n\n\n\nStep 10: Upload Logo & Submit\n\n\n\nYour profile is now ready! You’ll receive a confirmation email and gain access to additional platform features.",
     "crumbs": [
       "DD Match Platform Guide",
       "Creating a Partner Account"
@@ -204,8 +204,8 @@
     "objectID": "ddmatch/create-partner.html#step-11-explore-the-dashboard",
     "href": "ddmatch/create-partner.html#step-11-explore-the-dashboard",
     "title": "Creating a Partner Account",
-    "section": "",
-    "text": "Once onboarded, you’ll land in your Partner Dashboard. From here you can view:\n\nTotal projects\nApproved projects\nApplications received\n\nYou can also manage your profile, review applications, and extend offers using the navigation on the left.\n\n\n\nStep 11: Explore the Dashboard\n\n\n\nThis is your command center for participating in the Data Discovery program.",
+    "section": "Step 11: Explore the Dashboard",
+    "text": "Step 11: Explore the Dashboard\nOnce onboarded, you’ll land in your Partner Dashboard. From here you can view:\n\nTotal projects\nApproved projects\nApplications received\n\nYou can also manage your profile, review applications, and extend offers using the navigation on the left.\n\n\n\nStep 11: Explore the Dashboard\n\n\n\nThis is your command center for participating in the Data Discovery program.",
     "crumbs": [
       "DD Match Platform Guide",
       "Creating a Partner Account"
