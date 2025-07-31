@@ -128,7 +128,7 @@
     "href": "ddmatch/create-partner.html#step-4-verify-your-email",
     "title": "Creating a Partner Account",
     "section": "Step 4: Verify Your Email",
-    "text": "Step 4: Verify Your Email\nCheck your inbox for a one-time password (OTP) sent to your registered email address. Enter the 6-digit code in the boxes provided, then click “Confirm”.\n\n\n\nStep 4: Email Verification\n\n\n\nIf you didn’t receive the OTP, click “Request new OTP” to resend the verification code.",
+    "text": "Step 4: Verify Your Email\nCheck your inbox for a one-time password (OTP) sent to your registered email address. If you don’t see it, be sure to check your spam or junk folder. Enter the 6-digit code in the boxes provided, then click “Confirm”.\n\n\n\nStep 4: Email Verification\n\n\n\nIf you didn’t receive the OTP, click “Request new OTP” to resend the verification code.",
     "crumbs": [
       "DD Match Platform Guide",
       "Creating a Partner Account"
