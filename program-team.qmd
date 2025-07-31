@@ -6,20 +6,16 @@ title: "Program Team"
 
 :::{.columns .g-4}
 ::: {.column width="50%"}
-![](assets/george-obaido.jpg){fig-alt="Headshot of George Obaido" fig-caption=""}
-:::
-::: {.column width="50%"}
-![](assets/emily-remirez.jpg){fig-alt="Headshot of Emily Remirez" fig-caption=""}
-:::
-:::
+![](assets/george-obaido.jpg){fig-alt="Headshot of George Obaido" width=150}
 
-:::{.columns .g-4}
-::: {.column width="50%"}
 ### [George Obaido](https://cdss.berkeley.edu/discovery/program-team/george-obaido)
 **Research Program Director**  
 [gobaido@berkeley.edu](mailto:gobaido@berkeley.edu)
 :::
+
 ::: {.column width="50%"}
+![](assets/emily-remirez.jpg){fig-alt="Headshot of Emily Remirez" width=150}
+
 ### [Emily Remirez](https://cdss.berkeley.edu/discovery/program-team/emily/remirez)
 **Research Program Assistant Director**  
 [eremirez@berkeley.edu](mailto:eremirez@berkeley.edu)

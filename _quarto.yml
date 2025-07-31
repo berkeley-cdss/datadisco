@@ -9,11 +9,16 @@ website:
     style: docked
     logo: assets/CDSS_LOGO_NEW_FOOTER.svg
     contents:
-      - href: index.qmd
-      - href: get-involved.qmd
+      #- href: index.qmd
+      - href: welcome.qmd
+      - href: ddmatch.qmd
         contents:
-          - href: get-involved/student-researchers.qmd
-          - href: get-involved/partner.qmd
+          - href: ddmatch/create-partner.qmd
+          - href: ddmatch/create-project.qmd
+      # - href: get-involved.qmd
+       #  contents:
+       #    - href: get-involved/student-researchers.qmd
+        #   - href: get-involved/partner.qmd
       - href: program-team.qmd
 
 format:
