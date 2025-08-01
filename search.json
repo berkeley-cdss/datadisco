@@ -168,11 +168,11 @@
     ]
   },
   {
-    "objectID": "ddmatch/create-partner.html#step-8-request-cloud-credits",
-    "href": "ddmatch/create-partner.html#step-8-request-cloud-credits",
+    "objectID": "ddmatch/create-partner.html#step-8-request-computing-resources",
+    "href": "ddmatch/create-partner.html#step-8-request-computing-resources",
     "title": "Creating a Partner Account",
-    "section": "Step 8: Request Cloud Credits",
-    "text": "Step 8: Request Cloud Credits\nYou will be asked whether your project would benefit from free cloud computing credits. These resources may include access to CDSS DataHub, NAIRR Infrastructure, UC Berkeley’s Savio cluster, OpenAI API, or Hugging Face models.\n\n\n\nStep 8: Request Cloud Credits\n\n\n\nSelect the most accurate response: Yes, No, or Maybe, then click Next to proceed.",
+    "section": "Step 8: Request Computing Resources",
+    "text": "Step 8: Request Computing Resources\nYou will be asked whether your project requires access to our computing infrastructure, which may include the CDSS DataHub (powered by NAIRR) or UC Berkeley’s Savio cluster.\n\n\n\nStep 8: Request Cloud Credits\n\n\n\nSelect the most accurate response: Yes, No, or Maybe, then click Next to proceed.",
     "crumbs": [
       "DD Match Platform Guide",
       "Creating a Partner Account"
