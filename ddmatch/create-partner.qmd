@@ -64,9 +64,9 @@ Continue filling in your **organization details** such as name, website, a short
 > These details will be displayed to students and help match your organization with the right candidates.
 
 
-## Step 8: Request Cloud Credits
+## Step 8: Request Computing Resources
 
-You will be asked whether your project would benefit from free cloud computing credits. These resources may include access to CDSS DataHub, NAIRR Infrastructure, UC Berkeley’s Savio cluster, OpenAI API, or Hugging Face models.
+You will be asked whether your project requires access to our computing infrastructure, which may include the CDSS DataHub (powered by NAIRR) or UC Berkeley’s Savio cluster.
 
 ![Step 8: Request Cloud Credits](/assets/step8.png)
 
