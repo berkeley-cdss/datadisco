@@ -1,51 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://datadisco.cdss.berkeley.edu/get-involved/student-researchers.html</loc>
-    <lastmod>2025-08-05T04:00:13.534Z</lastmod>
-  </url>
-  <url>
     <loc>https://datadisco.cdss.berkeley.edu/ddmatch.html</loc>
-    <lastmod>2025-08-05T04:00:13.534Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datadisco.cdss.berkeley.edu/welcome.html</loc>
-    <lastmod>2025-08-05T04:00:13.535Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datadisco.cdss.berkeley.edu/walkthrough.html</loc>
-    <lastmod>2025-08-05T04:00:13.535Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datadisco.cdss.berkeley.edu/ddmatch/create-partner.html</loc>
-    <lastmod>2025-08-05T04:00:13.534Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datadisco.cdss.berkeley.edu/ddmatch/create-student.html</loc>
-    <lastmod>2025-08-05T04:00:13.534Z</lastmod>
+    <lastmod>2025-08-12T02:05:40.746Z</lastmod>
   </url>
   <url>
     <loc>https://datadisco.cdss.berkeley.edu/get-involved.html</loc>
-    <lastmod>2025-08-05T04:00:13.534Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datadisco.cdss.berkeley.edu/ddmatch/apply-project.html</loc>
-    <lastmod>2025-08-05T04:00:13.534Z</lastmod>
+    <lastmod>2025-08-12T02:05:40.746Z</lastmod>
   </url>
   <url>
     <loc>https://datadisco.cdss.berkeley.edu/ddmatch/create-project.html</loc>
-    <lastmod>2025-08-05T04:00:13.534Z</lastmod>
+    <lastmod>2025-08-12T02:05:40.746Z</lastmod>
   </url>
   <url>
-    <loc>https://datadisco.cdss.berkeley.edu/program-team.html</loc>
-    <lastmod>2025-08-05T04:00:13.535Z</lastmod>
+    <loc>https://datadisco.cdss.berkeley.edu/ddmatch/apply-project.html</loc>
+    <lastmod>2025-08-12T02:05:40.746Z</lastmod>
   </url>
   <url>
-    <loc>https://datadisco.cdss.berkeley.edu/index.html</loc>
-    <lastmod>2025-08-05T04:00:13.534Z</lastmod>
+    <loc>https://datadisco.cdss.berkeley.edu/ddmatch/extend-offer.html</loc>
+    <lastmod>2025-08-12T02:05:40.746Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datadisco.cdss.berkeley.edu/welcome.html</loc>
+    <lastmod>2025-08-12T02:05:40.747Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datadisco.cdss.berkeley.edu/walkthrough.html</loc>
+    <lastmod>2025-08-12T02:05:40.747Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datadisco.cdss.berkeley.edu/get-involved/student-researchers.html</loc>
+    <lastmod>2025-08-12T02:05:40.747Z</lastmod>
   </url>
   <url>
     <loc>https://datadisco.cdss.berkeley.edu/get-involved/partner.html</loc>
-    <lastmod>2025-08-05T04:00:13.534Z</lastmod>
+    <lastmod>2025-08-12T02:05:40.747Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datadisco.cdss.berkeley.edu/program-team.html</loc>
+    <lastmod>2025-08-12T02:05:40.747Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datadisco.cdss.berkeley.edu/ddmatch/list-offer.html</loc>
+    <lastmod>2025-08-12T02:05:40.746Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datadisco.cdss.berkeley.edu/ddmatch/create-partner.html</loc>
+    <lastmod>2025-08-12T02:05:40.746Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datadisco.cdss.berkeley.edu/ddmatch/create-student.html</loc>
+    <lastmod>2025-08-12T02:05:40.746Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datadisco.cdss.berkeley.edu/ddmatch/review-offer.html</loc>
+    <lastmod>2025-08-12T02:05:40.746Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datadisco.cdss.berkeley.edu/index.html</loc>
+    <lastmod>2025-08-12T02:05:40.747Z</lastmod>
   </url>
 </urlset>

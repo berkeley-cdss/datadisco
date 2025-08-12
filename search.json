@@ -1,40 +1,5 @@
 [
   {
-    "objectID": "get-involved/student-researchers.html",
-    "href": "get-involved/student-researchers.html",
-    "title": "Student Researchers",
-    "section": "",
-    "text": "Discovery project applications for Spring 2025 are now closed. See Guidelines and Deadlines below.\nThe application has closed.\nAs a Discovery participant, you’ll work with a team of students and partners in academia, industry, government, or nonprofit to address cutting edge problems in data science."
-  },
-  {
-    "objectID": "get-involved/student-researchers.html#program-guidelines",
-    "href": "get-involved/student-researchers.html#program-guidelines",
-    "title": "Student Researchers",
-    "section": "Program Guidelines",
-    "text": "Program Guidelines\nWe have documented our full program guidelines."
-  },
-  {
-    "objectID": "get-involved/student-researchers.html#deadlines",
-    "href": "get-involved/student-researchers.html#deadlines",
-    "title": "Student Researchers",
-    "section": "Deadlines",
-    "text": "Deadlines\n\nApplications open: January 14. Begin reading the project descriptions and preparing your application(s).\nPriority deadline: January 20. Get your application in by the priority deadline to have the most competitive application! Partners may form teams before the extended deadline closes.\nExtended deadline: January 24. Take advantage of the extended deadline if you can’t make the priority deadline or want to apply to additional projects!\nEnroll: January 31. Partners will submit their teams to us, and you’ll confirm the selection by submitting the commitment form and enrolling in CDSS 198."
-  },
-  {
-    "objectID": "get-involved/student-researchers.html#requirements",
-    "href": "get-involved/student-researchers.html#requirements",
-    "title": "Student Researchers",
-    "section": "Requirements",
-    "text": "Requirements\n\nWho can participate: Any UC Berkeley undergraduate and masters students enrolled in any in-person program.\nOne project: Students may participate in one Discovery project per semester, even if they are selected for more than one.\nTeamwork: Students work in teams, including developing expectations for the team with the mentor.\nEnrollment: Students enroll in the CDSS Discovery course (CDSS 198), which offers variable units on a P/NP basis. This course includes required activities and homework, including attending several workshops.\nFinal project: A poster summarizing the research to be presented at the Discovery Symposium during RRR week."
-  },
-  {
-    "objectID": "get-involved/student-researchers.html#application",
-    "href": "get-involved/student-researchers.html#application",
-    "title": "Student Researchers",
-    "section": "Application",
-    "text": "Application\n\nMax applications: You may apply for up to 10 projects (you may participate in only one).\nQuestions: Submit the form responding to these questions for each project you want to apply to, using the link in the project description. Refer to the specific instructions in the description for each project, and address all relevant details for a complete application. See the guide for the list of questions in the application.\nTips: See the guidelines for tips on how to choose projects to apply to, prepare your application, and prepare your resume."
-  },
-  {
     "objectID": "ddmatch.html",
     "href": "ddmatch.html",
     "title": "DD Match Platform Guide",
@@ -42,6 +7,234 @@
     "text": "Welcome to the Data Discovery Match Platform. This guide will walk you through how to use the platform whether you are a Project Partner or Student Researcher. You’ll learn how to sign up, submit projects, apply, and manage submissions.",
     "crumbs": [
       "DD Match Platform Guide"
+    ]
+  },
+  {
+    "objectID": "get-involved.html",
+    "href": "get-involved.html",
+    "title": "Get Involved",
+    "section": "",
+    "text": "The Data Discovery Program connects undergraduates with hands-on, team-based opportunities in cutting-edge research projects at UC Berkeley, government agencies, community groups, and entrepreneurial ventures."
+  },
+  {
+    "objectID": "get-involved.html#for-student-researchers",
+    "href": "get-involved.html#for-student-researchers",
+    "title": "Get Involved",
+    "section": "For Student Researchers",
+    "text": "For Student Researchers\nStudent Researchers can apply to projects of their interest and work in teams throughout the semester on a research or social impact project under the guidance of a project mentor. Student Researchers earn academic units as they complete their project with their team. Discovery offers workshops throughout the semester to support students on their projects.\nLearn more for Student Researchers"
+  },
+  {
+    "objectID": "get-involved.html#for-research-partners",
+    "href": "get-involved.html#for-research-partners",
+    "title": "Get Involved",
+    "section": "For Research Partners",
+    "text": "For Research Partners\nDiscovery is dedicated to providing top-notch data science, computer science, and statistics capacity to our project partners while also fostering a unique learning environment for our students. Project partners should design projects so that a team of students can be engaged over the course of a single or multiple semesters (a semester is about 12 weeks of work). Projects should include a strong data component, and a dataset must be available by the start of the semester. Project partners can oversee multiple projects.\nLearn more for Research Partners"
+  },
+  {
+    "objectID": "ddmatch/create-project.html",
+    "href": "ddmatch/create-project.html",
+    "title": "Creating a Partner’s Project",
+    "section": "",
+    "text": "This guide walks partners through the steps required to successfully submit a project on the DD Match platform.",
+    "crumbs": [
+      "For Project Partners",
+      "Creating a Partner's Project"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-project.html#step-1-navigate-to-the-projects-tab",
+    "href": "ddmatch/create-project.html#step-1-navigate-to-the-projects-tab",
+    "title": "Creating a Partner’s Project",
+    "section": "Step 1: Navigate to the Projects Tab",
+    "text": "Step 1: Navigate to the Projects Tab\nOnce logged in, click the “Projects” tab on the left-hand menu. Then click the “Create Project” button on the top-right corner.\n\n\n\nStep 1: Navigate to Projects",
+    "crumbs": [
+      "For Project Partners",
+      "Creating a Partner's Project"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-project.html#step-2-add-basic-project-information",
+    "href": "ddmatch/create-project.html#step-2-add-basic-project-information",
+    "title": "Creating a Partner’s Project",
+    "section": "Step 2: Add Basic Project Information",
+    "text": "Step 2: Add Basic Project Information\nEnter your Project Title, a short Project Overview, upload a banner image (under 1MB, 700×200px), and provide your Name and Email.\n\n\n\nStep 2: Basic Info",
+    "crumbs": [
+      "For Project Partners",
+      "Creating a Partner's Project"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-project.html#step-3-choose-categories",
+    "href": "ddmatch/create-project.html#step-3-choose-categories",
+    "title": "Creating a Partner’s Project",
+    "section": "Step 3: Choose Categories",
+    "text": "Step 3: Choose Categories\nSelect the primary and secondary label that best categorize your project (e.g., Environment, Engineering, Public Policy, etc.).\n\n\n\nStep 3: Project Categories",
+    "crumbs": [
+      "For Project Partners",
+      "Creating a Partner's Project"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-project.html#step-4-define-deliverables",
+    "href": "ddmatch/create-project.html#step-4-define-deliverables",
+    "title": "Creating a Partner’s Project",
+    "section": "Step 4: Define Deliverables",
+    "text": "Step 4: Define Deliverables\nDescribe the tangible outcomes students will produce over the semester. Include things like reports, dashboards, models, or presentations.\n\n\n\nStep 4: Deliverables",
+    "crumbs": [
+      "For Project Partners",
+      "Creating a Partner's Project"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-project.html#step-5-project-scope",
+    "href": "ddmatch/create-project.html#step-5-project-scope",
+    "title": "Creating a Partner’s Project",
+    "section": "Step 5: Project Scope",
+    "text": "Step 5: Project Scope\nIndicate whether this is a new or continuing project, and provide a link to any related materials (website, deck, prior semester project).\n\n\n\nStep 5: Project Continuation Info",
+    "crumbs": [
+      "For Project Partners",
+      "Creating a Partner's Project"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-project.html#step-6-dataset-description",
+    "href": "ddmatch/create-project.html#step-6-dataset-description",
+    "title": "Creating a Partner’s Project",
+    "section": "Step 6: Dataset Description",
+    "text": "Step 6: Dataset Description\nDescribe the type, size, and structure of your dataset. Include whether it’s observational, spatial, time-series, etc., and note if students will need to collect it.\n\n\n\nStep 6: Dataset Details",
+    "crumbs": [
+      "For Project Partners",
+      "Creating a Partner's Project"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-project.html#step-7-skills-students-will-develop",
+    "href": "ddmatch/create-project.html#step-7-skills-students-will-develop",
+    "title": "Creating a Partner’s Project",
+    "section": "Step 7: Skills Students Will Develop",
+    "text": "Step 7: Skills Students Will Develop\nCheck the skills students will learn through this project (e.g., EDA, NLP, ML, data visualization).\n\n\n\nStep 7: Student Skill Development",
+    "crumbs": [
+      "For Project Partners",
+      "Creating a Partner's Project"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-project.html#step-8-technical-requirements",
+    "href": "ddmatch/create-project.html#step-8-technical-requirements",
+    "title": "Creating a Partner’s Project",
+    "section": "Step 8: Technical Requirements",
+    "text": "Step 8: Technical Requirements\nSpecify which skills or tools students should be familiar with (e.g., Python, SQL, Tableau, Hugging Face, AWS). Also add any helpful background knowledge.\n\n\n\nStep 8: Technical Expectations",
+    "crumbs": [
+      "For Project Partners",
+      "Creating a Partner's Project"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-project.html#step-9-final-review-and-submit",
+    "href": "ddmatch/create-project.html#step-9-final-review-and-submit",
+    "title": "Creating a Partner’s Project",
+    "section": "Step 9: Final Review and Submit",
+    "text": "Step 9: Final Review and Submit\nReview your inputs and click Submit to publish your project to the platform. Students will now be able to view and apply.\n\n\n\nStep 9: Submit Project\n\n\n\n✅ Congratulations! Your project has been successfully submitted for consideration and will undergo review by the Data Discovery Program Team. Please await further communication regarding the status of your submission.\n\n\nOnce approved, your project will appear in the student-facing portal, where eligible students can apply to join your team. In the meantime, you may return to your dashboard to monitor progress, update project details, or manage your profile.\n\n\nIf you have any questions, feel free to contact cdss-datadiscovery@berkeley.edu.",
+    "crumbs": [
+      "For Project Partners",
+      "Creating a Partner's Project"
+    ]
+  },
+  {
+    "objectID": "ddmatch/apply-project.html",
+    "href": "ddmatch/apply-project.html",
+    "title": "Apply to Projects",
+    "section": "",
+    "text": "Go to the Project Database. Use Keyword, Category, or Topic filters (optional), then click a project card to open details.\n\n\n\nStep 1: Apply to project from homepage"
+  },
+  {
+    "objectID": "ddmatch/apply-project.html#step-1-find-a-project-on-the-homepage",
+    "href": "ddmatch/apply-project.html#step-1-find-a-project-on-the-homepage",
+    "title": "Apply to Projects",
+    "section": "",
+    "text": "Go to the Project Database. Use Keyword, Category, or Topic filters (optional), then click a project card to open details.\n\n\n\nStep 1: Apply to project from homepage"
+  },
+  {
+    "objectID": "ddmatch/apply-project.html#step-2-review-the-project-and-start-your-application",
+    "href": "ddmatch/apply-project.html#step-2-review-the-project-and-start-your-application",
+    "title": "Apply to Projects",
+    "section": "Step 2: Review the project and start your application",
+    "text": "Step 2: Review the project and start your application\nRead the full description (organization, goals, data, skills). When ready, click Apply to project at the bottom.\n\n\n\nStep 2: Review project & click Apply"
+  },
+  {
+    "objectID": "ddmatch/apply-project.html#step-3-skills-experience-page-1",
+    "href": "ddmatch/apply-project.html#step-3-skills-experience-page-1",
+    "title": "Apply to Projects",
+    "section": "Step 3: Skills & Experience (Page 1)",
+    "text": "Step 3: Skills & Experience (Page 1)\nWhen you first created an account, you may have have uploaded a resume. You can view the file, or upload your resume if needed. Optionally, add a portfolio/GitHub link, indicate your experience levels in Python, R, and SQL, select any completed courses, and describe relevant experience. Click Next.\n\n\n\nStep 3: Skills & Experience"
+  },
+  {
+    "objectID": "ddmatch/apply-project.html#step-4-short-essays-page-2",
+    "href": "ddmatch/apply-project.html#step-4-short-essays-page-2",
+    "title": "Apply to Projects",
+    "section": "Step 4: Short essays (Page 2)",
+    "text": "Step 4: Short essays (Page 2)\nAnswer the two short prompts about your preparation and goals for this project (max ~250 words each). Click Next.\n\n\n\nStep 4: Short Essays"
+  },
+  {
+    "objectID": "ddmatch/apply-project.html#step-5-confirm-agreements-submit-page-3",
+    "href": "ddmatch/apply-project.html#step-5-confirm-agreements-submit-page-3",
+    "title": "Apply to Projects",
+    "section": "Step 5: Confirm agreements & submit (Page 3)",
+    "text": "Step 5: Confirm agreements & submit (Page 3)\nAcknowledge course enrollment and the project partnership agreement, then click Submit to send your application.\n\n\n\nStep 5: Confirm & Submit"
+  },
+  {
+    "objectID": "ddmatch/extend-offer.html",
+    "href": "ddmatch/extend-offer.html",
+    "title": "Extend an Offer",
+    "section": "",
+    "text": "From your Dashboard, go to Applications. Select the candidate’s row, then click the More options (⋯) menu on the far right.\n\n\n\nStep 1: Open Applications",
+    "crumbs": [
+      "For Project Partners",
+      "Extend an Offer"
+    ]
+  },
+  {
+    "objectID": "ddmatch/extend-offer.html#step-1-open-applications",
+    "href": "ddmatch/extend-offer.html#step-1-open-applications",
+    "title": "Extend an Offer",
+    "section": "",
+    "text": "From your Dashboard, go to Applications. Select the candidate’s row, then click the More options (⋯) menu on the far right.\n\n\n\nStep 1: Open Applications",
+    "crumbs": [
+      "For Project Partners",
+      "Extend an Offer"
+    ]
+  },
+  {
+    "objectID": "ddmatch/extend-offer.html#step-2-choose-extend-offer",
+    "href": "ddmatch/extend-offer.html#step-2-choose-extend-offer",
+    "title": "Extend an Offer",
+    "section": "Step 2: Choose “Extend Offer”",
+    "text": "Step 2: Choose “Extend Offer”\nWith the candidate selected, open the More options (⋯) menu and click Extend Offer.\n\n\n\nStep 2: Choose Extend Offer",
+    "crumbs": [
+      "For Project Partners",
+      "Extend an Offer"
+    ]
+  },
+  {
+    "objectID": "ddmatch/extend-offer.html#step-3-confirm-the-offer",
+    "href": "ddmatch/extend-offer.html#step-3-confirm-the-offer",
+    "title": "Extend an Offer",
+    "section": "Step 3: Confirm the offer",
+    "text": "Step 3: Confirm the offer\nA confirmation dialog will appear. Click Confirm to send the offer to the student (or Cancel to go back).\n\n\n\nStep 3: Confirm the offer",
+    "crumbs": [
+      "For Project Partners",
+      "Extend an Offer"
+    ]
+  },
+  {
+    "objectID": "ddmatch/extend-offer.html#step-4-mark-as-interested-optional",
+    "href": "ddmatch/extend-offer.html#step-4-mark-as-interested-optional",
+    "title": "Extend an Offer",
+    "section": "Step 4: Mark as Interested (optional)",
+    "text": "Step 4: Mark as Interested (optional)\nYou can also mark the student as Interested to track promising candidates while you finalize decisions.\n\n\n\nStep 4: Mark as Interested",
+    "crumbs": [
+      "For Project Partners",
+      "Extend an Offer"
     ]
   },
   {
@@ -80,266 +273,78 @@
     "text": "Equation\nUse LaTeX to write equations:\n\\[\n\\chi' = \\sum_{i=1}^n k_i s_i^2\n\\]"
   },
   {
-    "objectID": "ddmatch/create-partner.html",
-    "href": "ddmatch/create-partner.html",
-    "title": "Creating a Partner Account",
+    "objectID": "get-involved/student-researchers.html",
+    "href": "get-involved/student-researchers.html",
+    "title": "For Student Researchers",
     "section": "",
-    "text": "This guide walks new partners through the account signup process on the DDMatch platform.",
-    "crumbs": [
-      "DD Match Platform Guide",
-      "Creating a Partner Account"
-    ]
+    "text": "As a Data Discovery student researcher, you’ll work on a team with a project mentor, using data to understand real-world problems. Through the associated Data Discovery course, you’ll earn course credit for your work on the project and develop professional skills to support your progress."
   },
   {
-    "objectID": "ddmatch/create-partner.html#step-1-signup",
-    "href": "ddmatch/create-partner.html#step-1-signup",
-    "title": "Creating a Partner Account",
-    "section": "Step 1: Signup",
-    "text": "Step 1: Signup\nNavigate to the homepage and click the “Partner Login” tab in the top menu.\n\n\n\nStep 1: Partner Signup\n\n\n\nThis will redirect you to the partner login portal where you can either create a new account or log in with your existing credentials.",
-    "crumbs": [
-      "DD Match Platform Guide",
-      "Creating a Partner Account"
-    ]
-  },
-  {
-    "objectID": "ddmatch/create-partner.html#step-2-click-signup",
-    "href": "ddmatch/create-partner.html#step-2-click-signup",
-    "title": "Creating a Partner Account",
-    "section": "Step 2: Click “Signup”",
-    "text": "Step 2: Click “Signup”\nOn the login screen, locate the “Don’t have an account? Signup” link below the login button and click it.\n\n\n\nStep 2: Click Signup\n\n\n\nThis will redirect you to the registration form where you can create your new Partner account.",
-    "crumbs": [
-      "DD Match Platform Guide",
-      "Creating a Partner Account"
-    ]
-  },
-  {
-    "objectID": "ddmatch/create-partner.html#step-3-complete-the-signup-form",
-    "href": "ddmatch/create-partner.html#step-3-complete-the-signup-form",
-    "title": "Creating a Partner Account",
-    "section": "Step 3: Complete the Signup Form",
-    "text": "Step 3: Complete the Signup Form\nEnter your email address and choose a secure password that includes at least one lowercase letter, one uppercase letter, one number, and one special character. Confirm your password, then click “Signup”.\n\n\n\nStep 3: Complete the Signup Form\n\n\n\nOnce submitted, you will be prompted to verify your email before gaining access to your partner dashboard.",
-    "crumbs": [
-      "DD Match Platform Guide",
-      "Creating a Partner Account"
-    ]
-  },
-  {
-    "objectID": "ddmatch/create-partner.html#step-4-verify-your-email",
-    "href": "ddmatch/create-partner.html#step-4-verify-your-email",
-    "title": "Creating a Partner Account",
-    "section": "Step 4: Verify Your Email",
-    "text": "Step 4: Verify Your Email\nCheck your inbox for a one-time password (OTP) sent to your registered email address. If you don’t see it, be sure to check your spam or junk folder. Enter the 6-digit code in the boxes provided, then click “Confirm”.\n\n\n\nStep 4: Email Verification\n\n\n\nIf you didn’t receive the OTP, click “Request new OTP” to resend the verification code.",
-    "crumbs": [
-      "DD Match Platform Guide",
-      "Creating a Partner Account"
-    ]
-  },
-  {
-    "objectID": "ddmatch/create-partner.html#step-5-login-to-your-account",
-    "href": "ddmatch/create-partner.html#step-5-login-to-your-account",
-    "title": "Creating a Partner Account",
-    "section": "Step 5: Login to Your Account",
-    "text": "Step 5: Login to Your Account\nOnce your account has been verified, return to the Partner Login page. Enter your registered email and password, then click “Login” to access your dashboard.\n\n\n\nStep 5: Login to Your Account\n\n\n\nYou now have full access to your Partner Dashboard, where you can manage your profile, submit project proposals, and track student applications.",
-    "crumbs": [
-      "DD Match Platform Guide",
-      "Creating a Partner Account"
-    ]
-  },
-  {
-    "objectID": "ddmatch/create-partner.html#step-6-complete-partner-information",
-    "href": "ddmatch/create-partner.html#step-6-complete-partner-information",
-    "title": "Creating a Partner Account",
-    "section": "Step 6: Complete Partner Information",
-    "text": "Step 6: Complete Partner Information\nUpon first login, you’ll be asked to provide essential information. Enter your full name, email address, and your role in the organization. Click Next to continue through the remaining onboarding steps.\n\n\n\nStep 6: Complete Partner Information\n\n\n\nThis information helps the platform connect you with students and clarify your role in the research process.",
-    "crumbs": [
-      "DD Match Platform Guide",
-      "Creating a Partner Account"
-    ]
-  },
-  {
-    "objectID": "ddmatch/create-partner.html#step-7-complete-partner-information-part-2",
-    "href": "ddmatch/create-partner.html#step-7-complete-partner-information-part-2",
-    "title": "Creating a Partner Account",
-    "section": "Step 7: Complete Partner Information (Part 2)",
-    "text": "Step 7: Complete Partner Information (Part 2)\nContinue filling in your organization details such as name, website, a short introduction, and select the appropriate sector for your organization (e.g., Private Industry, Non-Profit).\n\n\n\nStep 7: Complete Partner Information (Part 2)\n\n\n\nThese details will be displayed to students and help match your organization with the right candidates.",
-    "crumbs": [
-      "DD Match Platform Guide",
-      "Creating a Partner Account"
-    ]
-  },
-  {
-    "objectID": "ddmatch/create-partner.html#step-8-request-computing-resources",
-    "href": "ddmatch/create-partner.html#step-8-request-computing-resources",
-    "title": "Creating a Partner Account",
-    "section": "Step 8: Request Computing Resources",
-    "text": "Step 8: Request Computing Resources\nYou will be asked whether your project requires access to our computing infrastructure, which may include the CDSS DataHub (powered by NAIRR) or UC Berkeley’s Savio cluster.\n\n\n\nStep 8: Request Cloud Credits\n\n\n\nSelect the most accurate response: Yes, No, or Maybe, then click Next to proceed.",
-    "crumbs": [
-      "DD Match Platform Guide",
-      "Creating a Partner Account"
-    ]
-  },
-  {
-    "objectID": "ddmatch/create-partner.html#step-9-commit-to-program-requirements",
-    "href": "ddmatch/create-partner.html#step-9-commit-to-program-requirements",
-    "title": "Creating a Partner Account",
-    "section": "Step 9: Commit to Program Requirements",
-    "text": "Step 9: Commit to Program Requirements\nYou must confirm that you can meet the program’s expectations, including weekly meetings, evaluations, and support for student learning. Carefully read all the listed commitments before selecting your response.\n\n\n\nStep 9: Commit to Program Requirements\n\n\n\nSelect “Yes, I agree to commit to the requirements.” to proceed.",
-    "crumbs": [
-      "DD Match Platform Guide",
-      "Creating a Partner Account"
-    ]
-  },
-  {
-    "objectID": "ddmatch/create-partner.html#step-10-upload-your-logo-submit",
-    "href": "ddmatch/create-partner.html#step-10-upload-your-logo-submit",
-    "title": "Creating a Partner Account",
-    "section": "Step 10: Upload Your Logo & Submit",
-    "text": "Step 10: Upload Your Logo & Submit\nTo acknowledge your institution’s contribution, you can optionally upload your logo (under 1MB and exactly 700×200 pixels). Choose “Yes, please include our logo” and upload the image file. Then click Submit to complete the process.\n\n\n\nStep 10: Upload Logo & Submit\n\n\n\nYour profile is now ready! You’ll receive a confirmation email and gain access to additional platform features.",
-    "crumbs": [
-      "DD Match Platform Guide",
-      "Creating a Partner Account"
-    ]
-  },
-  {
-    "objectID": "ddmatch/create-partner.html#step-11-explore-the-dashboard",
-    "href": "ddmatch/create-partner.html#step-11-explore-the-dashboard",
-    "title": "Creating a Partner Account",
-    "section": "Step 11: Explore the Dashboard",
-    "text": "Step 11: Explore the Dashboard\nOnce onboarded, you’ll land in your Partner Dashboard. From here you can view:\n\nTotal projects\nApproved projects\nApplications received\n\nYou can also manage your profile, review applications, and extend offers using the navigation on the left.\n\n\n\nStep 11: Explore the Dashboard\n\n\n\nThis is your command center for participating in the Data Discovery program.",
-    "crumbs": [
-      "DD Match Platform Guide",
-      "Creating a Partner Account"
-    ]
-  },
-  {
-    "objectID": "get-involved.html",
-    "href": "get-involved.html",
-    "title": "Get Involved",
+    "objectID": "get-involved/student-researchers.html#overview",
+    "href": "get-involved/student-researchers.html#overview",
+    "title": "For Student Researchers",
     "section": "",
-    "text": "The Data Discovery Program connects undergraduates with hands-on, team-based opportunities in cutting-edge research projects at UC Berkeley, government agencies, community groups, and entrepreneurial ventures."
+    "text": "As a Data Discovery student researcher, you’ll work on a team with a project mentor, using data to understand real-world problems. Through the associated Data Discovery course, you’ll earn course credit for your work on the project and develop professional skills to support your progress."
   },
   {
-    "objectID": "get-involved.html#for-student-researchers",
-    "href": "get-involved.html#for-student-researchers",
-    "title": "Get Involved",
-    "section": "For Student Researchers",
-    "text": "For Student Researchers\nStudent Researchers can apply to projects of their interest and work in teams throughout the semester on a research or social impact project under the guidance of a project mentor. Student Researchers earn academic units as they complete their project with their team. Discovery offers workshops throughout the semester to support students on their projects.\nLearn more for Student Researchers"
+    "objectID": "get-involved/student-researchers.html#timeline",
+    "href": "get-involved/student-researchers.html#timeline",
+    "title": "For Student Researchers",
+    "section": "Timeline",
+    "text": "Timeline\nExact program deadlines vary by semester. Typically, Data Discovery applications open to students about 2 weeks before instruction begins. For the most competitive application, apply by the priority deadline, about 1 week before classes start. The application closes during the first week of class. Most project mentors will schedule an interview before making an offer. You can add yourself to the Data Discovery course waitlist once you’ve scheduled an interview. If you accept an offer, you’ll be moved from the waitlist and admitted to the course. Work on the project will end during the last week of class, with a final presentation during RRR week.\n\nFall 2025 Deadlines\n\nDDMatch student application portal opens: August 11. Begin reading the project descriptions and preparing your application(s).\nPriority deadline: August 18. Get your application in by the priority deadline (11:59pm) to have the most competitive application. Partners may form teams before the extended deadline closes.\nExtended deadline: August 27. Take advantage of the extended deadline if you can’t make the priority deadline or want to apply to additional projects.\nTeam formation: September 3. Decisions are expected by September 3.\nFirst day of class: September 8. The first Data Discovery course meeting will be Monday, September 8, 3-5 pm. All participants should plan to attend."
   },
   {
-    "objectID": "get-involved.html#for-research-partners",
-    "href": "get-involved.html#for-research-partners",
-    "title": "Get Involved",
-    "section": "For Research Partners",
-    "text": "For Research Partners\nDiscovery is dedicated to providing top-notch data science, computer science, and statistics capacity to our project partners while also fostering a unique learning environment for our students. Project partners should design projects so that a team of students can be engaged over the course of a single or multiple semesters (a semester is about 12 weeks of work). Projects should include a strong data component, and a dataset must be available by the start of the semester. Project partners can oversee multiple projects.\nLearn more for Research Partners"
+    "objectID": "get-involved/student-researchers.html#requirements",
+    "href": "get-involved/student-researchers.html#requirements",
+    "title": "For Student Researchers",
+    "section": "Requirements",
+    "text": "Requirements\n\nWho can participate: Any UC Berkeley undergraduate and masters students enrolled in any in-person program.\nOne project: Students may participate in one Data Discovery project per semester, even if they are selected for more than one.\nTeamwork: Students work in teams, including developing expectations for the team with the mentor.\nCourse enrollment: Students will enroll in the Data Discovery course for 3 or 4 units. The course includes a dedicated team meeting time alongside guest lectures and group discussions to build professional skills.\nFinal project: A poster summarizing the research to be presented at the Data Discovery Symposium during RRR week."
   },
   {
-    "objectID": "ddmatch/create-project.html",
-    "href": "ddmatch/create-project.html",
-    "title": "Creating a Partner’s Project",
+    "objectID": "get-involved/student-researchers.html#application",
+    "href": "get-involved/student-researchers.html#application",
+    "title": "For Student Researchers",
+    "section": "Application",
+    "text": "Application\n\nMax applications: You may apply for up to 10 projects (you may participate in only one).\nQuestions: Submit the form responding to these questions for each project you want to apply to, using the link in the project description. Refer to the specific instructions in the description for each project, and address all relevant details for a complete application. See the guide for the list of questions in the application. ““”"
+  },
+  {
+    "objectID": "get-involved/partner.html",
+    "href": "get-involved/partner.html",
+    "title": "For Project Partners",
     "section": "",
-    "text": "This guide walks partners through the steps required to successfully submit a project on the DD Match platform.",
+    "text": "Since 2015, the Data Discovery Program has helped incubate and accelerate research for over 1,000 partner projects. We do this by connecting projects with talented student teams along with project management and technical infrastructure support.\nWe welcome all academic institutions, non-profits, government agencies, and industry to partner with us.",
     "crumbs": [
-      "DD Match Platform Guide",
-      "Creating a Partner's Project"
+      "For Project Partners"
     ]
   },
   {
-    "objectID": "ddmatch/create-project.html#step-1-navigate-to-the-projects-tab",
-    "href": "ddmatch/create-project.html#step-1-navigate-to-the-projects-tab",
-    "title": "Creating a Partner’s Project",
-    "section": "Step 1: Navigate to the Projects Tab",
-    "text": "Step 1: Navigate to the Projects Tab\nOnce logged in, click the “Projects” tab on the left-hand menu. Then click the “Create Project” button on the top-right corner.\n\n\n\nStep 1: Navigate to Projects",
+    "objectID": "get-involved/partner.html#program-overview",
+    "href": "get-involved/partner.html#program-overview",
+    "title": "For Project Partners",
+    "section": "",
+    "text": "Since 2015, the Data Discovery Program has helped incubate and accelerate research for over 1,000 partner projects. We do this by connecting projects with talented student teams along with project management and technical infrastructure support.\nWe welcome all academic institutions, non-profits, government agencies, and industry to partner with us.",
     "crumbs": [
-      "DD Match Platform Guide",
-      "Creating a Partner's Project"
+      "For Project Partners"
     ]
   },
   {
-    "objectID": "ddmatch/create-project.html#step-2-add-basic-project-information",
-    "href": "ddmatch/create-project.html#step-2-add-basic-project-information",
-    "title": "Creating a Partner’s Project",
-    "section": "Step 2: Add Basic Project Information",
-    "text": "Step 2: Add Basic Project Information\nEnter your Project Title, a short Project Overview, upload a banner image (under 1MB, 700×200px), and provide your Name and Email.\n\n\n\nStep 2: Basic Info",
+    "objectID": "get-involved/partner.html#timeline",
+    "href": "get-involved/partner.html#timeline",
+    "title": "For Project Partners",
+    "section": "Timeline",
+    "text": "Timeline\nExact program deadlines follow UC Berkeley’s academic calendar and will vary by term. Proposals can be submitted beginning in early August or January, with students applying in the following weeks.\n\nAll student applications received by their priority deadline will be released for your review the following morning.\nThe student application portal will remain open, with new submissions visible immediately.\nMost partners choose to interview students before forming their team.\nYou can expect about 12 weeks of work time on your project each semester.\nStudents will present their work at a symposium in early December or May.",
     "crumbs": [
-      "DD Match Platform Guide",
-      "Creating a Partner's Project"
+      "For Project Partners"
     ]
   },
   {
-    "objectID": "ddmatch/create-project.html#step-3-choose-categories",
-    "href": "ddmatch/create-project.html#step-3-choose-categories",
-    "title": "Creating a Partner’s Project",
-    "section": "Step 3: Choose Categories",
-    "text": "Step 3: Choose Categories\nSelect the primary and secondary label that best categorize your project (e.g., Environment, Engineering, Public Policy, etc.).\n\n\n\nStep 3: Project Categories",
+    "objectID": "get-involved/partner.html#fall-2025-dates",
+    "href": "get-involved/partner.html#fall-2025-dates",
+    "title": "For Project Partners",
+    "section": "Fall 2025 Dates",
+    "text": "Fall 2025 Dates\n\nDDMatch partner portal opens: August 1\nThe portal will open for you to begin submitting project proposals. Your proposal will be reviewed by Data Discovery staff before being posted, and we may ask you for more information.\nPriority project description deadline: August 7\nSubmit your project description by the priority deadline to ensure it’s visible to students when their portal opens. This will provide the highest visibility for your project.\nFinal project description deadline: August 18\nNo project descriptions will be accepted after the final deadline.\nStudent applications viewable: August 19\nThe first round of student applications will be released to you the morning after the student priority deadline, and you can begin scheduling interviews with students. Any new submissions to your project will be visible automatically.\nStudent application closes: August 27\nYou can close your project before the final student deadline if you’ve selected your student team.\nDeadline for team selection: September 3\nPlease extend all offers by the deadline for a prompt start to the program. ““”",
     "crumbs": [
-      "DD Match Platform Guide",
-      "Creating a Partner's Project"
-    ]
-  },
-  {
-    "objectID": "ddmatch/create-project.html#step-4-define-deliverables",
-    "href": "ddmatch/create-project.html#step-4-define-deliverables",
-    "title": "Creating a Partner’s Project",
-    "section": "Step 4: Define Deliverables",
-    "text": "Step 4: Define Deliverables\nDescribe the tangible outcomes students will produce over the semester. Include things like reports, dashboards, models, or presentations.\n\n\n\nStep 4: Deliverables",
-    "crumbs": [
-      "DD Match Platform Guide",
-      "Creating a Partner's Project"
-    ]
-  },
-  {
-    "objectID": "ddmatch/create-project.html#step-5-project-scope",
-    "href": "ddmatch/create-project.html#step-5-project-scope",
-    "title": "Creating a Partner’s Project",
-    "section": "Step 5: Project Scope",
-    "text": "Step 5: Project Scope\nIndicate whether this is a new or continuing project, and provide a link to any related materials (website, deck, prior semester project).\n\n\n\nStep 5: Project Continuation Info",
-    "crumbs": [
-      "DD Match Platform Guide",
-      "Creating a Partner's Project"
-    ]
-  },
-  {
-    "objectID": "ddmatch/create-project.html#step-6-dataset-description",
-    "href": "ddmatch/create-project.html#step-6-dataset-description",
-    "title": "Creating a Partner’s Project",
-    "section": "Step 6: Dataset Description",
-    "text": "Step 6: Dataset Description\nDescribe the type, size, and structure of your dataset. Include whether it’s observational, spatial, time-series, etc., and note if students will need to collect it.\n\n\n\nStep 6: Dataset Details",
-    "crumbs": [
-      "DD Match Platform Guide",
-      "Creating a Partner's Project"
-    ]
-  },
-  {
-    "objectID": "ddmatch/create-project.html#step-7-skills-students-will-develop",
-    "href": "ddmatch/create-project.html#step-7-skills-students-will-develop",
-    "title": "Creating a Partner’s Project",
-    "section": "Step 7: Skills Students Will Develop",
-    "text": "Step 7: Skills Students Will Develop\nCheck the skills students will learn through this project (e.g., EDA, NLP, ML, data visualization).\n\n\n\nStep 7: Student Skill Development",
-    "crumbs": [
-      "DD Match Platform Guide",
-      "Creating a Partner's Project"
-    ]
-  },
-  {
-    "objectID": "ddmatch/create-project.html#step-8-technical-requirements",
-    "href": "ddmatch/create-project.html#step-8-technical-requirements",
-    "title": "Creating a Partner’s Project",
-    "section": "Step 8: Technical Requirements",
-    "text": "Step 8: Technical Requirements\nSpecify which skills or tools students should be familiar with (e.g., Python, SQL, Tableau, Hugging Face, AWS). Also add any helpful background knowledge.\n\n\n\nStep 8: Technical Expectations",
-    "crumbs": [
-      "DD Match Platform Guide",
-      "Creating a Partner's Project"
-    ]
-  },
-  {
-    "objectID": "ddmatch/create-project.html#step-9-final-review-and-submit",
-    "href": "ddmatch/create-project.html#step-9-final-review-and-submit",
-    "title": "Creating a Partner’s Project",
-    "section": "Step 9: Final Review and Submit",
-    "text": "Step 9: Final Review and Submit\nReview your inputs and click Submit to publish your project to the platform. Students will now be able to view and apply.\n\n\n\nStep 9: Submit Project\n\n\n\n✅ Congratulations! Your project has been successfully submitted for consideration and will undergo review by the Data Discovery Program Team. Please await further communication regarding the status of your submission.\n\n\nOnce approved, your project will appear in the student-facing portal, where eligible students can apply to join your team. In the meantime, you may return to your dashboard to monitor progress, update project details, or manage your profile.\n\n\nIf you have any questions, feel free to contact cdss-datadiscovery@berkeley.edu.",
-    "crumbs": [
-      "DD Match Platform Guide",
-      "Creating a Partner's Project"
+      "For Project Partners"
     ]
   },
   {
@@ -363,6 +368,290 @@
     ]
   },
   {
+    "objectID": "ddmatch/list-offer.html",
+    "href": "ddmatch/list-offer.html",
+    "title": "View Accepted Offers",
+    "section": "",
+    "text": "Go to the Extended Offers tab to see a list of students who have received offers for your projects. The table shows the Project Title, Student Name, Student Email/ID, and the current Status (e.g., Accepted). Use Filters or Export if needed.\n\n\n\nAccepted offers list",
+    "crumbs": [
+      "For Project Partners",
+      "View Accepted Offers"
+    ]
+  },
+  {
+    "objectID": "ddmatch/list-offer.html#step-review-your-accepted-offers",
+    "href": "ddmatch/list-offer.html#step-review-your-accepted-offers",
+    "title": "View Accepted Offers",
+    "section": "",
+    "text": "Go to the Extended Offers tab to see a list of students who have received offers for your projects. The table shows the Project Title, Student Name, Student Email/ID, and the current Status (e.g., Accepted). Use Filters or Export if needed.\n\n\n\nAccepted offers list",
+    "crumbs": [
+      "For Project Partners",
+      "View Accepted Offers"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-partner.html",
+    "href": "ddmatch/create-partner.html",
+    "title": "Creating a Partner Account",
+    "section": "",
+    "text": "This guide walks new partners through the account signup process on the DDMatch platform.",
+    "crumbs": [
+      "For Project Partners",
+      "Creating a Partner Account"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-partner.html#step-1-signup",
+    "href": "ddmatch/create-partner.html#step-1-signup",
+    "title": "Creating a Partner Account",
+    "section": "Step 1: Signup",
+    "text": "Step 1: Signup\nNavigate to the homepage and click the “Partner Login” tab in the top menu.\n\n\n\nStep 1: Partner Signup\n\n\n\nThis will redirect you to the partner login portal where you can either create a new account or log in with your existing credentials.",
+    "crumbs": [
+      "For Project Partners",
+      "Creating a Partner Account"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-partner.html#step-2-click-signup",
+    "href": "ddmatch/create-partner.html#step-2-click-signup",
+    "title": "Creating a Partner Account",
+    "section": "Step 2: Click “Signup”",
+    "text": "Step 2: Click “Signup”\nOn the login screen, locate the “Don’t have an account? Signup” link below the login button and click it.\n\n\n\nStep 2: Click Signup\n\n\n\nThis will redirect you to the registration form where you can create your new Partner account.",
+    "crumbs": [
+      "For Project Partners",
+      "Creating a Partner Account"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-partner.html#step-3-complete-the-signup-form",
+    "href": "ddmatch/create-partner.html#step-3-complete-the-signup-form",
+    "title": "Creating a Partner Account",
+    "section": "Step 3: Complete the Signup Form",
+    "text": "Step 3: Complete the Signup Form\nEnter your email address and choose a secure password that includes at least one lowercase letter, one uppercase letter, one number, and one special character. Confirm your password, then click “Signup”.\n\n\n\nStep 3: Complete the Signup Form\n\n\n\nOnce submitted, you will be prompted to verify your email before gaining access to your partner dashboard.",
+    "crumbs": [
+      "For Project Partners",
+      "Creating a Partner Account"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-partner.html#step-4-verify-your-email",
+    "href": "ddmatch/create-partner.html#step-4-verify-your-email",
+    "title": "Creating a Partner Account",
+    "section": "Step 4: Verify Your Email",
+    "text": "Step 4: Verify Your Email\nCheck your inbox for a one-time password (OTP) sent to your registered email address. If you don’t see it, be sure to check your spam or junk folder. Enter the 6-digit code in the boxes provided, then click “Confirm”.\n\n\n\nStep 4: Email Verification\n\n\n\nIf you didn’t receive the OTP, click “Request new OTP” to resend the verification code.",
+    "crumbs": [
+      "For Project Partners",
+      "Creating a Partner Account"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-partner.html#step-5-login-to-your-account",
+    "href": "ddmatch/create-partner.html#step-5-login-to-your-account",
+    "title": "Creating a Partner Account",
+    "section": "Step 5: Login to Your Account",
+    "text": "Step 5: Login to Your Account\nOnce your account has been verified, return to the Partner Login page. Enter your registered email and password, then click “Login” to access your dashboard.\n\n\n\nStep 5: Login to Your Account\n\n\n\nYou now have full access to your Partner Dashboard, where you can manage your profile, submit project proposals, and track student applications.",
+    "crumbs": [
+      "For Project Partners",
+      "Creating a Partner Account"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-partner.html#step-6-complete-partner-information",
+    "href": "ddmatch/create-partner.html#step-6-complete-partner-information",
+    "title": "Creating a Partner Account",
+    "section": "Step 6: Complete Partner Information",
+    "text": "Step 6: Complete Partner Information\nUpon first login, you’ll be asked to provide essential information. Enter your full name, email address, and your role in the organization. Click Next to continue through the remaining onboarding steps.\n\n\n\nStep 6: Complete Partner Information\n\n\n\nThis information helps the platform connect you with students and clarify your role in the research process.",
+    "crumbs": [
+      "For Project Partners",
+      "Creating a Partner Account"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-partner.html#step-7-complete-partner-information-part-2",
+    "href": "ddmatch/create-partner.html#step-7-complete-partner-information-part-2",
+    "title": "Creating a Partner Account",
+    "section": "Step 7: Complete Partner Information (Part 2)",
+    "text": "Step 7: Complete Partner Information (Part 2)\nContinue filling in your organization details such as name, website, a short introduction, and select the appropriate sector for your organization (e.g., Private Industry, Non-Profit).\n\n\n\nStep 7: Complete Partner Information (Part 2)\n\n\n\nThese details will be displayed to students and help match your organization with the right candidates.",
+    "crumbs": [
+      "For Project Partners",
+      "Creating a Partner Account"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-partner.html#step-8-request-computing-resources",
+    "href": "ddmatch/create-partner.html#step-8-request-computing-resources",
+    "title": "Creating a Partner Account",
+    "section": "Step 8: Request Computing Resources",
+    "text": "Step 8: Request Computing Resources\nYou will be asked whether your project requires access to our computing infrastructure, which may include the CDSS DataHub (powered by NAIRR) or UC Berkeley’s Savio cluster.\n\n\n\nStep 8: Request Cloud Credits\n\n\n\nSelect the most accurate response: Yes, No, or Maybe, then click Next to proceed.",
+    "crumbs": [
+      "For Project Partners",
+      "Creating a Partner Account"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-partner.html#step-9-commit-to-program-requirements",
+    "href": "ddmatch/create-partner.html#step-9-commit-to-program-requirements",
+    "title": "Creating a Partner Account",
+    "section": "Step 9: Commit to Program Requirements",
+    "text": "Step 9: Commit to Program Requirements\nYou must confirm that you can meet the program’s expectations, including weekly meetings, evaluations, and support for student learning. Carefully read all the listed commitments before selecting your response.\n\n\n\nStep 9: Commit to Program Requirements\n\n\n\nSelect “Yes, I agree to commit to the requirements.” to proceed.",
+    "crumbs": [
+      "For Project Partners",
+      "Creating a Partner Account"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-partner.html#step-10-upload-your-logo-submit",
+    "href": "ddmatch/create-partner.html#step-10-upload-your-logo-submit",
+    "title": "Creating a Partner Account",
+    "section": "Step 10: Upload Your Logo & Submit",
+    "text": "Step 10: Upload Your Logo & Submit\nTo acknowledge your institution’s contribution, you can optionally upload your logo (under 1MB and exactly 700×200 pixels). Choose “Yes, please include our logo” and upload the image file. Then click Submit to complete the process.\n\n\n\nStep 10: Upload Logo & Submit\n\n\n\nYour profile is now ready! You’ll receive a confirmation email and gain access to additional platform features.",
+    "crumbs": [
+      "For Project Partners",
+      "Creating a Partner Account"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-partner.html#step-11-explore-the-dashboard",
+    "href": "ddmatch/create-partner.html#step-11-explore-the-dashboard",
+    "title": "Creating a Partner Account",
+    "section": "Step 11: Explore the Dashboard",
+    "text": "Step 11: Explore the Dashboard\nOnce onboarded, you’ll land in your Partner Dashboard. From here you can view:\n\nTotal projects\nApproved projects\nApplications received\n\nYou can also manage your profile, review applications, and extend offers using the navigation on the left.\n\n\n\nStep 11: Explore the Dashboard\n\n\n\nThis is your command center for participating in the Data Discovery program.",
+    "crumbs": [
+      "For Project Partners",
+      "Creating a Partner Account"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-student.html",
+    "href": "ddmatch/create-student.html",
+    "title": "Create a Student Account",
+    "section": "",
+    "text": "Navigate to the homepage and click the “Student Login” tab in the top menu.\n\n\n\nStep 1: Student Login",
+    "crumbs": [
+      "Create a Student Account"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-student.html#step-1-open-student-login",
+    "href": "ddmatch/create-student.html#step-1-open-student-login",
+    "title": "Create a Student Account",
+    "section": "",
+    "text": "Navigate to the homepage and click the “Student Login” tab in the top menu.\n\n\n\nStep 1: Student Login",
+    "crumbs": [
+      "Create a Student Account"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-student.html#step-2-go-to-signup",
+    "href": "ddmatch/create-student.html#step-2-go-to-signup",
+    "title": "Create a Student Account",
+    "section": "Step 2: Go to Signup",
+    "text": "Step 2: Go to Signup\nOn the Student Login page, click “Signup” at the bottom.\n\n\n\nStep 2: Click Signup",
+    "crumbs": [
+      "Create a Student Account"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-student.html#step-3-create-your-account",
+    "href": "ddmatch/create-student.html#step-3-create-your-account",
+    "title": "Create a Student Account",
+    "section": "Step 3: Create Your Account",
+    "text": "Step 3: Create Your Account\nEnter your @berkeley.edu email address, create a password, confirm it, and click Signup.\n\n\n\nStep 3: Create Account",
+    "crumbs": [
+      "Create a Student Account"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-student.html#step-4-verify-your-email-otp",
+    "href": "ddmatch/create-student.html#step-4-verify-your-email-otp",
+    "title": "Create a Student Account",
+    "section": "Step 4: Verify Your Email (OTP)",
+    "text": "Step 4: Verify Your Email (OTP)\nCheck your inbox for a one-time password (OTP) sent to your registered email address.\nIf you don’t see it, please check your spam or junk folder. Enter the 6-digit code and click Confirm.\n\n\n\nStep 4: Enter OTP",
+    "crumbs": [
+      "Create a Student Account"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-student.html#step-5-start-student-profile",
+    "href": "ddmatch/create-student.html#step-5-start-student-profile",
+    "title": "Create a Student Account",
+    "section": "Step 5: Start Student Profile",
+    "text": "Step 5: Start Student Profile\nAfter verification, you’ll be taken to the Student Information form. Review the instructions and begin filling out your details.\n\n\n\nStep 5: Student Information – Start",
+    "crumbs": [
+      "Create a Student Account"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-student.html#step-6-complete-student-information",
+    "href": "ddmatch/create-student.html#step-6-complete-student-information",
+    "title": "Create a Student Account",
+    "section": "Step 6: Complete Student Information",
+    "text": "Step 6: Complete Student Information\nProvide your first/last name, preferred name, email, UID, major/minor(s), graduation year, and upload your resume. Click Submit to save.\n\n\n\nStep 6: Student Information – Submit",
+    "crumbs": [
+      "Create a Student Account"
+    ]
+  },
+  {
+    "objectID": "ddmatch/create-student.html#step-7-access-your-dashboard",
+    "href": "ddmatch/create-student.html#step-7-access-your-dashboard",
+    "title": "Create a Student Account",
+    "section": "Step 7: Access Your Dashboard",
+    "text": "Step 7: Access Your Dashboard\nYou’ll be taken to your Student Dashboard, where you can view and manage your applications (including viewing application lists and making edits), offers, and profile.\n\n\n\nStep 7: Student Dashboard",
+    "crumbs": [
+      "Create a Student Account"
+    ]
+  },
+  {
+    "objectID": "ddmatch/review-offer.html",
+    "href": "ddmatch/review-offer.html",
+    "title": "Respond to an Offer",
+    "section": "",
+    "text": "From the left sidebar, click Offers to see all offers you’ve received.\n\n\n\nStep 1: Open Offers",
+    "crumbs": [
+      "Respond to an Offer"
+    ]
+  },
+  {
+    "objectID": "ddmatch/review-offer.html#step-1-open-the-offers-page",
+    "href": "ddmatch/review-offer.html#step-1-open-the-offers-page",
+    "title": "Respond to an Offer",
+    "section": "",
+    "text": "From the left sidebar, click Offers to see all offers you’ve received.\n\n\n\nStep 1: Open Offers",
+    "crumbs": [
+      "Respond to an Offer"
+    ]
+  },
+  {
+    "objectID": "ddmatch/review-offer.html#step-2-choose-accept",
+    "href": "ddmatch/review-offer.html#step-2-choose-accept",
+    "title": "Respond to an Offer",
+    "section": "Step 2: Choose Accept",
+    "text": "Step 2: Choose Accept\nFind the offer you want to accept. Click the ⋯ (More options) menu at the far right of the row, then select Accept.\n\n\n\nStep 2: More options → Accept",
+    "crumbs": [
+      "Respond to an Offer"
+    ]
+  },
+  {
+    "objectID": "ddmatch/review-offer.html#step-3-confirm",
+    "href": "ddmatch/review-offer.html#step-3-confirm",
+    "title": "Respond to an Offer",
+    "section": "Step 3: Confirm",
+    "text": "Step 3: Confirm\nIn the confirmation dialog, click Confirm to finalize your decision.\n\n\n\nStep 3: Confirm acceptance",
+    "crumbs": [
+      "Respond to an Offer"
+    ]
+  },
+  {
+    "objectID": "ddmatch/review-offer.html#important-notes",
+    "href": "ddmatch/review-offer.html#important-notes",
+    "title": "Respond to an Offer",
+    "section": "Important Notes",
+    "text": "Important Notes\n\nYou have 48 hours to respond to an offer. Please ensure you reply promptly to avoid missing the opportunity.\nOnce you accept an offer, your decision is final — you cannot change it later.\nIf you do not wish to proceed, select Decline instead within the same 48-hour window.\n\n\n\nWhat happens next?\n\nThe offer’s Status will change from Pending to Accepted.\nYou and the mentor will receive a confirmation email.",
+    "crumbs": [
+      "Respond to an Offer"
+    ]
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome",
@@ -371,33 +660,5 @@
     "crumbs": [
       "Welcome"
     ]
-  },
-  {
-    "objectID": "get-involved/partner.html",
-    "href": "get-involved/partner.html",
-    "title": "Partner With Us",
-    "section": "",
-    "text": "Discovery Partner applications for Spring 2025 are now open!\n\nApplication deadline: January 10, 2025, 11:59 PM\nApplication Form (Closed)\n\nSince 2015, the Discovery Program has helped incubate and accelerate research for over 1,000 partner projects by connecting projects with talented student teams, project management, and technical infrastructure support. We welcome all academic institutions, non-profits, government agencies, and industry to partner with us.\n\n\nFor specific inquiries about our program, please email us at ds-discovery@berkeley.edu. We are happy to provide more details for you.\n\n\n\nDiscovery partners and students can request cloud computing credits. We offer several options and resources for cloud computing, including Savio, UC Berkeley’s Linux cluster with high-speed, low-latency networking and a high-speed parallel file system for high performance computing.\n\n\n\n    \n\n\n\n\n\n\n\nWhat types of organizations have we partnered with? What have been some of our past projects?\n\nWe have partnered with academic institutions, non-profits, government agencies, and industry. Past projects span a wide range of domains and impact areas.\n\nWhat resources are available to project partners? Why is it beneficial to project partners to participate in this program?\n\nPartners receive support from talented student teams, project management, and technical infrastructure. Participation provides access to innovative solutions and a pipeline of skilled talent.\n\nDoes the Discovery Program work closely with any other Data Science Department programs?\n\nYes, the program collaborates with other Data Science Department initiatives.\n\nWho has the intellectual property rights to the research projects?\n\nIntellectual property rights are typically retained by the partner organization, but specific arrangements can be discussed.\n\nAre there specific legal documents we need to create or sign? How will we ensure data security?\n\nLegal and data security requirements are addressed on a case-by-case basis to ensure compliance and protection.\n\nOur organization does not have the capacity to take on a partnership this semester. When is the next available opportunity?\n\nNew opportunities are available each semester.\n\nI haven’t heard back from the students I accepted. What does this mean?\n\nPlease contact the program for updates if you have not received communication from your selected students.\n\n\n\n\n\n\nDo we have to interview students?\n\nInterviews are encouraged but not required.\n\nWhat is the time commitment for project partners?\n\nPartners should expect to engage with their student teams regularly throughout the semester.\n\nHow many people from our organization are needed for these project(s)?\n\nAt least one primary contact is required, but more are welcome.\n\nHow can we get aid in handling technical and logistical project challenges?\n\nThe program provides support and resources to help address challenges.\n\nWhat is the Discovery Showcase? Do partners have to attend?\n\nThe Discovery Showcase is an end-of-semester event where projects are presented. Partner attendance is encouraged.\n\n\n\n\n\n\nAre students expected to be paid? If so, is the Discovery program responsible or the project partners?\n\nStudents are not required to be paid; if compensation is offered, it is the responsibility of the partner.\n\nHow many students should we select?\n\nThe number of students per project varies; guidance is provided during the application process.\n\nWhat types of students are applying to partner projects?\n\nApplicants include undergraduates and master’s students from diverse backgrounds.\n\nWhat is the skill level of applicants?\n\nStudents have a range of skills in data science, computer science, and related fields.\n\n\n\n\n\n\nHow long do projects run?\n\nProjects typically run for one semester (about 12 weeks).\n\nWhen should we finish interviewing students?\n\nInterviews should be completed before the semester begins.\n\n\n\n\n\n\nHow do I work around logistical and data security challenges as a governmental agency?\n\nThe program team will work with you to address any unique requirements or challenges."
-  },
-  {
-    "objectID": "get-involved/partner.html#contact-us",
-    "href": "get-involved/partner.html#contact-us",
-    "title": "Partner With Us",
-    "section": "",
-    "text": "For specific inquiries about our program, please email us at ds-discovery@berkeley.edu. We are happy to provide more details for you."
-  },
-  {
-    "objectID": "get-involved/partner.html#cloud-computing-resources",
-    "href": "get-involved/partner.html#cloud-computing-resources",
-    "title": "Partner With Us",
-    "section": "",
-    "text": "Discovery partners and students can request cloud computing credits. We offer several options and resources for cloud computing, including Savio, UC Berkeley’s Linux cluster with high-speed, low-latency networking and a high-speed parallel file system for high performance computing."
-  },
-  {
-    "objectID": "get-involved/partner.html#frequently-asked-questions-faqs",
-    "href": "get-involved/partner.html#frequently-asked-questions-faqs",
-    "title": "Partner With Us",
-    "section": "",
-    "text": "What types of organizations have we partnered with? What have been some of our past projects?\n\nWe have partnered with academic institutions, non-profits, government agencies, and industry. Past projects span a wide range of domains and impact areas.\n\nWhat resources are available to project partners? Why is it beneficial to project partners to participate in this program?\n\nPartners receive support from talented student teams, project management, and technical infrastructure. Participation provides access to innovative solutions and a pipeline of skilled talent.\n\nDoes the Discovery Program work closely with any other Data Science Department programs?\n\nYes, the program collaborates with other Data Science Department initiatives.\n\nWho has the intellectual property rights to the research projects?\n\nIntellectual property rights are typically retained by the partner organization, but specific arrangements can be discussed.\n\nAre there specific legal documents we need to create or sign? How will we ensure data security?\n\nLegal and data security requirements are addressed on a case-by-case basis to ensure compliance and protection.\n\nOur organization does not have the capacity to take on a partnership this semester. When is the next available opportunity?\n\nNew opportunities are available each semester.\n\nI haven’t heard back from the students I accepted. What does this mean?\n\nPlease contact the program for updates if you have not received communication from your selected students.\n\n\n\n\n\n\nDo we have to interview students?\n\nInterviews are encouraged but not required.\n\nWhat is the time commitment for project partners?\n\nPartners should expect to engage with their student teams regularly throughout the semester.\n\nHow many people from our organization are needed for these project(s)?\n\nAt least one primary contact is required, but more are welcome.\n\nHow can we get aid in handling technical and logistical project challenges?\n\nThe program provides support and resources to help address challenges.\n\nWhat is the Discovery Showcase? Do partners have to attend?\n\nThe Discovery Showcase is an end-of-semester event where projects are presented. Partner attendance is encouraged.\n\n\n\n\n\n\nAre students expected to be paid? If so, is the Discovery program responsible or the project partners?\n\nStudents are not required to be paid; if compensation is offered, it is the responsibility of the partner.\n\nHow many students should we select?\n\nThe number of students per project varies; guidance is provided during the application process.\n\nWhat types of students are applying to partner projects?\n\nApplicants include undergraduates and master’s students from diverse backgrounds.\n\nWhat is the skill level of applicants?\n\nStudents have a range of skills in data science, computer science, and related fields.\n\n\n\n\n\n\nHow long do projects run?\n\nProjects typically run for one semester (about 12 weeks).\n\nWhen should we finish interviewing students?\n\nInterviews should be completed before the semester begins.\n\n\n\n\n\n\nHow do I work around logistical and data security challenges as a governmental agency?\n\nThe program team will work with you to address any unique requirements or challenges."
   }
 ]
