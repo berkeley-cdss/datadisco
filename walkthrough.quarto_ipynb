@@ -21,7 +21,7 @@
         "\n",
         "Here is a Python code cell:"
       ],
-      "id": "a328378b"
+      "id": "d9171acd"
     },
     {
       "cell_type": "code",
@@ -30,7 +30,7 @@
         "import os\n",
         "os.cpu_count()"
       ],
-      "id": "0d8196e7",
+      "id": "e8793d38",
       "execution_count": null,
       "outputs": []
     },
@@ -46,7 +46,7 @@
         "\\chi' = \\sum_{i=1}^n k_i s_i^2\n",
         "$$"
       ],
-      "id": "2b125726"
+      "id": "6d9d965d"
     }
   ],
   "metadata": {

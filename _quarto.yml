@@ -18,7 +18,7 @@ website:
           - href: ddmatch/create-project.qmd
           - href: ddmatch/extend-offer.qmd
           - href: ddmatch/list-offer.qmd
-      - href: get-involved/student-researcher.qmd
+      - href: get-involved/student-researchers.qmd
         contents:
           - href: ddmatch/create-student.qmd
           - href: ddmatch/review-offer.qmd
