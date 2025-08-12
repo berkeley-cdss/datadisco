@@ -1,80 +1,45 @@
 ---
-title: "Partner With Us"
+title: "For Project Partners"
+format: html
 ---
 
-# Research Partners
+## Program Overview
 
-Discovery Partner applications for Spring 2025 are now open!
+Since 2015, the **Data Discovery Program** has helped incubate and accelerate research for over 1,000 partner projects. We do this by connecting projects with talented student teams along with project management and technical infrastructure support. 
 
-- **Application deadline:** January 10, 2025, 11:59 PM
-- [Application Form (Closed)](https://docs.google.com/forms/d/e/1FAIpQLSfh15pC3nUlW9p5o7vYNtj5KLyCBM40s7qtgjhv85nofY-53w/viewform)
-
-Since 2015, the Discovery Program has helped incubate and accelerate research for over 1,000 partner projects by connecting projects with talented student teams, project management, and technical infrastructure support. We welcome all academic institutions, non-profits, government agencies, and industry to partner with us.
-
-## Contact Us
-
-For specific inquiries about our program, please email us at [ds-discovery@berkeley.edu](mailto:ds-discovery@berkeley.edu). We are happy to provide more details for you.
-
-## Cloud Computing Resources
-
-Discovery partners and students can request cloud computing credits. We offer several options and resources for cloud computing, including Savio, UC Berkeley's Linux cluster with high-speed, low-latency networking and a high-speed parallel file system for high performance computing.
-
-## Some of Our Partners
-
-![AMERICAN_HEART_ASSOCIATION](https://cdss.berkeley.edu/sites/default/files/2022-02/AMERICAN_HEART_ASSOCIATION.jpg)
-![BART](https://cdss.berkeley.edu/sites/default/files/2022-02/BART_0.jpg)
-![NASA](https://cdss.berkeley.edu/sites/default/files/2022-02/NASA.jpg)
-![MICROSOFT](https://cdss.berkeley.edu/sites/default/files/2022-02/MICROSOFT.jpg)
-![UCSF](https://cdss.berkeley.edu/sites/default/files/2022-02/UCSF.jpg)
+We welcome all academic institutions, non-profits, government agencies, and industry to partner with us.
 
 ---
 
-## Frequently Asked Questions (FAQs)
+## Timeline
 
-### Project Logistics
-- **What types of organizations have we partnered with? What have been some of our past projects?**
-  - We have partnered with academic institutions, non-profits, government agencies, and industry. Past projects span a wide range of domains and impact areas.
-- **What resources are available to project partners? Why is it beneficial to project partners to participate in this program?**
-  - Partners receive support from talented student teams, project management, and technical infrastructure. Participation provides access to innovative solutions and a pipeline of skilled talent.
-- **Does the Discovery Program work closely with any other Data Science Department programs?**
-  - Yes, the program collaborates with other Data Science Department initiatives.
-- **Who has the intellectual property rights to the research projects?**
-  - Intellectual property rights are typically retained by the partner organization, but specific arrangements can be discussed.
-- **Are there specific legal documents we need to create or sign? How will we ensure data security?**
-  - Legal and data security requirements are addressed on a case-by-case basis to ensure compliance and protection.
-- **Our organization does not have the capacity to take on a partnership this semester. When is the next available opportunity?**
-  - New opportunities are available each semester.
-- **I haven’t heard back from the students I accepted. What does this mean?**
-  - Please contact the program for updates if you have not received communication from your selected students.
+Exact program deadlines follow UC Berkeley’s academic calendar and will vary by term. Proposals can be submitted beginning in early **August** or **January**, with students applying in the following weeks. 
 
-### Partner Commitment
-- **Do we have to interview students?**
-  - Interviews are encouraged but not required.
-- **What is the time commitment for project partners?**
-  - Partners should expect to engage with their student teams regularly throughout the semester.
-- **How many people from our organization are needed for these project(s)?**
-  - At least one primary contact is required, but more are welcome.
-- **How can we get aid in handling technical and logistical project challenges?**
-  - The program provides support and resources to help address challenges.
-- **What is the Discovery Showcase? Do partners have to attend?**
-  - The Discovery Showcase is an end-of-semester event where projects are presented. Partner attendance is encouraged.
+- All student applications received by their **priority deadline** will be released for your review the following morning.
+- The student application portal will remain open, with new submissions visible immediately.
+- Most partners choose to interview students before forming their team.
+- You can expect about **12 weeks** of work time on your project each semester.
+- Students will present their work at a symposium in **early December** or **May**.
 
-### Student “Interns”
-- **Are students expected to be paid? If so, is the Discovery program responsible or the project partners?**
-  - Students are not required to be paid; if compensation is offered, it is the responsibility of the partner.
-- **How many students should we select?**
-  - The number of students per project varies; guidance is provided during the application process.
-- **What types of students are applying to partner projects?**
-  - Applicants include undergraduates and master’s students from diverse backgrounds.
-- **What is the skill level of applicants?**
-  - Students have a range of skills in data science, computer science, and related fields.
+---
 
-### Timeline
-- **How long do projects run?**
-  - Projects typically run for one semester (about 12 weeks).
-- **When should we finish interviewing students?**
-  - Interviews should be completed before the semester begins.
+## Fall 2025 Dates
 
-### Navigating Government Agency Partnerships
-- **How do I work around logistical and data security challenges as a governmental agency?**
-  - The program team will work with you to address any unique requirements or challenges.
+- **DDMatch partner portal opens**: *August 1*  
+  The portal will open for you to begin submitting project proposals. Your proposal will be reviewed by Data Discovery staff before being posted, and we may ask you for more information.
+
+- **Priority project description deadline**: *August 7*  
+  Submit your project description by the priority deadline to ensure it's visible to students when their portal opens. This will provide the highest visibility for your project.
+
+- **Final project description deadline**: *August 18*  
+  No project descriptions will be accepted after the final deadline.
+
+- **Student applications viewable**: *August 19*  
+  The first round of student applications will be released to you the morning after the student priority deadline, and you can begin scheduling interviews with students. Any new submissions to your project will be visible automatically.
+
+- **Student application closes**: *August 27*  
+  You can close your project before the final student deadline if you've selected your student team.
+
+- **Deadline for team selection**: *September 3*  
+  Please extend all offers by the deadline for a prompt start to the program.
+"""

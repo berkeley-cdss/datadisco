@@ -1,0 +1,52 @@
+---
+title: "Create a Student Account"
+---
+
+## Step 1: Open Student Login
+Navigate to the homepage and click the **"Student Login"** tab in the top menu.
+
+![Step 1: Student Login](/assets/create1.png)
+
+---
+
+## Step 2: Go to Signup
+On the Student Login page, click **“Signup”** at the bottom.
+
+![Step 2: Click Signup](/assets/create2.png)
+
+---
+
+## Step 3: Create Your Account
+Enter your **@berkeley.edu** email address, create a **password**, confirm it, and click **Signup**.
+
+![Step 3: Create Account](/assets/create3.png)
+
+---
+
+## Step 4: Verify Your Email (OTP)
+Check your inbox for a one-time password (OTP) sent to your registered email address.  
+If you don’t see it, please check your **spam** or **junk** folder. Enter the **6-digit code** and click **Confirm**.
+
+![Step 4: Enter OTP](/assets/create4.png)
+
+---
+
+## Step 5: Start Student Profile
+After verification, you’ll be taken to the **Student Information** form. Review the instructions and begin filling out your details.
+
+![Step 5: Student Information – Start](/assets/create5.png)
+
+---
+
+## Step 6: Complete Student Information
+Provide your **first/last name, preferred name, email, UID, major/minor(s), graduation year**, and **upload your resume**. Click **Submit** to save.
+
+![Step 6: Student Information – Submit](/assets/create6.png)
+
+---
+
+## Step 7: Access Your Dashboard
+You’ll be taken to your **Student Dashboard**, where you can view and manage your applications (including viewing application lists and making edits), offers, and profile.
+
+
+![Step 7: Student Dashboard](/assets/create7.png)

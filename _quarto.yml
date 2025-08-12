@@ -12,13 +12,16 @@ website:
       #- href: index.qmd
       - href: index.qmd
       - href: ddmatch.qmd
+      - href: get-involved/partner.qmd
         contents:
           - href: ddmatch/create-partner.qmd
           - href: ddmatch/create-project.qmd
-      # - href: get-involved.qmd
-       #  contents:
-       #    - href: get-involved/student-researchers.qmd
-        #   - href: get-involved/partner.qmd
+          - href: ddmatch/extend-offer.qmd
+          - href: ddmatch/list-offer.qmd
+      - href: get-involved/student-researcher.qmd
+        contents:
+          - href: ddmatch/create-student.qmd
+          - href: ddmatch/review-offer.qmd
       - href: program-team.qmd
 
 format:
