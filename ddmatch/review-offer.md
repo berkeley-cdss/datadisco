@@ -6,7 +6,7 @@ title: "Respond to an Offer"
 
 From the left sidebar, click **Offers** to see all offers you’ve received.
 
-![Step 1: Open Offers](/assets/accept1.png)
+![Step 1: Open Offers](../assets/accept1.png)
 
 ---
 
@@ -14,7 +14,7 @@ From the left sidebar, click **Offers** to see all offers you’ve received.
 
 Find the offer you want to accept. Click the **⋯ (More options)** menu at the far right of the row, then select **Accept**.
 
-![Step 2: More options → Accept](/assets/accept3.png)
+![Step 2: More options → Accept](../assets/accept3.png)
 
 ---
 
@@ -22,7 +22,7 @@ Find the offer you want to accept. Click the **⋯ (More options)** menu at the 
 
 In the confirmation dialog, click **Confirm** to finalize your decision.
 
-![Step 3: Confirm acceptance](/assets/accept2.png)
+![Step 3: Confirm acceptance](../assets/accept2.png)
 
 ---
 

@@ -1,0 +1,26 @@
+version: 1
+project:
+  title: "Data Discovery"
+  toc:
+    - file: index.md
+    - file: ddmatch.md
+    - file: get-involved/partner.md
+      children:
+        - file: ddmatch/create-partner.md
+        - file: ddmatch/create-project.md
+        - file: ddmatch/extend-offer.md
+        - file: ddmatch/list-offer.md
+    - file: get-involved/student-researchers.md
+      children:
+        - file: ddmatch/create-student.md
+        - file: ddmatch/review-offer.md
+    - file: program-team.md
+  plugins:
+    - staff.mjs
+site:
+  template: book-theme
+  options:
+   logo: assets/cdss-logo.svg
+   style: custom.css
+  domains:
+  - datadisco.cdss.berkeley.edu

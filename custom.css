@@ -1,0 +1,33 @@
+/* Staff page styling */
+
+.staff-person-card {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #eee;
+}
+
+.staff-person-photo {
+  flex-shrink: 0;
+  width: 150px;
+}
+
+.staff-person-photo img {
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.staff-person-info {
+  flex: 1;
+}
+
+.staff-person-card-no-photo {
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #eee;
+}

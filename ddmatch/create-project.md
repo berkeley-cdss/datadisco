@@ -10,7 +10,7 @@ This guide walks partners through the steps required to successfully submit a pr
 
 Once logged in, click the **“Projects”** tab on the left-hand menu. Then click the **“Create Project”** button on the top-right corner.
 
-![Step 1: Navigate to Projects](/assets/proj1.png)
+![Step 1: Navigate to Projects](../assets/proj1.png)
 
 ---
 
@@ -18,7 +18,7 @@ Once logged in, click the **“Projects”** tab on the left-hand menu. Then cli
 
 Enter your **Project Title**, a short **Project Overview**, upload a banner image (under 1MB, 700×200px), and provide your **Name** and **Email**.
 
-![Step 2: Basic Info](/assets/proj2.png)
+![Step 2: Basic Info](../assets/proj2.png)
 
 ---
 
@@ -26,7 +26,7 @@ Enter your **Project Title**, a short **Project Overview**, upload a banner imag
 
 Select the **primary** and **secondary label** that best categorize your project (e.g., Environment, Engineering, Public Policy, etc.).
 
-![Step 3: Project Categories](/assets/proj3.png)
+![Step 3: Project Categories](../assets/proj3.png)
 
 ---
 
@@ -34,7 +34,7 @@ Select the **primary** and **secondary label** that best categorize your project
 
 Describe the tangible outcomes students will produce over the semester. Include things like reports, dashboards, models, or presentations.
 
-![Step 4: Deliverables](/assets/proj4.png)
+![Step 4: Deliverables](../assets/proj4.png)
 
 ---
 
@@ -42,7 +42,7 @@ Describe the tangible outcomes students will produce over the semester. Include 
 
 Indicate whether this is a **new or continuing project**, and provide a link to any related materials (website, deck, prior semester project).
 
-![Step 5: Project Continuation Info](/assets/pro5.png)
+![Step 5: Project Continuation Info](../assets/pro5.png)
 
 ---
 
@@ -50,7 +50,7 @@ Indicate whether this is a **new or continuing project**, and provide a link to 
 
 Describe the **type, size, and structure of your dataset**. Include whether it’s observational, spatial, time-series, etc., and note if students will need to collect it.
 
-![Step 6: Dataset Details](/assets/proj6.png)
+![Step 6: Dataset Details](../assets/proj6.png)
 
 ---
 
@@ -58,7 +58,7 @@ Describe the **type, size, and structure of your dataset**. Include whether it�
 
 Check the skills students will learn through this project (e.g., EDA, NLP, ML, data visualization).
 
-![Step 7: Student Skill Development](/assets/proj7.png)
+![Step 7: Student Skill Development](../assets/proj7.png)
 
 ---
 
@@ -66,7 +66,7 @@ Check the skills students will learn through this project (e.g., EDA, NLP, ML, d
 
 Specify which skills or tools students should be familiar with (e.g., Python, SQL, Tableau, Hugging Face, AWS). Also add any helpful background knowledge.
 
-![Step 8: Technical Expectations](/assets/proj8.png)
+![Step 8: Technical Expectations](../assets/proj8.png)
 
 ---
 
@@ -74,7 +74,7 @@ Specify which skills or tools students should be familiar with (e.g., Python, SQ
 
 Review your inputs and click **Submit** to publish your project to the platform. Students will now be able to view and apply.
 
-![Step 9: Submit Project](/assets/proj9.png)
+![Step 9: Submit Project](../assets/proj9.png)
 
 > ✅ Congratulations! Your project has been successfully submitted for consideration and will undergo review by the Data Discovery Program Team. Please await further communication regarding the status of your submission.
 

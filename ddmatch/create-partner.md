@@ -9,7 +9,7 @@ This guide walks new partners through the account signup process on the DDMatch 
 
 Navigate to the homepage and click the **"Partner Login"** tab in the top menu.
 
-![Step 1: Partner Signup](/assets/step1.png)
+![Step 1: Partner Signup](../assets/step1.png)
 
 > This will redirect you to the partner login portal where you can either create a new account or log in with your existing credentials.
 
@@ -17,7 +17,7 @@ Navigate to the homepage and click the **"Partner Login"** tab in the top menu.
 
 On the login screen, locate the **“Don’t have an account? Signup”** link below the login button and click it.
 
-![Step 2: Click Signup](/assets/step2.png)
+![Step 2: Click Signup](../assets/step2.png)
 
 > This will redirect you to the registration form where you can create your new Partner account.
 
@@ -25,7 +25,7 @@ On the login screen, locate the **“Don’t have an account? Signup”** link b
 
 Enter your email address and choose a secure password that includes at least one lowercase letter, one uppercase letter, one number, and one special character. Confirm your password, then click **"Signup"**.
 
-![Step 3: Complete the Signup Form](/assets/step3.png)
+![Step 3: Complete the Signup Form](../assets/step3.png)
 
 > Once submitted, you will be prompted to verify your email before gaining access to your partner dashboard.
 
@@ -33,7 +33,7 @@ Enter your email address and choose a secure password that includes at least one
 
 Check your inbox for a one-time password (OTP) sent to your registered email address. If you don’t see it, be sure to check your spam or junk folder. Enter the 6-digit code in the boxes provided, then click **"Confirm"**.
 
-![Step 4: Email Verification](/assets/step4.png)
+![Step 4: Email Verification](../assets/step4.png)
 
 > If you didn’t receive the OTP, click **“Request new OTP”** to resend the verification code.
 
@@ -41,7 +41,7 @@ Check your inbox for a one-time password (OTP) sent to your registered email add
 
 Once your account has been verified, return to the **Partner Login** page. Enter your registered email and password, then click **"Login"** to access your dashboard.
 
-![Step 5: Login to Your Account](/assets/step5.png)
+![Step 5: Login to Your Account](../assets/step5.png)
 
 > You now have full access to your Partner Dashboard, where you can manage your profile, submit project proposals, and track student applications.
 
@@ -50,7 +50,7 @@ Once your account has been verified, return to the **Partner Login** page. Enter
 
 Upon first login, you’ll be asked to provide essential information. Enter your **full name**, **email address**, and your **role in the organization**. Click **Next** to continue through the remaining onboarding steps.
 
-![Step 6: Complete Partner Information](/assets/step6.png)
+![Step 6: Complete Partner Information](../assets/step6.png)
 
 > This information helps the platform connect you with students and clarify your role in the research process.
 
@@ -59,7 +59,7 @@ Upon first login, you’ll be asked to provide essential information. Enter your
 
 Continue filling in your **organization details** such as name, website, a short introduction, and select the appropriate sector for your organization (e.g., Private Industry, Non-Profit).
 
-![Step 7: Complete Partner Information (Part 2)](/assets/step7.png)
+![Step 7: Complete Partner Information (Part 2)](../assets/step7.png)
 
 > These details will be displayed to students and help match your organization with the right candidates.
 
@@ -68,7 +68,7 @@ Continue filling in your **organization details** such as name, website, a short
 
 You will be asked whether your project requires access to our computing infrastructure, which may include the CDSS DataHub (powered by NAIRR) or UC Berkeley’s Savio cluster.
 
-![Step 8: Request Cloud Credits](/assets/step8.png)
+![Step 8: Request Cloud Credits](../assets/step8.png)
 
 > Select the most accurate response: **Yes**, **No**, or **Maybe**, then click **Next** to proceed.
 
@@ -77,7 +77,7 @@ You will be asked whether your project requires access to our computing infrastr
 
 You must confirm that you can meet the program's expectations, including weekly meetings, evaluations, and support for student learning. Carefully read all the listed commitments before selecting your response.
 
-![Step 9: Commit to Program Requirements](/assets/step9.png)
+![Step 9: Commit to Program Requirements](../assets/step9.png)
 
 > Select **"Yes, I agree to commit to the requirements."** to proceed.
 
@@ -86,7 +86,7 @@ You must confirm that you can meet the program's expectations, including weekly 
 
 To acknowledge your institution's contribution, you can optionally upload your logo (under 1MB and exactly 700×200 pixels). Choose **"Yes, please include our logo"** and upload the image file. Then click **Submit** to complete the process.
 
-![Step 10: Upload Logo & Submit](/assets/step10.png)
+![Step 10: Upload Logo & Submit](../assets/step10.png)
 
 > Your profile is now ready! You'll receive a confirmation email and gain access to additional platform features.
 
@@ -101,6 +101,6 @@ Once onboarded, you'll land in your **Partner Dashboard**. From here you can vie
 
 You can also manage your profile, review applications, and extend offers using the navigation on the left.
 
-![Step 11: Explore the Dashboard](/assets/step11dashboard.png)
+![Step 11: Explore the Dashboard](../assets/step11dashboard.png)
 
 > This is your command center for participating in the Data Discovery program.

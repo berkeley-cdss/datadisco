@@ -1,4 +1,6 @@
-.quarto
-_site
+# MyST build outputs
+_build
 
-/.quarto/
+node_modules
+package-lock.json
+package.json
