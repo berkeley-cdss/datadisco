@@ -1,0 +1,7 @@
+channels:
+  - conda-forge
+
+dependencies:
+  - nodejs>=22.12
+  - libwebp==1.6.0
+  - mystmd==1.6.1
