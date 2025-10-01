@@ -1,0 +1,35 @@
+# Types in schedule.mjs:
+#   - Lecture
+#   - Notes
+#   - Lab
+#   - Homework
+#   - Dataset
+
+- week: 7
+  days:
+    - date: 'Oct 01'
+      items:
+        - type: 'Lecture'
+          id: '1'
+          name: "Slides - Introduction and Overview"
+          href: "#" # placeholder
+          #href: './filename.pdf'
+- week: 8
+  days:
+    - date: 'Oct 06'
+      items:
+        - type: 'Lecture'
+          id: '2'
+          name: "Notes - Simple Linear Regression"
+          href: "#" # placeholder
+          #href: "./filename.pdf"
+        - type: 'Lecture'
+          id: '2'
+          name: Handwritten Notes
+          href: "#" # placeholder
+          #href: "./filename.pdf"
+        - type: 'Lab'
+          id: '2'
+          name: "Notebook - Simple Linear Regression for Time Series"
+          href: "#" # placeholder
+          #href: "./filename.ipynb"

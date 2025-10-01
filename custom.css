@@ -31,3 +31,51 @@
   padding-bottom: 1rem;
   border-bottom: 1px solid #eee;
 }
+
+/* Schedule table consistent column alignment */
+.myst-card-body table.schedule-table {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+
+.myst-card-body table.schedule-table tbody {
+  display: table-row-group;
+}
+
+.myst-card-body table.schedule-table tr {
+  display: table-row;
+}
+
+.myst-card-body table.schedule-table td {
+  display: table-cell;
+  vertical-align: top;
+}
+
+.myst-card-body table.schedule-table td:nth-child(1) {
+  width: 12%;
+}
+
+.myst-card-body table.schedule-table td:nth-child(2) {
+  width: 35%;
+}
+
+/* Target only the type column spans specifically */
+table.schedule-table tbody tr td:nth-child(2) span {
+  text-transform: uppercase !important;
+  font-weight: bold !important;
+}
+
+/* For rows without date column, target first column spans */
+table.schedule-table tbody tr:not(:first-child) td:nth-child(1) span {
+  text-transform: uppercase !important;
+  font-weight: bold !important;
+}
+
+.myst-card-body table.schedule-table td:nth-child(3) {
+  width: 35%;
+}
+
+.myst-card-body table.schedule-table td:nth-child(4) {
+  width: 18%;
+}
