@@ -1,6 +1,5 @@
 ---
 title: "For Project Partners"
-format: html
 ---
 
 ## Program Overview
