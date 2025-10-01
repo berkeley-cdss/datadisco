@@ -4,17 +4,23 @@ project:
   toc:
     - file: index.md
     - file: ddmatch.md
-    - file: get-involved/partner.md
       children:
-        - file: ddmatch/create-partner.md
-        - file: ddmatch/create-project.md
-        - file: ddmatch/extend-offer.md
-        - file: ddmatch/list-offer.md
-    - file: get-involved/student-researchers.md
+        - file: get-involved/partner.md
+          children:
+            - file: ddmatch/create-partner.md
+            - file: ddmatch/create-project.md
+            - file: ddmatch/extend-offer.md
+            - file: ddmatch/list-offer.md
+        - file: get-involved/student-researchers.md
+          children:
+            - file: ddmatch/create-student.md
+            - file: ddmatch/review-offer.md
+    - title: Computing Infrastructure
       children:
-        - file: ddmatch/create-student.md
-        - file: ddmatch/review-offer.md
+        - file: computing/savio.md
+        - file: computing/datahub.md
     - file: program-team.md
+    - file: support.md
   plugins:
     - staff.mjs
 site:
