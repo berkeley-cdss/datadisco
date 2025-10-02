@@ -1,5 +1,5 @@
 ---
-title: More Python Examples
+title: More Examples
 ---
 
 Once your environment is ready, you can start writing Python code in notebooks.  
