@@ -1,5 +1,15 @@
 {
   "dependencies": {
     "js-yaml": "^4.1.0"
-  }
+  },
+  "name": "datadisco",
+  "version": "1.0.0",
+  "main": "inject-siteimprove.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }

@@ -20,6 +20,10 @@ project:
       children:
         - file: computing/savio.md
         - file: computing/datahub.md
+          children:
+            - file: datahub/jupyterhub.md
+            - file: datahub/packages.md
+            - file: datahub/moreexamples.md
     - file: program-team.md
     - file: support.md
   plugins:
