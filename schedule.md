@@ -1,5 +1,5 @@
 ---
-title: "Academic Schedule"
+title: "Academic Schedule (Fall 2025)"
 ---
 
 :::{schedule} ./schedule.yml
