@@ -2,11 +2,11 @@
 title: Using DataHub
 ---
 
-[DataHub](https://cdss.berkeley.edu/datahub-home-page) is a campus-wide JupyterHub service, and there is a dedicated instance for CDSS Discovery students at [https://cdss-discovery.datahub.berkeley.edu](https://cdss-discovery.datahub.berkeley.edu). It runs on [NRP Nautilus](https://nationalresearchplatform.org/nautilus/). Our goal is to provide students with access to GPUs and more computing than they may have available on their personal devices.
+[DataHub](https://cdss.berkeley.edu/datahub-home-page) is a campus-wide JupyterHub service, and there is a dedicated instance for CDSS Data Discovery students at [https://cdss-discovery.datahub.berkeley.edu](https://cdss-discovery.datahub.berkeley.edu). It runs on [NRP Nautilus](https://nationalresearchplatform.org/nautilus/). Our goal is to provide students with access to GPUs and more computing than they may have available on their personal devices.
 
 ## Access & Login
 
-CDSS Discovery students can log into the hub without having to request access. Only those currently enrolled in the program can login.
+CDSS Data Discovery students can log into the hub without having to request access. Only those currently enrolled in the program can login.
 
 To access the hub, visit [https://cdss-discovery.datahub.berkeley.edu](https://cdss-discovery.datahub.berkeley.edu).
 

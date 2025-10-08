@@ -5,31 +5,321 @@
 #   - Homework
 #   - Dataset
 
+# - week: 1
+#   days:
+#     - date: 'Oct 01'
+#       items:
+#         - type: 'Lecture'
+#           id: '1'
+#           name: "Slides - Introduction and Overview"
+#           href: "#" # placeholder
+#           #href: './filename.pdf'
+# - week: 2
+#   days:
+#     - date: 'Oct 06'
+#       items:
+#         - type: 'Lecture'
+#           id: '2'
+#           name: "Notes - Simple Linear Regression"
+#           href: "#" # placeholder
+#           #href: "./filename.pdf"
+#         - type: 'Lecture'
+#           id: '2'
+#           name: Handwritten Notes
+#           href: "#" # placeholder
+#           #href: "./filename.pdf"
+#         - type: 'Lab'
+#           id: '2'
+#           name: "Notebook - Simple Linear Regression for Time Series"
+#           href: "#" # placeholder
+#           #href: "./filename.ipynb"
+- week: 1
+  days:
+    - date: '09/08'
+      items:
+        - type: 'Lecture'
+          id: 'w1-1'
+          name: 'Program orientation'
+          href: '#'
+        - type: 'Lecture'
+          id: 'w1-2'
+          name: 'Understanding program and course expectations'
+          href: '#'
+        - type: 'Lecture'
+          id: 'w1-3'
+          name: 'Setting expectations & procedures for your Data Discovery project'
+          href: '#'
+        - type: 'Lecture'
+          id: 'w1-4'
+          name: 'Getting to know your team'
+          href: '#'
+        - type: 'Assignment'
+          id: 'w1-A'
+          name: 'Mentoring agreement (due next week)'
+          href: '#'
+
+- week: 2
+  days:
+    - date: '09/15'
+      items:
+        - type: 'Lecture'
+          id: 'w2-1'
+          name: 'Working in teams'
+          href: '#'
+        - type: 'Lecture'
+          id: 'w2-2'
+          name: 'Best practices for teamwork'
+          href: '#'
+        - type: 'Lecture'
+          id: 'w2-3'
+          name: 'Setting expectations and norms for collaboration'
+          href: '#'
+        - type: 'Assignment'
+          id: 'w2-A'
+          name: 'Team collaborative plan (due next week)'
+          href: '#'
+
+- week: 3
+  days:
+    - date: '09/22'
+      items:
+        - type: 'Lecture'
+          id: 'w3-1'
+          name: 'Data life cycle'
+          href: '#'
+        - type: 'Lecture'
+          id: 'w3-2'
+          name: 'Stages of a data research project'
+          href: '#'
+        - type: 'Lecture'
+          id: 'w3-3'
+          name: 'Where your project fits in the DS life cycle'
+          href: '#'
+        - type: 'Assignment'
+          id: 'w3-A'
+          name: 'Begin work on context description (do not submit yet; continue next week)'
+          href: '#'
+
+- week: 4
+  days:
+    - date: '09/29'
+      items:
+        - type: 'Lecture'
+          id: 'w4-1'
+          name: 'Project life cycles'
+          href: '#'
+        - type: 'Panel'
+          id: 'w4-2'
+          name: 'Panel: Project management'
+          href: '#'
+        - type: 'Lecture'
+          id: 'w4-3'
+          name: 'How your contribution fits into the overall project'
+          href: '#'
+        - type: 'Assignment'
+          id: 'w4-A'
+          name: 'Describing your project in context (due next week)'
+          href: '#'
+
+- week: 5
+  days:
+    - date: '10/06'
+      items:
+        - type: 'Lecture'
+          id: 'w5-1'
+          name: 'Data descriptions'
+          href: '#'
+        - type: 'Lecture'
+          id: 'w5-2'
+          name: 'Features and characteristics of data'
+          href: '#'
+        - type: 'Lecture'
+          id: 'w5-3'
+          name: 'Thinking about your project’s specific dataset(s)'
+          href: '#'
+        - type: 'Assignment'
+          id: 'w5-A'
+          name: 'Data description (due next week)'
+          href: '#'
+
+- week: 6
+  days:
+    - date: '10/13'
+      items:
+        - type: 'Lecture'
+          id: 'w6-1'
+          name: 'Resourcefulness and problem-solving'
+          href: '#'
+        - type: 'Panel'
+          id: 'w6-2'
+          name: 'Panel: Strategies for responding to challenges'
+          href: '#'
+        - type: 'Lecture'
+          id: 'w6-3'
+          name: 'Identifying strategies and resources to address problems'
+          href: '#'
+        - type: 'Lecture'
+          id: 'w6-4'
+          name: 'Developing resilience and perseverance'
+          href: '#'
+        - type: 'Assignment'
+          id: 'w6-A'
+          name: 'Problem-solving strategies & resources list (due next week)'
+          href: '#'
+
 - week: 7
   days:
-    - date: 'Oct 01'
+    - date: '10/20'
       items:
         - type: 'Lecture'
-          id: '1'
-          name: "Slides - Introduction and Overview"
-          href: "#" # placeholder
-          #href: './filename.pdf'
+          id: 'w7-1'
+          name: 'Evaluating progress and regrouping'
+          href: '#'
+        - type: 'Lecture'
+          id: 'w7-2'
+          name: 'Team debriefing'
+          href: '#'
+        - type: 'Lecture'
+          id: 'w7-3'
+          name: 'Documenting & reflecting on mentor feedback'
+          href: '#'
+        - type: 'Assignment'
+          id: 'w7-A'
+          name: 'Team debrief & reflection on mentor feedback (individual; due next week)'
+          href: '#'
+
 - week: 8
   days:
-    - date: 'Oct 06'
+    - date: '10/27'
       items:
         - type: 'Lecture'
-          id: '2'
-          name: "Notes - Simple Linear Regression"
-          href: "#" # placeholder
-          #href: "./filename.pdf"
+          id: 'w8-1'
+          name: 'Time management and personal habits'
+          href: '#'
         - type: 'Lecture'
-          id: '2'
-          name: Handwritten Notes
-          href: "#" # placeholder
-          #href: "./filename.pdf"
-        - type: 'Lab'
-          id: '2'
-          name: "Notebook - Simple Linear Regression for Time Series"
-          href: "#" # placeholder
-          #href: "./filename.ipynb"
+          id: 'w8-2'
+          name: 'Evaluating current workflows'
+          href: '#'
+        - type: 'Lecture'
+          id: 'w8-3'
+          name: 'Campus strategies and resources'
+          href: '#'
+        - type: 'Assignment'
+          id: 'w8-A'
+          name: 'Self study + Dear Data visualization (individual; due next week)'
+          href: '#'
+
+- week: 9
+  days:
+    - date: '11/03'
+      items:
+        - type: 'Lecture'
+          id: 'w9-1'
+          name: 'Reporting on projects'
+          href: '#'
+        - type: 'Lecture'
+          id: 'w9-2'
+          name: 'Abstracts, conclusions, and citations'
+          href: '#'
+        - type: 'Assignment'
+          id: 'w9-A'
+          name: 'Communicating with a non-expert (individual; due next week)'
+          href: '#'
+
+- week: 10
+  days:
+    - date: '11/10'
+      items:
+        - type: 'Lecture'
+          id: 'w10-1'
+          name: 'Communicating with visualizations'
+          href: '#'
+        - type: 'Panel'
+          id: 'w10-2'
+          name: 'Panel: Creating and describing data visualizations'
+          href: '#'
+        - type: 'Lecture'
+          id: 'w10-3'
+          name: 'Planning visualizations for your presentation'
+          href: '#'
+        - type: 'Assignment'
+          id: 'w10-A'
+          name: 'Preparing figures and tables for presentation (due next week)'
+          href: '#'
+
+- week: 11
+  days:
+    - date: '11/17'
+      items:
+        - type: 'Lecture'
+          id: 'w11-1'
+          name: 'Designing posters'
+          href: '#'
+        - type: 'Lecture'
+          id: 'w11-2'
+          name: 'Goals and basics of a scientific poster'
+          href: '#'
+        - type: 'Lecture'
+          id: 'w11-3'
+          name: 'Deciding what to include in your poster'
+          href: '#'
+        - type: 'Assignment'
+          id: 'w11-A'
+          name: 'Presentation abstract draft 1 (due next week)'
+          href: '#'
+
+- week: 12
+  days:
+    - date: '11/24'
+      items:
+        - type: 'Meeting'
+          id: 'w12-1'
+          name: 'Symposium info session (virtual; recorded; attendance optional)'
+          href: '#'
+        - type: 'Lecture'
+          id: 'w12-2'
+          name: 'Expectations for the Symposium'
+          href: '#'
+
+- week: 13
+  days:
+    - date: '12/01'
+      items:
+        - type: 'Lecture'
+          id: 'w13-1'
+          name: 'Verbal communication'
+          href: '#'
+        - type: 'Lecture'
+          id: 'w13-2'
+          name: 'Talking about your Data Discovery experience for future opportunities'
+          href: '#'
+        - type: 'Practice'
+          id: 'w13-3'
+          name: 'Practice oral presentations for the Symposium'
+          href: '#'
+        - type: 'Milestone'
+          id: 'w13-M1'
+          name: 'Project work ends — last class meeting'
+          href: '#'
+        - type: 'Deadline'
+          id: 'w13-DL'
+          name: 'Poster submission to group order due by 11:59pm'
+          href: '#'
+
+- week: 14
+  days:
+    - date: '12/08'
+      items:
+        - type: 'Event'
+          id: 'w14-1'
+          name: 'Symposium on December 10'
+          href: '#'
+
+- week: 15
+  days:
+    - date: '12/15'
+      items:
+        - type: 'Milestone'
+          id: 'w15-1'
+          name: 'Wrap-up / finals week (no scheduled class)'
+          href: '#'
