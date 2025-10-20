@@ -3,7 +3,7 @@ title: Open OnDemand
 ---
 
 ## Overview
-Open OnDemand (OOD) provides browser-based, interactive access to Savio at https://ood.brc.berkeley.edu. You can launch desktops and apps, browse files, submit/monitor Slurm jobs, and open a terminal—all from your browser.
+Open OnDemand (OOD) provides browser-based, interactive access to Savio at https://ood.brc.berkeley.edu. You can launch desktops and apps, browse files, submit/monitor Slurm jobs, and open a terminal, all from your browser.
 
 Some apps and services that are provided are:
 - OOD Desktop
