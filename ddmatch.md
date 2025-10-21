@@ -2,4 +2,4 @@
 title: "DD Match Platform Guide"
 ---
 
-Welcome to the Data Discovery Match Platform. This guide will walk you through how to use the platform whether you are a Project Partner or Student Researcher. You’ll learn how to sign up, submit projects, apply, and manage submissions.
+This guidebook will walk you through how to use the DD Match Platform, access Savio and DataHub resources, and navigate key processes in the Data Discovery program. You’ll learn how to create an account, submit and manage projects, connect with partners, and make the most of available computing and research tools.
