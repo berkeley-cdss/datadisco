@@ -1,0 +1,6 @@
+/* Add extra gutter between columns on the homepage */
+.columns.g-4, .columns.g-4 > .column {
+  column-gap: 2ch !important;
+  gap: 2ch !important;
+  padding-right: 1ch;
+}

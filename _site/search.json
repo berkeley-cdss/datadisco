@@ -1,0 +1,590 @@
+[
+  {
+    "objectID": "program-team.html",
+    "href": "program-team.html",
+    "title": "Program Team",
+    "section": "",
+    "text": "Meet the CDSS Data Discovery Team!\nhodrvdl program-team.yml"
+  },
+  {
+    "objectID": "ddmatch/list-offer.html",
+    "href": "ddmatch/list-offer.html",
+    "title": "View Accepted Offers",
+    "section": "",
+    "text": "Go to the Extended Offers tab to see a list of students who have received offers for your projects. The table shows the Project Title, Student Name, Student Email/ID, and the current Status (e.g., Accepted). Use Filters or Export if needed.\n\n\n\nAccepted offers list"
+  },
+  {
+    "objectID": "ddmatch/list-offer.html#step-review-your-accepted-offers",
+    "href": "ddmatch/list-offer.html#step-review-your-accepted-offers",
+    "title": "View Accepted Offers",
+    "section": "",
+    "text": "Go to the Extended Offers tab to see a list of students who have received offers for your projects. The table shows the Project Title, Student Name, Student Email/ID, and the current Status (e.g., Accepted). Use Filters or Export if needed.\n\n\n\nAccepted offers list"
+  },
+  {
+    "objectID": "ddmatch/apply-project.html",
+    "href": "ddmatch/apply-project.html",
+    "title": "Apply to Projects",
+    "section": "",
+    "text": "Go to the Project Database. Use Keyword, Category, or Topic filters (optional), then click a project card to open details.\n\n\n\nStep 1: Apply to project from homepage"
+  },
+  {
+    "objectID": "ddmatch/apply-project.html#step-1-find-a-project-on-the-homepage",
+    "href": "ddmatch/apply-project.html#step-1-find-a-project-on-the-homepage",
+    "title": "Apply to Projects",
+    "section": "",
+    "text": "Go to the Project Database. Use Keyword, Category, or Topic filters (optional), then click a project card to open details.\n\n\n\nStep 1: Apply to project from homepage"
+  },
+  {
+    "objectID": "ddmatch/apply-project.html#step-2-review-the-project-and-start-your-application",
+    "href": "ddmatch/apply-project.html#step-2-review-the-project-and-start-your-application",
+    "title": "Apply to Projects",
+    "section": "Step 2: Review the project and start your application",
+    "text": "Step 2: Review the project and start your application\nRead the full description (organization, goals, data, skills). When ready, click Apply to project at the bottom.\n\n\n\nStep 2: Review project & click Apply"
+  },
+  {
+    "objectID": "ddmatch/apply-project.html#step-3-skills-experience-page-1",
+    "href": "ddmatch/apply-project.html#step-3-skills-experience-page-1",
+    "title": "Apply to Projects",
+    "section": "Step 3: Skills & Experience (Page 1)",
+    "text": "Step 3: Skills & Experience (Page 1)\nWhen you first created an account, you may have have uploaded a resume. You can view the file, or upload your resume if needed. Optionally, add a portfolio/GitHub link, indicate your experience levels in Python, R, and SQL, select any completed courses, and describe relevant experience. Click Next.\n\n\n\nStep 3: Skills & Experience"
+  },
+  {
+    "objectID": "ddmatch/apply-project.html#step-4-short-essays-page-2",
+    "href": "ddmatch/apply-project.html#step-4-short-essays-page-2",
+    "title": "Apply to Projects",
+    "section": "Step 4: Short essays (Page 2)",
+    "text": "Step 4: Short essays (Page 2)\nAnswer the two short prompts about your preparation and goals for this project (max ~250 words each). Click Next.\n\n\n\nStep 4: Short Essays"
+  },
+  {
+    "objectID": "ddmatch/apply-project.html#step-5-confirm-agreements-submit-page-3",
+    "href": "ddmatch/apply-project.html#step-5-confirm-agreements-submit-page-3",
+    "title": "Apply to Projects",
+    "section": "Step 5: Confirm agreements & submit (Page 3)",
+    "text": "Step 5: Confirm agreements & submit (Page 3)\nAcknowledge course enrollment and the project partnership agreement, then click Submit to send your application.\n\n\n\nStep 5: Confirm & Submit"
+  },
+  {
+    "objectID": "ddmatch/extend-offer.html",
+    "href": "ddmatch/extend-offer.html",
+    "title": "Extend an Offer",
+    "section": "",
+    "text": "From your Dashboard, go to Applications. Select the candidate’s row, then click the More options (⋯) menu on the far right.\n\n\n\nStep 1: Open Applications"
+  },
+  {
+    "objectID": "ddmatch/extend-offer.html#step-1-open-applications",
+    "href": "ddmatch/extend-offer.html#step-1-open-applications",
+    "title": "Extend an Offer",
+    "section": "",
+    "text": "From your Dashboard, go to Applications. Select the candidate’s row, then click the More options (⋯) menu on the far right.\n\n\n\nStep 1: Open Applications"
+  },
+  {
+    "objectID": "ddmatch/extend-offer.html#step-2-choose-extend-offer",
+    "href": "ddmatch/extend-offer.html#step-2-choose-extend-offer",
+    "title": "Extend an Offer",
+    "section": "Step 2: Choose “Extend Offer”",
+    "text": "Step 2: Choose “Extend Offer”\nWith the candidate selected, open the More options (⋯) menu and click Extend Offer.\n\n\n\nStep 2: Choose Extend Offer"
+  },
+  {
+    "objectID": "ddmatch/extend-offer.html#step-3-confirm-the-offer",
+    "href": "ddmatch/extend-offer.html#step-3-confirm-the-offer",
+    "title": "Extend an Offer",
+    "section": "Step 3: Confirm the offer",
+    "text": "Step 3: Confirm the offer\nA confirmation dialog will appear. Click Confirm to send the offer to the student (or Cancel to go back).\n\n\n\nStep 3: Confirm the offer"
+  },
+  {
+    "objectID": "ddmatch/extend-offer.html#step-4-mark-as-interested-optional",
+    "href": "ddmatch/extend-offer.html#step-4-mark-as-interested-optional",
+    "title": "Extend an Offer",
+    "section": "Step 4: Mark as Interested (optional)",
+    "text": "Step 4: Mark as Interested (optional)\nYou can also mark the student as Interested to track promising candidates while you finalize decisions.\n\n\n\nStep 4: Mark as Interested"
+  },
+  {
+    "objectID": "computing/savio.html",
+    "href": "computing/savio.html",
+    "title": "Using Savio",
+    "section": "",
+    "text": "Research IT provides the Savio computing cluster for use by campus researchers and their collaborators. Savio is a Linux cluster with high-speed, low-latency networking and a high-speed parallel filesystem for high performance computing (HPC).\n:::{iframe} https://youtube.com/embed/g28Q8oCnA2U :width: 100% Introduction to High Performance Computing with Savio Training :::"
+  },
+  {
+    "objectID": "computing/savio.html#request-an-account",
+    "href": "computing/savio.html#request-an-account",
+    "title": "Using Savio",
+    "section": "Request an Account",
+    "text": "Request an Account\n\nVisit the MyBRC portal and log in. Most people should choose CalNet, including CalNet Sponsored Guests. External collaborators can choose Other and then External Collaborator.\nIf this is your first time creating an account, you must complete the Sign the cluster user access agreement task before you can join a project.\nClick My BRC Cluster Projects, then Join a project.\nClick Search and search for pc_cdssdisc in the Project Name field.\nClick Join on the project entry."
+  },
+  {
+    "objectID": "computing/savio.html#sensitive-data",
+    "href": "computing/savio.html#sensitive-data",
+    "title": "Using Savio",
+    "section": "Sensitive Data",
+    "text": "Sensitive Data\nThose who will be working with data classified as P2 or P3 can still use Savio, but the data needs to be maintained in a secure directory there. You will then need to consult with the Research Data Management (RDM) team to review the sensitivity of the data."
+  },
+  {
+    "objectID": "computing/savio.html#secure-research-data-and-compute",
+    "href": "computing/savio.html#secure-research-data-and-compute",
+    "title": "Using Savio",
+    "section": "Secure Research Data and Compute",
+    "text": "Secure Research Data and Compute\nThe Secure Research Data and Compute (SRDC) Platform is a secure computing environment developed for researchers working with highly sensitive P4 data. The SRDC includes high performance computing (HPC), computing on virtual machines (VMs) with Linux and Windows servers, and protected storage for both options. A combined approach of providing data management and computation support helps researchers integrate data management best practices into their larger research workflows. Through a coalition of partners from across campus, the SRDC Platform has been designed for use by a broad range of researchers, without compromising usability or performance."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome to the Data Discovery Match (DD Match) Platform. This guide will walk you through how to use the platform whether you are a Project Partner or Student Researcher. You’ll learn how to sign up, submit projects, apply, and manage submissions."
+  },
+  {
+    "objectID": "datahub/jupyterhub.html",
+    "href": "datahub/jupyterhub.html",
+    "title": "Choosing Your Server Options",
+    "section": "",
+    "text": "When you log in to the CDSS DataHub (JupyterHub), you will see the Server Options page. This is where you decide how your computing environment will be set up.\n\n\n\nServer Options Screenshot\n\n\nYou will have two main choices:\n\nCPU instance\n\nYour server will not have a GPU, but it will typically launch faster.\n\nBest suited for:\n\nData cleaning and preprocessing\nExploratory data analysis\nRunning small to medium computations\n\nYou can set the CPU RAM limit (default: 10G).\n\n\n\nGPU instance\n\nYour server will request and wait for a GPU. Launch time may be longer due to limited availability.\n\nBest suited for:\n\nTraining machine learning and deep learning models\nLarge-scale parallel computations\nTasks requiring GPU acceleration (e.g., TensorFlow, PyTorch)\n\nYou can also set the CPU RAM limit (default: 10G).\n\n\n👉 Tip:\nStart with a CPU instance unless your project specifically requires GPU resources.\nOnce you’ve made your choice, click the Start button to launch your server."
+  },
+  {
+    "objectID": "datahub/packages.html",
+    "href": "datahub/packages.html",
+    "title": "Installing Packages",
+    "section": "",
+    "text": "Most common Python libraries such as NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, and PyTorch are already installed on the CDSS DataHub.\nHowever, if you need to use an additional library, you can install it yourself.\n\n\n\nInstalling Packages Screenshot\n\n\n\nOption 1: Install in a Notebook Cell\nYou can install a package by running the following command inside a notebook cell (note the exclamation mark ! before pip):\n```python !pip install pandas"
+  },
+  {
+    "objectID": "datahub/example.html",
+    "href": "datahub/example.html",
+    "title": "Simple Python Example",
+    "section": "",
+    "text": "Simple Python Example\n👉 You can write your code directly in a notebook cell.\nTo add multiple cells, click the “+” button at the top of the Jupyter interface.\nThis example demonstrates how to define a simple function in Python to compute the square of a number, and then use it to print the squares of the numbers 1 through 5."
+  },
+  {
+    "objectID": "datahub/example.html#code",
+    "href": "datahub/example.html#code",
+    "title": "Simple Python Example",
+    "section": "Code",
+    "text": "Code\n```python def square(num): “““Return the square of a number.”“” return num * num\nif name == “main”: numbers = [1, 2, 3, 4, 5] print(“Number | Square”) print(“—————”) for n in numbers: print(f”{n} | {square(n)}“)"
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Academic Schedule (Fall 2025)",
+    "section": "",
+    "text": ":::{schedule} ./schedule.yml\n:::"
+  },
+  {
+    "objectID": "get-involved/partner.html",
+    "href": "get-involved/partner.html",
+    "title": "For Project Partners",
+    "section": "",
+    "text": "Since 2015, the Data Discovery Program has helped incubate and accelerate research for over 1,000 partner projects. We do this by connecting projects with talented student teams along with project management and technical infrastructure support.\nWe welcome all academic institutions, non-profits, government agencies, and industry to partner with us."
+  },
+  {
+    "objectID": "get-involved/partner.html#program-overview",
+    "href": "get-involved/partner.html#program-overview",
+    "title": "For Project Partners",
+    "section": "",
+    "text": "Since 2015, the Data Discovery Program has helped incubate and accelerate research for over 1,000 partner projects. We do this by connecting projects with talented student teams along with project management and technical infrastructure support.\nWe welcome all academic institutions, non-profits, government agencies, and industry to partner with us."
+  },
+  {
+    "objectID": "get-involved/partner.html#timeline",
+    "href": "get-involved/partner.html#timeline",
+    "title": "For Project Partners",
+    "section": "Timeline",
+    "text": "Timeline\nExact program deadlines follow UC Berkeley’s academic calendar and will vary by term. Proposals can be submitted beginning in early August or January, with students applying in the following weeks.\n\nAll student applications received by their priority deadline will be released for your review the following morning.\nThe student application portal will remain open, with new submissions visible immediately.\nMost partners choose to interview students before forming their team.\nYou can expect about 12 weeks of work time on your project each semester.\nStudents will present their work at a symposium in early December or May."
+  },
+  {
+    "objectID": "get-involved/partner.html#fall-2025-dates",
+    "href": "get-involved/partner.html#fall-2025-dates",
+    "title": "For Project Partners",
+    "section": "Fall 2025 Dates",
+    "text": "Fall 2025 Dates\n\nDDMatch partner portal opens: August 1\nThe portal will open for you to begin submitting project proposals. Your proposal will be reviewed by Data Discovery staff before being posted, and we may ask you for more information.\nPriority project description deadline: August 7\nSubmit your project description by the priority deadline to ensure it’s visible to students when their portal opens. This will provide the highest visibility for your project.\nFinal project description deadline: August 18\nNo project descriptions will be accepted after the final deadline.\nStudent applications viewable: August 19\nThe first round of student applications will be released to you the morning after the student priority deadline, and you can begin scheduling interviews with students. Any new submissions to your project will be visible automatically.\nStudent application closes: August 27\nYou can close your project before the final student deadline if you’ve selected your student team.\nDeadline for team selection: September 3\nPlease extend all offers by the deadline for a prompt start to the program. ““”"
+  },
+  {
+    "objectID": "ddmatch.html",
+    "href": "ddmatch.html",
+    "title": "DD Match Platform Guide",
+    "section": "",
+    "text": "Welcome to the Data Discovery Match Platform. This guide will walk you through how to use the platform whether you are a Project Partner or Student Researcher. You’ll learn how to sign up, submit projects, apply, and manage submissions."
+  },
+  {
+    "objectID": "get-involved.html",
+    "href": "get-involved.html",
+    "title": "Get Involved",
+    "section": "",
+    "text": "The Data Discovery Program connects undergraduates with hands-on, team-based opportunities in cutting-edge research projects at UC Berkeley, government agencies, community groups, and entrepreneurial ventures."
+  },
+  {
+    "objectID": "get-involved.html#for-student-researchers",
+    "href": "get-involved.html#for-student-researchers",
+    "title": "Get Involved",
+    "section": "For Student Researchers",
+    "text": "For Student Researchers\nStudent Researchers can apply to projects of their interest and work in teams throughout the semester on a research or social impact project under the guidance of a project mentor. Student Researchers earn academic units as they complete their project with their team. Discovery offers workshops throughout the semester to support students on their projects.\nLearn more for Student Researchers"
+  },
+  {
+    "objectID": "get-involved.html#for-research-partners",
+    "href": "get-involved.html#for-research-partners",
+    "title": "Get Involved",
+    "section": "For Research Partners",
+    "text": "For Research Partners\nDiscovery is dedicated to providing top-notch data science, computer science, and statistics capacity to our project partners while also fostering a unique learning environment for our students. Project partners should design projects so that a team of students can be engaged over the course of a single or multiple semesters (a semester is about 12 weeks of work). Projects should include a strong data component, and a dataset must be available by the start of the semester. Project partners can oversee multiple projects.\nLearn more for Research Partners"
+  },
+  {
+    "objectID": "get-involved/student-researchers.html",
+    "href": "get-involved/student-researchers.html",
+    "title": "For Student Researchers",
+    "section": "",
+    "text": "As a Data Discovery student researcher, you’ll work on a team with a project mentor, using data to understand real-world problems. Through the associated Data Discovery course, you’ll earn course credit for your work on the project and develop professional skills to support your progress."
+  },
+  {
+    "objectID": "get-involved/student-researchers.html#overview",
+    "href": "get-involved/student-researchers.html#overview",
+    "title": "For Student Researchers",
+    "section": "",
+    "text": "As a Data Discovery student researcher, you’ll work on a team with a project mentor, using data to understand real-world problems. Through the associated Data Discovery course, you’ll earn course credit for your work on the project and develop professional skills to support your progress."
+  },
+  {
+    "objectID": "get-involved/student-researchers.html#timeline",
+    "href": "get-involved/student-researchers.html#timeline",
+    "title": "For Student Researchers",
+    "section": "Timeline",
+    "text": "Timeline\nExact program deadlines vary by semester. Typically, Data Discovery applications open to students about 2 weeks before instruction begins. For the most competitive application, apply by the priority deadline, about 1 week before classes start. The application closes during the first week of class. Most project mentors will schedule an interview before making an offer. You can add yourself to the Data Discovery course waitlist once you’ve scheduled an interview. If you accept an offer, you’ll be moved from the waitlist and admitted to the course. Work on the project will end during the last week of class, with a final presentation during RRR week.\n\nFall 2025 Deadlines\n\nDDMatch student application portal opens: August 11. Begin reading the project descriptions and preparing your application(s).\nPriority deadline: August 18. Get your application in by the priority deadline (11:59pm) to have the most competitive application. Partners may form teams before the extended deadline closes.\nExtended deadline: August 27. Take advantage of the extended deadline if you can’t make the priority deadline or want to apply to additional projects.\nTeam formation: September 3. Decisions are expected by September 3.\nFirst day of class: September 8. The first Data Discovery course meeting will be Monday, September 8, 3-5 pm. All participants should plan to attend."
+  },
+  {
+    "objectID": "get-involved/student-researchers.html#requirements",
+    "href": "get-involved/student-researchers.html#requirements",
+    "title": "For Student Researchers",
+    "section": "Requirements",
+    "text": "Requirements\n\nWho can participate: Any UC Berkeley undergraduate and masters students enrolled in any in-person program.\nOne project: Students may participate in one Data Discovery project per semester, even if they are selected for more than one.\nTeamwork: Students work in teams, including developing expectations for the team with the mentor.\nCourse enrollment: Students will enroll in the Data Discovery course for 3 or 4 units. The course includes a dedicated team meeting time alongside guest lectures and group discussions to build professional skills.\nFinal project: A poster summarizing the research to be presented at the Data Discovery Symposium during RRR week."
+  },
+  {
+    "objectID": "get-involved/student-researchers.html#application",
+    "href": "get-involved/student-researchers.html#application",
+    "title": "For Student Researchers",
+    "section": "Application",
+    "text": "Application\n\nMax applications: You may apply for up to 10 projects (you may participate in only one).\nQuestions: Submit the form responding to these questions for each project you want to apply to, using the link in the project description. Refer to the specific instructions in the description for each project, and address all relevant details for a complete application. See the guide for the list of questions in the application. ““”"
+  },
+  {
+    "objectID": "welcome.html",
+    "href": "welcome.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome to the Data Discovery Match Platform. This guide will walk you through how to use the platform whether you are a Project Partner or Student Researcher. You’ll learn how to sign up, submit projects, apply, and manage submissions."
+  },
+  {
+    "objectID": "datahub/moreexamples.html",
+    "href": "datahub/moreexamples.html",
+    "title": "More Examples",
+    "section": "",
+    "text": "Once your environment is ready, you can start writing Python code in notebooks.\nHere’s an example of how to create a simple dataset and plot it using Pandas and Matplotlib.\n\n\n\nPython Example Notebook Screenshot\n\n\n\nExample: Sales vs Expenses\n```python # === Simple Data Visualization Example === # Requirements: # pip install pandas matplotlib\nimport pandas as pd import matplotlib.pyplot as plt\n\n\n—————- Sample Data —————-\ndata = { “Month”: [“Jan”, “Feb”, “Mar”, “Apr”, “May”, “Jun”], “Sales”: [250, 300, 400, 350, 500, 600], “Expenses”: [200, 220, 300, 280, 320, 400], }\ndf = pd.DataFrame(data)\n\n\nDisplay the DataFrame\ndf\nplt.figure(figsize=(8, 5))\n\n\nPlot Sales and Expenses\nplt.plot(df[“Month”], df[“Sales”], marker=“o”, label=“Sales”) plt.plot(df[“Month”], df[“Expenses”], marker=“s”, label=“Expenses”)\n\n\nAdd titles and labels\nplt.title(“Company Sales vs Expenses (Sample Data)”, fontsize=14) plt.xlabel(“Month”) plt.ylabel(“Value (USD)”) plt.legend() plt.grid(True)\nplt.show()"
+  },
+  {
+    "objectID": "datahub/datahub.html",
+    "href": "datahub/datahub.html",
+    "title": "Using DataHub",
+    "section": "",
+    "text": "DataHub is a campus-wide JupyterHub service, and there is a dedicated instance for CDSS Data Discovery students at https://cdss-discovery.datahub.berkeley.edu. It runs on NRP Nautilus. Our goal is to provide students with access to GPUs and more computing than they may have available on their personal devices."
+  },
+  {
+    "objectID": "datahub/datahub.html#access-login",
+    "href": "datahub/datahub.html#access-login",
+    "title": "Using DataHub",
+    "section": "Access & Login",
+    "text": "Access & Login\nCDSS Data Discovery students can log into the hub without having to request access. Only those currently enrolled in the program can login.\nTo access the hub, visit https://cdss-discovery.datahub.berkeley.edu."
+  },
+  {
+    "objectID": "datahub/datahub.html#features",
+    "href": "datahub/datahub.html#features",
+    "title": "Using DataHub",
+    "section": "Features",
+    "text": "Features\nThe hub supports JupyterLab, RStudio, and a number of other applications.\nEach user has access to a GPU. The NRP cluster policies limit interactive jobs such as Jupyter servers to 16 CPU cores, 32 GB RAM, and a duration of 6 hours.\nSoftware libraries like torch and tensorflow are already installed. You can install additional software in your active session. If you would like software to be permanently installed, you can either ask us to alter the user environment, or you can install the software into your home directory. For the latter, you will need to be familiar with the various software installers and the implications of how software in your home directory may interact with software installed on the system."
+  },
+  {
+    "objectID": "datahub/datahub.html#support",
+    "href": "datahub/datahub.html#support",
+    "title": "Using DataHub",
+    "section": "Support",
+    "text": "Support\nIf you need support using the hub, please contact us."
+  },
+  {
+    "objectID": "datahub/llm.html",
+    "href": "datahub/llm.html",
+    "title": "Working with LLMs",
+    "section": "",
+    "text": "Working with LLMs\n\n\nYou can run Large Language Models (LLMs) directly in notebooks using the Hugging Face Transformers library.\nThis makes it easy to experiment with text classification, text generation, and other natural language processing (NLP) tasks.\n\nTips for Using LLMs on DataHub\n\nPrefer non-gated models like distilgpt2, TinyLlama, or unitary/toxic-bert if you don’t need advanced capabilities.\n\nIf you need gated models (e.g., LLaMA, Gemma), you must request access on Hugging Face and use your personal token.\n\nStart with CPU instances for smaller models; switch to GPU instances if training or running large models.\n\nIf you run into space or storage issues, please let us know so we can help extend your resources.\n\n\n\nExample: Content Moderation with toxic-bert\nThe example below uses the lightweight, non-gated model unitary/toxic-bert to classify text as either TOXIC or NON_TOXIC.\n```python from transformers import pipeline import torch\n\n\nUse toxic-bert - reliable, non-gated, lightweight\nclassifier = pipeline( “text-classification”, model=“unitary/toxic-bert”, device=-1, # CPU torch_dtype=torch.float32 )\ndef moderate_content(text): ““” Check if text is safe or toxic Returns: dict with safety info ““” try: result = classifier(text)\n    # toxic-bert returns TOXIC or NON_TOXIC\n    is_safe = result[0]['label'] == 'NON_TOXIC'\n    confidence = result[0]['score']\n    \n    return {\n        'safe': is_safe,\n        'confidence': confidence,\n        'label': result[0]['label'],\n        'text': text[:100] + \"...\" if len(text) &gt; 100 else text\n    }\n\nexcept Exception as e:\n    return {\n        'safe': True,  # Default to safe if error\n        'confidence': 0.0,\n        'label': 'ERROR',\n        'error': str(e)\n    }\n\n\nTest cases\ntest_messages = [ “How do I terminate a process in Linux?”, “What are some good programming practices?”, “Can you help me with my homework?”, “How to cook pasta?”, “Explain machine learning concepts”, “How can I destroy a computer?”]\nprint(“Content Moderation Results:”) print(“-” * 50)\nfor msg in test_messages: result = moderate_content(msg) status = “✅ SAFE” if result[‘safe’] else “❌ UNSAFE” print(f”{status} | Confidence: {result[‘confidence’]:.3f} | {result[‘text’]}“)"
+  },
+  {
+    "objectID": "support.html",
+    "href": "support.html",
+    "title": "Contact Us",
+    "section": "",
+    "text": "Please contact us at cdss-datadiscovery@berkeley.edu.\nFor questions regarding computing support, please reach out to the CDSS Discovery Computing mailing list at cdss-discovery-computing@lists.berkeley.edu."
+  },
+  {
+    "objectID": "computing/datahub.html",
+    "href": "computing/datahub.html",
+    "title": "Using DataHub",
+    "section": "",
+    "text": "DataHub is a campus-wide JupyterHub service, and there is a dedicated instance for CDSS Discovery students at https://cdss-discovery.datahub.berkeley.edu. It runs on NRP Nautilus. Our goal is to provide students with access to GPUs and more computing than they may have available on their personal devices."
+  },
+  {
+    "objectID": "computing/datahub.html#access",
+    "href": "computing/datahub.html#access",
+    "title": "Using DataHub",
+    "section": "Access",
+    "text": "Access\nCDSS Discovery students can log into the hub without having to request access. Only those currently enrolled in the program can login."
+  },
+  {
+    "objectID": "computing/datahub.html#features",
+    "href": "computing/datahub.html#features",
+    "title": "Using DataHub",
+    "section": "Features",
+    "text": "Features\nThe hub supports JupyterLab, RStudio, and a number of other applications.\nEach user has access to a GPU. The NRP cluster policies limit interactive jobs such as Jupyter servers to 16 CPU cores, 32 GB RAM, and a duration of 6 hours.\nSoftware libraries like torch and tensorflow are already installed. You can install additional software in your active session. If you would like software to be permanently installed, you can either ask us to alter the user environment, or you can install the software into your home directory. For the latter, you will need to be familiar with the various software installers and the implications of how software in your home directory may interact with software installed on the system."
+  },
+  {
+    "objectID": "computing/datahub.html#support",
+    "href": "computing/datahub.html#support",
+    "title": "Using DataHub",
+    "section": "Support",
+    "text": "Support\nIf you need support using the hub, please contact us."
+  },
+  {
+    "objectID": "ddmatch/review-offer.html",
+    "href": "ddmatch/review-offer.html",
+    "title": "Respond to an Offer",
+    "section": "",
+    "text": "From the left sidebar, click Offers to see all offers you’ve received.\n\n\n\nStep 1: Open Offers"
+  },
+  {
+    "objectID": "ddmatch/review-offer.html#step-1-open-the-offers-page",
+    "href": "ddmatch/review-offer.html#step-1-open-the-offers-page",
+    "title": "Respond to an Offer",
+    "section": "",
+    "text": "From the left sidebar, click Offers to see all offers you’ve received.\n\n\n\nStep 1: Open Offers"
+  },
+  {
+    "objectID": "ddmatch/review-offer.html#step-2-choose-accept",
+    "href": "ddmatch/review-offer.html#step-2-choose-accept",
+    "title": "Respond to an Offer",
+    "section": "Step 2: Choose Accept",
+    "text": "Step 2: Choose Accept\nFind the offer you want to accept. Click the ⋯ (More options) menu at the far right of the row, then select Accept.\n\n\n\nStep 2: More options → Accept"
+  },
+  {
+    "objectID": "ddmatch/review-offer.html#step-3-confirm",
+    "href": "ddmatch/review-offer.html#step-3-confirm",
+    "title": "Respond to an Offer",
+    "section": "Step 3: Confirm",
+    "text": "Step 3: Confirm\nIn the confirmation dialog, click Confirm to finalize your decision.\n\n\n\nStep 3: Confirm acceptance"
+  },
+  {
+    "objectID": "ddmatch/review-offer.html#important-notes",
+    "href": "ddmatch/review-offer.html#important-notes",
+    "title": "Respond to an Offer",
+    "section": "Important Notes",
+    "text": "Important Notes\n\nYou have 48 hours to respond to an offer. Please ensure you reply promptly to avoid missing the opportunity.\nOnce you accept an offer, your decision is final — you cannot change it later.\nIf you do not wish to proceed, select Decline instead within the same 48-hour window.\n\n\n\nWhat happens next?\n\nThe offer’s Status will change from Pending to Accepted.\nYou and the mentor will receive a confirmation email."
+  },
+  {
+    "objectID": "ddmatch/create-project.html",
+    "href": "ddmatch/create-project.html",
+    "title": "Creating a Partner’s Project",
+    "section": "",
+    "text": "This guide walks partners through the steps required to successfully submit a project on the DD Match platform."
+  },
+  {
+    "objectID": "ddmatch/create-project.html#step-1-navigate-to-the-projects-tab",
+    "href": "ddmatch/create-project.html#step-1-navigate-to-the-projects-tab",
+    "title": "Creating a Partner’s Project",
+    "section": "Step 1: Navigate to the Projects Tab",
+    "text": "Step 1: Navigate to the Projects Tab\nOnce logged in, click the “Projects” tab on the left-hand menu. Then click the “Create Project” button on the top-right corner.\n\n\n\nStep 1: Navigate to Projects"
+  },
+  {
+    "objectID": "ddmatch/create-project.html#step-2-add-basic-project-information",
+    "href": "ddmatch/create-project.html#step-2-add-basic-project-information",
+    "title": "Creating a Partner’s Project",
+    "section": "Step 2: Add Basic Project Information",
+    "text": "Step 2: Add Basic Project Information\nEnter your Project Title, a short Project Overview, upload a banner image (under 1MB, 700×200px), and provide your Name and Email.\n\n\n\nStep 2: Basic Info"
+  },
+  {
+    "objectID": "ddmatch/create-project.html#step-3-choose-categories",
+    "href": "ddmatch/create-project.html#step-3-choose-categories",
+    "title": "Creating a Partner’s Project",
+    "section": "Step 3: Choose Categories",
+    "text": "Step 3: Choose Categories\nSelect the primary and secondary label that best categorize your project (e.g., Environment, Engineering, Public Policy, etc.).\n\n\n\nStep 3: Project Categories"
+  },
+  {
+    "objectID": "ddmatch/create-project.html#step-4-define-deliverables",
+    "href": "ddmatch/create-project.html#step-4-define-deliverables",
+    "title": "Creating a Partner’s Project",
+    "section": "Step 4: Define Deliverables",
+    "text": "Step 4: Define Deliverables\nDescribe the tangible outcomes students will produce over the semester. Include things like reports, dashboards, models, or presentations.\n\n\n\nStep 4: Deliverables"
+  },
+  {
+    "objectID": "ddmatch/create-project.html#step-5-project-scope",
+    "href": "ddmatch/create-project.html#step-5-project-scope",
+    "title": "Creating a Partner’s Project",
+    "section": "Step 5: Project Scope",
+    "text": "Step 5: Project Scope\nIndicate whether this is a new or continuing project, and provide a link to any related materials (website, deck, prior semester project).\n\n\n\nStep 5: Project Continuation Info"
+  },
+  {
+    "objectID": "ddmatch/create-project.html#step-6-dataset-description",
+    "href": "ddmatch/create-project.html#step-6-dataset-description",
+    "title": "Creating a Partner’s Project",
+    "section": "Step 6: Dataset Description",
+    "text": "Step 6: Dataset Description\nDescribe the type, size, and structure of your dataset. Include whether it’s observational, spatial, time-series, etc., and note if students will need to collect it.\n\n\n\nStep 6: Dataset Details"
+  },
+  {
+    "objectID": "ddmatch/create-project.html#step-7-skills-students-will-develop",
+    "href": "ddmatch/create-project.html#step-7-skills-students-will-develop",
+    "title": "Creating a Partner’s Project",
+    "section": "Step 7: Skills Students Will Develop",
+    "text": "Step 7: Skills Students Will Develop\nCheck the skills students will learn through this project (e.g., EDA, NLP, ML, data visualization).\n\n\n\nStep 7: Student Skill Development"
+  },
+  {
+    "objectID": "ddmatch/create-project.html#step-8-technical-requirements",
+    "href": "ddmatch/create-project.html#step-8-technical-requirements",
+    "title": "Creating a Partner’s Project",
+    "section": "Step 8: Technical Requirements",
+    "text": "Step 8: Technical Requirements\nSpecify which skills or tools students should be familiar with (e.g., Python, SQL, Tableau, Hugging Face, AWS). Also add any helpful background knowledge.\n\n\n\nStep 8: Technical Expectations"
+  },
+  {
+    "objectID": "ddmatch/create-project.html#step-9-final-review-and-submit",
+    "href": "ddmatch/create-project.html#step-9-final-review-and-submit",
+    "title": "Creating a Partner’s Project",
+    "section": "Step 9: Final Review and Submit",
+    "text": "Step 9: Final Review and Submit\nReview your inputs and click Submit to publish your project to the platform. Students will now be able to view and apply.\n\n\n\nStep 9: Submit Project\n\n\n\n✅ Congratulations! Your project has been successfully submitted for consideration and will undergo review by the Data Discovery Program Team. Please await further communication regarding the status of your submission.\n\n\nOnce approved, your project will appear in the student-facing portal, where eligible students can apply to join your team. In the meantime, you may return to your dashboard to monitor progress, update project details, or manage your profile.\n\n\nIf you have any questions, feel free to contact cdss-datadiscovery@berkeley.edu."
+  },
+  {
+    "objectID": "ddmatch/create-student.html",
+    "href": "ddmatch/create-student.html",
+    "title": "Create a Student Account",
+    "section": "",
+    "text": "Navigate to the homepage and click the “Student Login” tab in the top menu.\n\n\n\nStep 1: Student Login"
+  },
+  {
+    "objectID": "ddmatch/create-student.html#step-1-open-student-login",
+    "href": "ddmatch/create-student.html#step-1-open-student-login",
+    "title": "Create a Student Account",
+    "section": "",
+    "text": "Navigate to the homepage and click the “Student Login” tab in the top menu.\n\n\n\nStep 1: Student Login"
+  },
+  {
+    "objectID": "ddmatch/create-student.html#step-2-go-to-signup",
+    "href": "ddmatch/create-student.html#step-2-go-to-signup",
+    "title": "Create a Student Account",
+    "section": "Step 2: Go to Signup",
+    "text": "Step 2: Go to Signup\nOn the Student Login page, click “Signup” at the bottom.\n\n\n\nStep 2: Click Signup"
+  },
+  {
+    "objectID": "ddmatch/create-student.html#step-3-create-your-account",
+    "href": "ddmatch/create-student.html#step-3-create-your-account",
+    "title": "Create a Student Account",
+    "section": "Step 3: Create Your Account",
+    "text": "Step 3: Create Your Account\nEnter your @berkeley.edu email address, create a password, confirm it, and click Signup.\n\n\n\nStep 3: Create Account"
+  },
+  {
+    "objectID": "ddmatch/create-student.html#step-4-verify-your-email-otp",
+    "href": "ddmatch/create-student.html#step-4-verify-your-email-otp",
+    "title": "Create a Student Account",
+    "section": "Step 4: Verify Your Email (OTP)",
+    "text": "Step 4: Verify Your Email (OTP)\nCheck your inbox for a one-time password (OTP) sent to your registered email address.\nIf you don’t see it, please check your spam or junk folder. Enter the 6-digit code and click Confirm.\n\n\n\nStep 4: Enter OTP"
+  },
+  {
+    "objectID": "ddmatch/create-student.html#step-5-start-student-profile",
+    "href": "ddmatch/create-student.html#step-5-start-student-profile",
+    "title": "Create a Student Account",
+    "section": "Step 5: Start Student Profile",
+    "text": "Step 5: Start Student Profile\nAfter verification, you’ll be taken to the Student Information form. Review the instructions and begin filling out your details.\n\n\n\nStep 5: Student Information – Start"
+  },
+  {
+    "objectID": "ddmatch/create-student.html#step-6-complete-student-information",
+    "href": "ddmatch/create-student.html#step-6-complete-student-information",
+    "title": "Create a Student Account",
+    "section": "Step 6: Complete Student Information",
+    "text": "Step 6: Complete Student Information\nProvide your first/last name, preferred name, email, UID, major/minor(s), graduation year, and upload your resume. Click Submit to save.\n\n\n\nStep 6: Student Information – Submit"
+  },
+  {
+    "objectID": "ddmatch/create-student.html#step-7-access-your-dashboard",
+    "href": "ddmatch/create-student.html#step-7-access-your-dashboard",
+    "title": "Create a Student Account",
+    "section": "Step 7: Access Your Dashboard",
+    "text": "Step 7: Access Your Dashboard\nYou’ll be taken to your Student Dashboard, where you can view and manage your applications (including viewing application lists and making edits), offers, and profile.\n\n\n\nStep 7: Student Dashboard"
+  },
+  {
+    "objectID": "ddmatch/create-partner.html",
+    "href": "ddmatch/create-partner.html",
+    "title": "Creating a Partner Account",
+    "section": "",
+    "text": "This guide walks new partners through the account signup process on the DDMatch platform."
+  },
+  {
+    "objectID": "ddmatch/create-partner.html#step-1-signup",
+    "href": "ddmatch/create-partner.html#step-1-signup",
+    "title": "Creating a Partner Account",
+    "section": "Step 1: Signup",
+    "text": "Step 1: Signup\nNavigate to the homepage and click the “Partner Login” tab in the top menu.\n\n\n\nStep 1: Partner Signup\n\n\n\nThis will redirect you to the partner login portal where you can either create a new account or log in with your existing credentials."
+  },
+  {
+    "objectID": "ddmatch/create-partner.html#step-2-click-signup",
+    "href": "ddmatch/create-partner.html#step-2-click-signup",
+    "title": "Creating a Partner Account",
+    "section": "Step 2: Click “Signup”",
+    "text": "Step 2: Click “Signup”\nOn the login screen, locate the “Don’t have an account? Signup” link below the login button and click it.\n\n\n\nStep 2: Click Signup\n\n\n\nThis will redirect you to the registration form where you can create your new Partner account."
+  },
+  {
+    "objectID": "ddmatch/create-partner.html#step-3-complete-the-signup-form",
+    "href": "ddmatch/create-partner.html#step-3-complete-the-signup-form",
+    "title": "Creating a Partner Account",
+    "section": "Step 3: Complete the Signup Form",
+    "text": "Step 3: Complete the Signup Form\nEnter your email address and choose a secure password that includes at least one lowercase letter, one uppercase letter, one number, and one special character. Confirm your password, then click “Signup”.\n\n\n\nStep 3: Complete the Signup Form\n\n\n\nOnce submitted, you will be prompted to verify your email before gaining access to your partner dashboard."
+  },
+  {
+    "objectID": "ddmatch/create-partner.html#step-4-verify-your-email",
+    "href": "ddmatch/create-partner.html#step-4-verify-your-email",
+    "title": "Creating a Partner Account",
+    "section": "Step 4: Verify Your Email",
+    "text": "Step 4: Verify Your Email\nCheck your inbox for a one-time password (OTP) sent to your registered email address. If you don’t see it, be sure to check your spam or junk folder. Enter the 6-digit code in the boxes provided, then click “Confirm”.\n\n\n\nStep 4: Email Verification\n\n\n\nIf you didn’t receive the OTP, click “Request new OTP” to resend the verification code."
+  },
+  {
+    "objectID": "ddmatch/create-partner.html#step-5-login-to-your-account",
+    "href": "ddmatch/create-partner.html#step-5-login-to-your-account",
+    "title": "Creating a Partner Account",
+    "section": "Step 5: Login to Your Account",
+    "text": "Step 5: Login to Your Account\nOnce your account has been verified, return to the Partner Login page. Enter your registered email and password, then click “Login” to access your dashboard.\n\n\n\nStep 5: Login to Your Account\n\n\n\nYou now have full access to your Partner Dashboard, where you can manage your profile, submit project proposals, and track student applications."
+  },
+  {
+    "objectID": "ddmatch/create-partner.html#step-6-complete-partner-information",
+    "href": "ddmatch/create-partner.html#step-6-complete-partner-information",
+    "title": "Creating a Partner Account",
+    "section": "Step 6: Complete Partner Information",
+    "text": "Step 6: Complete Partner Information\nUpon first login, you’ll be asked to provide essential information. Enter your full name, email address, and your role in the organization. Click Next to continue through the remaining onboarding steps.\n\n\n\nStep 6: Complete Partner Information\n\n\n\nThis information helps the platform connect you with students and clarify your role in the research process."
+  },
+  {
+    "objectID": "ddmatch/create-partner.html#step-7-complete-partner-information-part-2",
+    "href": "ddmatch/create-partner.html#step-7-complete-partner-information-part-2",
+    "title": "Creating a Partner Account",
+    "section": "Step 7: Complete Partner Information (Part 2)",
+    "text": "Step 7: Complete Partner Information (Part 2)\nContinue filling in your organization details such as name, website, a short introduction, and select the appropriate sector for your organization (e.g., Private Industry, Non-Profit).\n\n\n\nStep 7: Complete Partner Information (Part 2)\n\n\n\nThese details will be displayed to students and help match your organization with the right candidates."
+  },
+  {
+    "objectID": "ddmatch/create-partner.html#step-8-request-computing-resources",
+    "href": "ddmatch/create-partner.html#step-8-request-computing-resources",
+    "title": "Creating a Partner Account",
+    "section": "Step 8: Request Computing Resources",
+    "text": "Step 8: Request Computing Resources\nYou will be asked whether your project requires access to our computing infrastructure, which may include the CDSS DataHub (powered by NAIRR) or UC Berkeley’s Savio cluster.\n\n\n\nStep 8: Request Cloud Credits\n\n\n\nSelect the most accurate response: Yes, No, or Maybe, then click Next to proceed."
+  },
+  {
+    "objectID": "ddmatch/create-partner.html#step-9-commit-to-program-requirements",
+    "href": "ddmatch/create-partner.html#step-9-commit-to-program-requirements",
+    "title": "Creating a Partner Account",
+    "section": "Step 9: Commit to Program Requirements",
+    "text": "Step 9: Commit to Program Requirements\nYou must confirm that you can meet the program’s expectations, including weekly meetings, evaluations, and support for student learning. Carefully read all the listed commitments before selecting your response.\n\n\n\nStep 9: Commit to Program Requirements\n\n\n\nSelect “Yes, I agree to commit to the requirements.” to proceed."
+  },
+  {
+    "objectID": "ddmatch/create-partner.html#step-10-upload-your-logo-submit",
+    "href": "ddmatch/create-partner.html#step-10-upload-your-logo-submit",
+    "title": "Creating a Partner Account",
+    "section": "Step 10: Upload Your Logo & Submit",
+    "text": "Step 10: Upload Your Logo & Submit\nTo acknowledge your institution’s contribution, you can optionally upload your logo (under 1MB and exactly 700×200 pixels). Choose “Yes, please include our logo” and upload the image file. Then click Submit to complete the process.\n\n\n\nStep 10: Upload Logo & Submit\n\n\n\nYour profile is now ready! You’ll receive a confirmation email and gain access to additional platform features."
+  },
+  {
+    "objectID": "ddmatch/create-partner.html#step-11-explore-the-dashboard",
+    "href": "ddmatch/create-partner.html#step-11-explore-the-dashboard",
+    "title": "Creating a Partner Account",
+    "section": "Step 11: Explore the Dashboard",
+    "text": "Step 11: Explore the Dashboard\nOnce onboarded, you’ll land in your Partner Dashboard. From here you can view:\n\nTotal projects\nApproved projects\nApplications received\n\nYou can also manage your profile, review applications, and extend offers using the navigation on the left.\n\n\n\nStep 11: Explore the Dashboard\n\n\n\nThis is your command center for participating in the Data Discovery program."
+  }
+]
