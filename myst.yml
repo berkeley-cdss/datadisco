@@ -25,6 +25,7 @@ project:
             - file: savio/datatransfer.md
             - file: savio/software.md
             - file: savio/openondemand.md
+            - file: savio/jobs.md
         - file: computing/datahub.md
           children:
             - file: computing/datahub.md
