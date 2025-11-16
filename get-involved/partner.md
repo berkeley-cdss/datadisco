@@ -10,33 +10,33 @@ We welcome all academic institutions, non-profits, government agencies, and indu
 
 ---
 
-## Timeline
+## Spring Timeline
 
-Exact program deadlines follow UC Berkeley’s academic calendar and will vary by term. Proposals can be submitted beginning in early **August** or **January**, with students applying in the following weeks. 
-
-- All student applications received by their **priority deadline** will be released for your review the following morning.
-- The student application portal will remain open, with new submissions visible immediately.
-- Most partners choose to interview students before forming their team.
-- You can expect about **12 weeks** of work time on your project each semester.
-- Students will present their work at a symposium in **early December** or **May**.
+Exact program deadlines follow UC Berkeley’s academic calendar and will vary by term. Proposals can be submitted beginning in early **August** or **January**, with students applying in the following weeks. Project work begins in the first week of the semester and continues through the last week of classes.
 
 ---
 
 ## Spring 2026 Dates
-
 - **DDMatch mentor portal opens**: *Nov. 17, 2025*  
-  The portal will open for you to begin submitting project proposals. Your proposal will be reviewed by Data Discovery staff before being posted, and we may ask you for more information.
+  The portal opens for mentors to submit project descriptions. Your proposal will be reviewed by Data Discovery staff before being posted, and we may ask you for more information.
 
 - **Project description deadline**: *Dec. 10, 2025*  
-  Approved projects will be posted for students to apply.
+  Approved mentors will be contacted. Approved projects will be posted for students to apply.
+
+- **Projects posted for students**: *Dec. 15, 2025*  
+  Students can begin applying to posted projects.
+
+- **Student application closes**: *Jan. 9, 2026*  
+  Student submissions close in DDMatch.
 
 - **Student applications viewable**: *Jan. 12, 2026*  
-  You can start reviewing applications to your project in DDMatch. You can contact students to schedule interviews, extend offers in DDMatch, and form your team of 1-5 students.
+  Mentors can begin reviewing applications and contacting students to schedule interviews.
+
+- **Mentors can begin extending offers**: *Jan. 19, 2026*  
+  Partners can begin extending offers in DDMatch and forming their team of one to five students.
 
 - **Deadline for team selection**: *Jan. 23, 2026*  
-  Please extend all offers by Jan. 23 for a prompt start to the program.
+  Please extend all offers by this date for a prompt start to the program.
 
 - **Project work begins**: *Jan. 26, 2026*  
-  Begin meeting with your team and assigning tasks for your project. The Data Discovery course for students will also begin.
-
-"""
+  Begin meeting with your team, assigning tasks, and kicking off your project. The Data Discovery course for students will also begin.
