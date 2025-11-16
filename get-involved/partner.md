@@ -22,23 +22,21 @@ Exact program deadlines follow UC Berkeley’s academic calendar and will vary b
 
 ---
 
-## Fall 2025 Dates
+## Spring 2026 Dates
 
-- **DDMatch partner portal opens**: *August 1*  
+- **DDMatch mentor portal opens**: *Nov. 17, 2025*  
   The portal will open for you to begin submitting project proposals. Your proposal will be reviewed by Data Discovery staff before being posted, and we may ask you for more information.
 
-- **Priority project description deadline**: *August 7*  
-  Submit your project description by the priority deadline to ensure it's visible to students when their portal opens. This will provide the highest visibility for your project.
+- **Project description deadline**: *Dec. 10, 2025*  
+  Approved projects will be posted for students to apply.
 
-- **Final project description deadline**: *August 18*  
-  No project descriptions will be accepted after the final deadline.
+- **Student applications viewable**: *Jan. 12, 2026*  
+  You can start reviewing applications to your project in DDMatch. You can contact students to schedule interviews, extend offers in DDMatch, and form your team of 1-5 students.
 
-- **Student applications viewable**: *August 19*  
-  The first round of student applications will be released to you the morning after the student priority deadline, and you can begin scheduling interviews with students. Any new submissions to your project will be visible automatically.
+- **Deadline for team selection**: *Jan. 23, 2026*  
+  Please extend all offers by Jan. 23 for a prompt start to the program.
 
-- **Student application closes**: *August 27*  
-  You can close your project before the final student deadline if you've selected your student team.
+- **Project work begins**: *Jan. 26, 2026*  
+  Begin meeting with your team and assigning tasks for your project. The Data Discovery course for students will also begin.
 
-- **Deadline for team selection**: *September 3*  
-  Please extend all offers by the deadline for a prompt start to the program.
 """
