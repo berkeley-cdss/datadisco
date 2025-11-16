@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://datadisco.cdss.berkeley.edu/ddmatch/apply-project.html</loc>
-    <lastmod>2025-10-08T17:51:40.059Z</lastmod>
+    <lastmod>2025-11-16T06:16:56.395Z</lastmod>
   </url>
   <url>
     <loc>https://datadisco.cdss.berkeley.edu/ddmatch/extend-offer.html</loc>
@@ -18,11 +18,11 @@
   </url>
   <url>
     <loc>https://datadisco.cdss.berkeley.edu/computing/savio.html</loc>
-    <lastmod>2025-10-08T17:51:40.059Z</lastmod>
+    <lastmod>2025-10-21T20:28:29.310Z</lastmod>
   </url>
   <url>
     <loc>https://datadisco.cdss.berkeley.edu/index.html</loc>
-    <lastmod>2025-10-08T17:51:40.060Z</lastmod>
+    <lastmod>2025-10-21T20:34:44.776Z</lastmod>
   </url>
   <url>
     <loc>https://datadisco.cdss.berkeley.edu/datahub/jupyterhub.html</loc>
@@ -42,11 +42,11 @@
   </url>
   <url>
     <loc>https://datadisco.cdss.berkeley.edu/get-involved/partner.html</loc>
-    <lastmod>2025-10-08T17:51:40.060Z</lastmod>
+    <lastmod>2025-11-16T05:17:53.156Z</lastmod>
   </url>
   <url>
     <loc>https://datadisco.cdss.berkeley.edu/ddmatch.html</loc>
-    <lastmod>2025-10-08T17:51:40.059Z</lastmod>
+    <lastmod>2025-10-21T20:40:46.357Z</lastmod>
   </url>
   <url>
     <loc>https://datadisco.cdss.berkeley.edu/get-involved.html</loc>
@@ -54,7 +54,7 @@
   </url>
   <url>
     <loc>https://datadisco.cdss.berkeley.edu/get-involved/student-researchers.html</loc>
-    <lastmod>2025-10-08T17:51:40.060Z</lastmod>
+    <lastmod>2025-11-07T00:34:56.004Z</lastmod>
   </url>
   <url>
     <loc>https://datadisco.cdss.berkeley.edu/welcome.html</loc>
@@ -95,5 +95,25 @@
   <url>
     <loc>https://datadisco.cdss.berkeley.edu/ddmatch/create-partner.html</loc>
     <lastmod>2025-10-08T17:51:40.060Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datadisco.cdss.berkeley.edu/savio/software.html</loc>
+    <lastmod>2025-10-21T20:28:29.313Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datadisco.cdss.berkeley.edu/savio/jobs.html</loc>
+    <lastmod>2025-11-07T00:31:57.796Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datadisco.cdss.berkeley.edu/savio/accounts.html</loc>
+    <lastmod>2025-10-21T20:28:29.312Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datadisco.cdss.berkeley.edu/savio/datatransfer.html</loc>
+    <lastmod>2025-10-21T20:28:29.312Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datadisco.cdss.berkeley.edu/savio/openondemand.html</loc>
+    <lastmod>2025-10-21T20:28:29.313Z</lastmod>
   </url>
 </urlset>

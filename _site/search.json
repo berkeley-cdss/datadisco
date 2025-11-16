@@ -130,7 +130,7 @@
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "Welcome to the Data Discovery Match (DD Match) Platform. This guide will walk you through how to use the platform whether you are a Project Partner or Student Researcher. You’ll learn how to sign up, submit projects, apply, and manage submissions."
+    "text": "Welcome to the Data Discovery Onboarding Guidebook. This guidebook will walk you through how to use the DD Match Platform, access Savio and DataHub resources, and navigate key processes in the Data Discovery Program. You’ll learn how to create an account, submit and manage projects, connect with partners, and make the most of available computing and research tools."
   },
   {
     "objectID": "datahub/jupyterhub.html",
@@ -200,7 +200,7 @@
     "href": "ddmatch.html",
     "title": "DD Match Platform Guide",
     "section": "",
-    "text": "Welcome to the Data Discovery Match Platform. This guide will walk you through how to use the platform whether you are a Project Partner or Student Researcher. You’ll learn how to sign up, submit projects, apply, and manage submissions."
+    "text": "Welcome to the Data Discovery Match Platform. This onboard guidebook will walk you through how to use the platform whether you are a Project Partner or Student Researcher. You’ll learn how to sign up, submit projects, apply, and manage submissions."
   },
   {
     "objectID": "get-involved.html",
@@ -242,7 +242,7 @@
     "href": "get-involved/student-researchers.html#timeline",
     "title": "For Student Researchers",
     "section": "Timeline",
-    "text": "Timeline\nExact program deadlines vary by semester. Typically, Data Discovery applications open to students about 2 weeks before instruction begins. For the most competitive application, apply by the priority deadline, about 1 week before classes start. The application closes during the first week of class. Most project mentors will schedule an interview before making an offer. You can add yourself to the Data Discovery course waitlist once you’ve scheduled an interview. If you accept an offer, you’ll be moved from the waitlist and admitted to the course. Work on the project will end during the last week of class, with a final presentation during RRR week.\n\nFall 2025 Deadlines\n\nDDMatch student application portal opens: August 11. Begin reading the project descriptions and preparing your application(s).\nPriority deadline: August 18. Get your application in by the priority deadline (11:59pm) to have the most competitive application. Partners may form teams before the extended deadline closes.\nExtended deadline: August 27. Take advantage of the extended deadline if you can’t make the priority deadline or want to apply to additional projects.\nTeam formation: September 3. Decisions are expected by September 3.\nFirst day of class: September 8. The first Data Discovery course meeting will be Monday, September 8, 3-5 pm. All participants should plan to attend."
+    "text": "Timeline\nExact program deadlines vary by semester. Typically, Data Discovery applications open to students about 2 weeks before instruction begins. For the most competitive application, apply by the priority deadline, about 1 week before classes start. The application closes during the first week of class. Most project mentors will schedule an interview before making an offer. You can add yourself to the Data Discovery course waitlist once you’ve scheduled an interview. If you accept an offer, you’ll be moved from the waitlist and admitted to the course. Work on the project will end during the last week of class, with a final presentation during RRR week."
   },
   {
     "objectID": "get-involved/student-researchers.html#requirements",
@@ -256,7 +256,7 @@
     "href": "get-involved/student-researchers.html#application",
     "title": "For Student Researchers",
     "section": "Application",
-    "text": "Application\n\nMax applications: You may apply for up to 10 projects (you may participate in only one).\nQuestions: Submit the form responding to these questions for each project you want to apply to, using the link in the project description. Refer to the specific instructions in the description for each project, and address all relevant details for a complete application. See the guide for the list of questions in the application. ““”"
+    "text": "Application\n\nMax applications: You may apply for up to 10 projects (you may participate in only one).\nApplication questions: You’ll be asked to answer these three questions in your application:\n\nPlease describe your relevant core skills, additional skills, and any experience with the topics listed for this project (50-150 words).* Include the context (e.g., coursework, internship, or personal project).\nWhat experiences do you bring that would help make this Data Discovery project successful? Consider including examples of times you showed leadership, resourcefulness, or the ability to work independently (max 250 words)*.\nWhat do you wish to gain through participating in this project? Your response should address why you’ve chosen this project in particular (max 250 words)*."
   },
   {
     "objectID": "welcome.html",
@@ -586,5 +586,264 @@
     "title": "Creating a Partner Account",
     "section": "Step 11: Explore the Dashboard",
     "text": "Step 11: Explore the Dashboard\nOnce onboarded, you’ll land in your Partner Dashboard. From here you can view:\n\nTotal projects\nApproved projects\nApplications received\n\nYou can also manage your profile, review applications, and extend offers using the navigation on the left.\n\n\n\nStep 11: Explore the Dashboard\n\n\n\nThis is your command center for participating in the Data Discovery program."
+  },
+  {
+    "objectID": "ddmatch/apply-project.html#step-3-complete-the-short-essay-questions-and-submit-your-application",
+    "href": "ddmatch/apply-project.html#step-3-complete-the-short-essay-questions-and-submit-your-application",
+    "title": "Apply to Projects",
+    "section": "Step 3: Complete the short essay questions and submit your application",
+    "text": "Step 3: Complete the short essay questions and submit your application\nOn the application page, respond to the three short essay prompts:\n\nDescribe your core and additional skills relevant to the project (50–150 words).\n\nExplain what experiences you bring that would help make the project successful (max 250 words).\n\nShare what you hope to gain from participating in this specific project and why you chose it (max 250 words).\n\nWhen all fields are complete, click Submit to finish your application.\n\n\n\nStep 3: Application questions & Submit\n\n\nNote: You may apply to up to 10 projects per term.\nRepeat this process for any additional projects you would like to be considered for."
+  },
+  {
+    "objectID": "savio/software.html",
+    "href": "savio/software.html",
+    "title": "Software and Modules",
+    "section": "",
+    "text": "Savio provides a wide range of pre-installed software maintained by Berkeley Research Computing (BRC) system administrators and consultants. This includes compilers, interpreters, tools for data analysis, visualization, bioinformatics, computational biology, and more.\nSoftware is accessed through Environment Modules, which dynamically set environment variables (e.g., PATH, LD_LIBRARY_PATH) so that different tools and versions can coexist.\nAfter Savio’s Rocky Linux 8 upgrade (July 2024), modules are managed by the Lmod Environment Module system. In addition to familiar commands such as module avail, module load, and module unload, a new command—module spider—helps you find dependencies and compatible versions of software packages."
+  },
+  {
+    "objectID": "savio/software.html#overview",
+    "href": "savio/software.html#overview",
+    "title": "Software and Modules",
+    "section": "",
+    "text": "Savio provides a wide range of pre-installed software maintained by Berkeley Research Computing (BRC) system administrators and consultants. This includes compilers, interpreters, tools for data analysis, visualization, bioinformatics, computational biology, and more.\nSoftware is accessed through Environment Modules, which dynamically set environment variables (e.g., PATH, LD_LIBRARY_PATH) so that different tools and versions can coexist.\nAfter Savio’s Rocky Linux 8 upgrade (July 2024), modules are managed by the Lmod Environment Module system. In addition to familiar commands such as module avail, module load, and module unload, a new command—module spider—helps you find dependencies and compatible versions of software packages."
+  },
+  {
+    "objectID": "savio/software.html#accessing-software-using-environment-modules",
+    "href": "savio/software.html#accessing-software-using-environment-modules",
+    "title": "Software and Modules",
+    "section": "Accessing Software Using Environment Modules",
+    "text": "Accessing Software Using Environment Modules\nUse the module command to view, load, or unload available software: - module avail: List all available modulefiles in your MODULEPATH. - module list: Show currently loaded modules. - module load &lt;modulefile&gt;: Load one or more modules. - module unload &lt;modulefile&gt;: Unload one or more modules. - module swap &lt;modulefile1&gt; &lt;modulefile2&gt;: Replace one loaded module with another. - module show &lt;modulefile&gt;: Display configuration info for a module. - module whatis &lt;modulefile&gt;: Show a summary description. - module keyword &lt;key&gt;: Search for modules containing specific keywords. - module purge: Unload all currently loaded modules. For more details, run man module on Savio."
+  },
+  {
+    "objectID": "savio/software.html#default-modules",
+    "href": "savio/software.html#default-modules",
+    "title": "Software and Modules",
+    "section": "Default Modules",
+    "text": "Default Modules\nIf you load a module without specifying a version (e.g., module load python), the default version (marked (D)) is loaded. The loaded modules are marked (L) in the module avail output.\nFor reproducibility, always specify versions explicitly:"
+  },
+  {
+    "objectID": "savio/software.html#hierarchical-module-structure",
+    "href": "savio/software.html#hierarchical-module-structure",
+    "title": "Software and Modules",
+    "section": "Hierarchical Module Structure",
+    "text": "Hierarchical Module Structure\nSavio organizes modules hierarchically. Some modules (e.g., C libraries) appear only after loading their parent compiler module.\nmodule load gcc/13.2.0\nmodule avail\nUse module spider to discover hidden modules or dependencies.\nYou can also search all available modules:\nfind /global/software/rocky-8.x86_64/modfiles -type d -exec ls -d {} \\;\nOr narrow results with grep:\nfind /global/software/rocky-8.x86_64/modfiles -type d -exec ls -d {} \\; | grep hdf5"
+  },
+  {
+    "objectID": "savio/software.html#example-loading-and-managing-modules",
+    "href": "savio/software.html#example-loading-and-managing-modules",
+    "title": "Software and Modules",
+    "section": "Example: Loading and Managing Modules",
+    "text": "Example: Loading and Managing Modules\nmodule purge\nmodule load gcc/13.2.0 openmpi/4.1.6\nmodule load intel-oneapi-mkl\nmodule list\nTo unload and switch:\nmodule unload openmpi\nmodule switch intel-oneapi-mkl netlib-lapack\nmodule list\nUse module show for configuration details and module whatis for summaries."
+  },
+  {
+    "objectID": "savio/software.html#software-provided-on-savio",
+    "href": "savio/software.html#software-provided-on-savio",
+    "title": "Software and Modules",
+    "section": "Software Provided on Savio",
+    "text": "Software Provided on Savio\nTo view the full, up-to-date list, run:\nmodule avail\nThe current common categories are: - Development Tools: Emacs, Vim, make, cmake, Ninja, Bazel, Spack - Version Control: Git, Mercurial - Languages & Compilers: Anaconda, GCC, Intel oneAPI, LLVM, Java, R, Python, MATLAB, Julia, Rust - Math & Statistics: MKL, FFTW, LAPACK, ScaLAPACK, GSL, OpenBLAS, Eigen - I/O & Data: HDF5, NetCDF, protobuf, LevelDB - Visualization & ML: MATLAB, Gnuplot, TensorFlow, PyTorch, Scikit-learn - Bioinformatics: ABRicate, BLAST, Bowtie, FastQC, GROMACS, RELION, Snippy - Utilities: tmux, parallel, iperf3, rsync, rclone - Publishing: TeX Live, Doxygen"
+  },
+  {
+    "objectID": "savio/software.html#installing-your-own-software",
+    "href": "savio/software.html#installing-your-own-software",
+    "title": "Software and Modules",
+    "section": "Installing Your Own Software",
+    "text": "Installing Your Own Software\nIf software is unavailable on Savio, you can install it yourself.\nRequirements - Must run on Rocky Linux 8 (x86_64). - Must install without root privileges. - Must fit within your HOME (30 GB) or group directory quota. - Should use existing compilers/libraries (GCC or Intel). - Must comply with software license terms for cluster usage.\nThere are two main installation locations for your software: - Personal Use: /global/home/users/&lt;username&gt; - Group-wide Use: /global/home/groups/&lt;groupname&gt;\nFor scripting languages, install using built-in package managers: - Python: pip install --user &lt;package&gt; or use Conda - R: install.packages(\"&lt;package&gt;\") - Perl: cpanm --local-lib=~/perl5 &lt;package&gt; Conda can also install non-Python software (e.g., R, Julia, Java)."
+  },
+  {
+    "objectID": "savio/software.html#using-specialized-software",
+    "href": "savio/software.html#using-specialized-software",
+    "title": "Software and Modules",
+    "section": "Using Specialized Software",
+    "text": "Using Specialized Software\nHere are some links to introductory guides on the use of various software applications on Savio.\n\nUsing Python: An introduction to using Python, a programming language widely used in scientific computing, on Savio.\nUsing R: An introduction to using R, a language and environment for statistical computing and graphics, on Savio.\nUsing MATLAB: An introduction to using MATLAB, a matrix-based, technical computing language and environment for solving engineering and scientific problems, on Savio.\nUsing Mathematica: An introduction to using Mathematica on Savio.\nUsing Apptainer (Singularity): An introduction to using Apptainer (formerly Singularity), a software tool that facilitates the movement of software applications and workflows between various computational environments, on Savio.\nUsing Julia\nUsing Perl"
+  },
+  {
+    "objectID": "savio/jobs.html",
+    "href": "savio/jobs.html",
+    "title": "Submitting and Running Jobs",
+    "section": "",
+    "text": "To submit, run, monitor, and cancel jobs on Savio, you’ll use SLURM (the Simple Linux Utility for Resource Management). SLURM is an open-source scheduler that manages jobs, job steps, nodes, partitions, and accounts on the cluster."
+  },
+  {
+    "objectID": "savio/jobs.html#overview",
+    "href": "savio/jobs.html#overview",
+    "title": "Submitting and Running Jobs",
+    "section": "",
+    "text": "To submit, run, monitor, and cancel jobs on Savio, you’ll use SLURM (the Simple Linux Utility for Resource Management). SLURM is an open-source scheduler that manages jobs, job steps, nodes, partitions, and accounts on the cluster."
+  },
+  {
+    "objectID": "savio/jobs.html#common-slurm-commands",
+    "href": "savio/jobs.html#common-slurm-commands",
+    "title": "Submitting and Running Jobs",
+    "section": "Common SLURM Commands",
+    "text": "Common SLURM Commands\n* - Command\n  - Description\n  - Example\n* - `sbatch`\n  - Submit a batch job script\n  - `sbatch myjob.sh`\n* - `srun`\n  - Run an interactive job\n  - `srun --pty bash`\n* - `scancel`\n  - Cancel a job\n  - `scancel 12345`\n* - `squeue`\n  - View job queue\n  - `squeue -u $USER`\n* - `sq`\n  - Explain why a job is pending\n  - `module load sq; sq`\n* - `sacctmgr`\n  - Check project/account access\n  - `sacctmgr -p show associations user=$USER`\n* - `sinfo`\n  - Show node and partition status\n  - `sinfo`\n* - `sacct`\n  - View accounting and completed jobs\n  - `sacct -j 123451`"
+  },
+  {
+    "objectID": "savio/jobs.html#submitting-jobs",
+    "href": "savio/jobs.html#submitting-jobs",
+    "title": "Submitting and Running Jobs",
+    "section": "Submitting Jobs",
+    "text": "Submitting Jobs\nJobs on Savio can be batch (non-interactive) or interactive. When submitting, you must specify: Account (required): (--account)\nEach job runs under an account that determines which resources you can use and how usage is billed. Check your available accounts using:\nsacctmgr -p show associations user=$USER\nPartition (required): (--partition)\nSpecifies the group of nodes (e.g., CPU, GPU, HTC). For example:\n#SBATCH --partition=savio3_htc\nTime limit (required): (--time)\nSpecifies the maximum wall-clock time your job can run. Format: days-hours:minutes:seconds. For example:\n#SBATCH --time=00:30:00   # 30 minutes\nQoS (optional; depends on your project): Defines job priority and limits. Common QoS values include: - savio_normal — default - savio_debug — for short tests - savio_lowprio — low-priority preemptible jobs For example:\n#SBATCH --qos=savio_debug"
+  },
+  {
+    "objectID": "savio/jobs.html#example-basic-batch-job",
+    "href": "savio/jobs.html#example-basic-batch-job",
+    "title": "Submitting and Running Jobs",
+    "section": "Example: Basic Batch Job",
+    "text": "Example: Basic Batch Job\n#!/bin/bash\n#SBATCH --job-name=test\n#SBATCH --account=fc_NAME\n#SBATCH --partition=savio3_htc\n#SBATCH --time=00:00:30\n\necho \"Hello world from Savio!\"\nSubmit with:\nsbatch myjob.sh\nOutput is saved as:\nslurm-&lt;jobid&gt;.out"
+  },
+  {
+    "objectID": "savio/jobs.html#interactive-jobs",
+    "href": "savio/jobs.html#interactive-jobs",
+    "title": "Submitting and Running Jobs",
+    "section": "Interactive Jobs",
+    "text": "Interactive Jobs\nFor interactive sessions (e.g., debugging, testing, GUI tools):\nsrun --pty -A &lt;account&gt; -p &lt;partition&gt; -t 00:30:00 bash -i\nYou’ll see:\nsrun: job 669120 queued and waiting for resources\nsrun: job 669120 has been allocated resources\n[user@n0047 ~]$\nNow you’re on a compute node. Run your commands normally."
+  },
+  {
+    "objectID": "savio/jobs.html#job-arrays",
+    "href": "savio/jobs.html#job-arrays",
+    "title": "Submitting and Running Jobs",
+    "section": "Job Arrays",
+    "text": "Job Arrays\nUse job arrays to run multiple similar jobs efficiently:\n#!/bin/bash\n#SBATCH --job-name=array_example\n#SBATCH --account=fc_NAME\n#SBATCH --partition=savio3_htc\n#SBATCH --array=0-31\n#SBATCH --output=array_job_%A_task_%a.out\n#SBATCH --error=array_job_%A_task_%a.err\n#SBATCH --time=00:01:00\n\necho \"Running task $SLURM_ARRAY_TASK_ID\"\nSubmit with:\nsbatch array_job.sh\nEach array element runs as a separate job (task 0, task 1, etc.)."
+  },
+  {
+    "objectID": "savio/jobs.html#low-priority-jobs",
+    "href": "savio/jobs.html#low-priority-jobs",
+    "title": "Submitting and Running Jobs",
+    "section": "Low Priority Jobs",
+    "text": "Low Priority Jobs\nUse the savio_lowprio QoS to take advantage of idle cluster resources. - Pros: Doesn’t count toward your condo allocation - Cons: Lower priority and can be preempted (killed or requeued)\nExample:\n#SBATCH --qos=savio_lowprio\n#SBATCH --requeue"
+  },
+  {
+    "objectID": "savio/jobs.html#email-notifications-and-output-files",
+    "href": "savio/jobs.html#email-notifications-and-output-files",
+    "title": "Submitting and Running Jobs",
+    "section": "Email Notifications and Output Files",
+    "text": "Email Notifications and Output Files\nBy default, SLURM writes all job output to slurm-%j.out. To customize this:\n#SBATCH --output=myjob_%j.out\n#SBATCH --error=myjob_%j.err\nIf you would like to receive email updates:\n#SBATCH --mail-type=END,FAIL\n#SBATCH --mail-user=EMAIL\nExample:\n#!/bin/bash\n#SBATCH --job-name=test\n#SBATCH --account=fc_NAME\n#SBATCH --partition=savio3_htc\n#SBATCH --nodes=1\n#SBATCH --ntasks-per-node=1\n#SBATCH --cpus-per-task=8\n#SBATCH --time=00:00:30\n#SBATCH --output=test_%j.out\n#SBATCH --error=test_%j.err\n#SBATCH --mail-type=END,FAIL\n#SBATCH --mail-user=EMAIL\n\necho \"hello world\""
+  },
+  {
+    "objectID": "savio/jobs.html#monitoring-jobs",
+    "href": "savio/jobs.html#monitoring-jobs",
+    "title": "Submitting and Running Jobs",
+    "section": "Monitoring Jobs",
+    "text": "Monitoring Jobs\nVia Command Line\n* - Command\n  - Purpose\n  - Example\n* - `squeue -u $USER`\n  - View active jobs\n  - \n* - `sacct -j &lt;jobid&gt;`\n  - View completed job info\n  - `sacct -j 12345 --format=JobID,JobName,Elapsed,MaxRSS`\n* - `sinfo`\n  - Show node/partition status\n  - `sinfo -p savio3_htc`\n* - `wwall -j &lt;jobid&gt;`\n  - Check resource usage snapshot\n  - \n* - `wwtop`\n  - “top”-like node summary\n  - \nTo monitor a running job interactively:\nsrun --jobid=&lt;jobid&gt; --pty /bin/bash\nVia MyBRC Portal 1. Visit MyBRC Portal and go to Jobs → Job List 2. Filter by user/project 3. Click a job’s SLURM ID to view: - Start/end times - Nodes used - CPUs & memory - Service Units consumed"
+  },
+  {
+    "objectID": "savio/jobs.html#pending-jobs",
+    "href": "savio/jobs.html#pending-jobs",
+    "title": "Submitting and Running Jobs",
+    "section": "Pending Jobs",
+    "text": "Pending Jobs\nTo diagnose pending jobs:\nmodule load sq\nsq\nwill provide you with an explanation.\nFor a raw queue check:\nsqueue -p &lt;partition_name&gt; --state=PD -l\nTo estimate start time:\nsqueue -j &lt;jobid&gt; --start\nTips to start faster: - Request fewer nodes or shorter wall time - Submit to a less-busy partition - Use sinfo to see idle nodes - Use savio_lowprio QoS when possible\nFor more details on using running and submitting jobs, look at the full documentation provided by Research IT."
+  },
+  {
+    "objectID": "savio/accounts.html",
+    "href": "savio/accounts.html",
+    "title": "Accounts",
+    "section": "",
+    "text": "Visit the MyBRC portal and log in. Most people should choose CalNet, including CalNet Sponsored Guests. External collaborators can choose Other and then External Collaborator.\nIf this is your first time creating an account, you must complete the Sign the cluster user access agreement task before you can join a project.\nClick My BRC Cluster Projects, then Join a project.\nClick Search and search for pc_cdssdisc in the Project Name field.\n\n\n\n\nProject Home Page\n\n\n\nClick Join on the project entry."
+  },
+  {
+    "objectID": "savio/accounts.html#request-an-account",
+    "href": "savio/accounts.html#request-an-account",
+    "title": "Accounts",
+    "section": "",
+    "text": "Visit the MyBRC portal and log in. Most people should choose CalNet, including CalNet Sponsored Guests. External collaborators can choose Other and then External Collaborator.\nIf this is your first time creating an account, you must complete the Sign the cluster user access agreement task before you can join a project.\nClick My BRC Cluster Projects, then Join a project.\nClick Search and search for pc_cdssdisc in the Project Name field.\n\n\n\n\nProject Home Page\n\n\n\nClick Join on the project entry."
+  },
+  {
+    "objectID": "savio/accounts.html#logging-in",
+    "href": "savio/accounts.html#logging-in",
+    "title": "Accounts",
+    "section": "Logging in",
+    "text": "Logging in\n\nEnsure that you’ve set up one-time password authentification. Follow the instructions to do so here.\nOpen your terminal/SSH program and connect to the Savio cluster via SSH using the command:\n\n\nRun:\n\nssh yourusername@hpc.brc.berkeley.edu\n\nUse the Data Transfer Node dtn.brc.berkeley.edu for data transferring!\n\n\nAt the Password prompt, enter your token PIN, followed immediately by the 6-digit one-time password displayed in your Google Authenticator app. ex. if your PIN was 9999 and your OTP was 123456, you would enter Password: 9999123456."
+  },
+  {
+    "objectID": "get-involved/partner.html#spring-timeline",
+    "href": "get-involved/partner.html#spring-timeline",
+    "title": "For Project Partners",
+    "section": "Spring Timeline",
+    "text": "Spring Timeline\nExact program deadlines follow UC Berkeley’s academic calendar and will vary by term. Proposals can be submitted beginning in early August or January, with students applying in the following weeks. Project work begins in the first week of the semester and continues through the last week of classes."
+  },
+  {
+    "objectID": "get-involved/partner.html#spring-2026-dates",
+    "href": "get-involved/partner.html#spring-2026-dates",
+    "title": "For Project Partners",
+    "section": "Spring 2026 Dates",
+    "text": "Spring 2026 Dates\n\nDDMatch mentor portal opens: Nov. 17, 2025\nThe portal opens for mentors to submit project descriptions. Your proposal will be reviewed by Data Discovery staff before being posted, and we may ask you for more information.\nProject description deadline: Dec. 10, 2025\nApproved mentors will be contacted. Approved projects will be posted for students to apply.\nProjects posted for students: Dec. 15, 2025\nStudents can begin applying to posted projects.\nStudent application closes: Jan. 9, 2026\nStudent submissions close in DDMatch.\nStudent applications viewable: Jan. 12, 2026\nMentors can begin reviewing applications and contacting students to schedule interviews.\nMentors can begin extending offers: Jan. 19, 2026\nPartners can begin extending offers in DDMatch and forming their team of one to five students.\nDeadline for team selection: Jan. 23, 2026\nPlease extend all offers by this date for a prompt start to the program.\nProject work begins: Jan. 26, 2026\nBegin meeting with your team, assigning tasks, and kicking off your project. The Data Discovery course for students will also begin."
+  },
+  {
+    "objectID": "savio/datatransfer.html",
+    "href": "savio/datatransfer.html",
+    "title": "Data Transfer",
+    "section": "",
+    "text": "When transferring data, always connect to:\ndtn.brc.berkeley.edu\nThis is Savio’s Data Transfer Node (DTN), which is designed for file movement, not computation. Executables cannot be run on the DTN, so place scripts or executables in your home or group directory instead.\nThere are three main transfer methods you can choose from: 1. Globus: for large/many files 2. SFTP or SCP: small-sized data transfers 3. rclone or Git: cloud or versioned data"
+  },
+  {
+    "objectID": "savio/datatransfer.html#overview",
+    "href": "savio/datatransfer.html#overview",
+    "title": "Data Transfer",
+    "section": "",
+    "text": "When transferring data, always connect to:\ndtn.brc.berkeley.edu\nThis is Savio’s Data Transfer Node (DTN), which is designed for file movement, not computation. Executables cannot be run on the DTN, so place scripts or executables in your home or group directory instead.\nThere are three main transfer methods you can choose from: 1. Globus: for large/many files 2. SFTP or SCP: small-sized data transfers 3. rclone or Git: cloud or versioned data"
+  },
+  {
+    "objectID": "savio/datatransfer.html#using-globus",
+    "href": "savio/datatransfer.html#using-globus",
+    "title": "Data Transfer",
+    "section": "Using Globus",
+    "text": "Using Globus\nGlobus is the easiest and most robust option for medium-to-large data transfers. 1. Visit the Globus website and either create a free Globus ID or login using your UC Berkeley credentials. 2. In the File Manager, turn on two-panel mode by toggling the switch near the top right. 3. In the Collection field at left, search for the Savio endpoint:\nucb#brc\n\nAuthenticate with your BRC cluster username and token PIN + one-time password (Google Authenticator).\nIn the other panel, select your personal computer or another storage endpoint.\nDrag-and-drop files between panels and click Start.\n\nGlobus supports scheduled workflows via Globus Timer and command-line scripting using the Globus CLI. You can automate recurring backups or syncs between Savio and external endpoints. For more details on using Globus, check out the full documentation."
+  },
+  {
+    "objectID": "savio/datatransfer.html#using-sftp-via-filezilla",
+    "href": "savio/datatransfer.html#using-sftp-via-filezilla",
+    "title": "Data Transfer",
+    "section": "Using SFTP via FileZilla",
+    "text": "Using SFTP via FileZilla\nThis option is good for smaller file transfers.\n\nIf you don’t already have FileZilla, download it from the FileZilla website. Open FileZilla.\nOpen File &gt; Site Manager &gt; New Site and set:\n\n\nHost: dtn.brc.berkeley.edu\nProtocol: SFTP - SSH File Transfer Protocol\nLogon Type: Interactive\nUser: &lt;your Savio username&gt;\n\n\nClick Connect.\nWhen prompted:\n\n\nGenerate a one-time password using Google Authenticator.\nEnter your PIN + one-time password together.\nUncheck “Remember password until FileZilla is closed.”\n\n\nYou’ll now see your Savio home directory.\n\n\nDrag files from local → remote to upload.\nDrag remote → local to download.\n\nFor more details on using SFTP via FileZilla, check out the full documentation."
+  },
+  {
+    "objectID": "savio/datatransfer.html#using-scp-command-line",
+    "href": "savio/datatransfer.html#using-scp-command-line",
+    "title": "Data Transfer",
+    "section": "Using SCP (Command Line)",
+    "text": "Using SCP (Command Line)\nFor quick terminal transfers on Mac OS/Linux:\n# Upload a file to Savio\nscp myfile.txt myusername@dtn.brc.berkeley.edu:/global/home/users/myusername\n\n# Download a file from Savio\nscp myusername@dtn.brc.berkeley.edu:~/myfile.txt ~/.\n\n# Upload a folder recursively\nscp -r myfolder myusername@dtn.brc.berkeley.edu:/global/scratch/users/myusername\n\n# Download a folder\nscp -r myusername@dtn.brc.berkeley.edu:~/myfolder ~/.\nRemember to always connect to dtn.brc.berkeley.edu, not hpc.brc.berkeley.edu!\nFor more details on using SCP, check out the full documentation."
+  },
+  {
+    "objectID": "savio/datatransfer.html#using-rclone-for-box-and-google-drive",
+    "href": "savio/datatransfer.html#using-rclone-for-box-and-google-drive",
+    "title": "Data Transfer",
+    "section": "Using rclone (for Box and Google Drive)",
+    "text": "Using rclone (for Box and Google Drive)\nrclone is pre-installed on Savio and is great for syncing data to Box or bDrive. rclone works via command line or scripts, supports encryption and integrity checks, and can automate nightly backups.\n\nSSH into the DTN:\n\nssh yourusername@dtn.brc.berkeley.edu\n\nRun:\n\nrclone config\n\nFollow prompts to connect to Box or bDrive. (You’ll authorize your account in a browser.)\n\nHere are some basic commands for using rclone:\n# List connected remotes\nrclone listremotes\n\n# List directories in Box\nrclone lsd Box:\n\n# Copy from Savio to Box\nrclone copy /global/home/users/yourusername/project Box:project_backup\n\n# Copy from Box to Savio\nrclone copy Box:admin /global/home/users/yourusername/admin\n\n# Sync directories (two-way)\nrclone sync /global/scratch/users/yourusername/data Box:data\nFor more details on using rclone, check out the full documentation"
+  },
+  {
+    "objectID": "savio/openondemand.html",
+    "href": "savio/openondemand.html",
+    "title": "Open OnDemand",
+    "section": "",
+    "text": "Open OnDemand (OOD) provides browser-based, interactive access to Savio at https://ood.brc.berkeley.edu. You can launch desktops and apps, browse files, submit/monitor Slurm jobs, and open a terminal, all from your browser.\nSome apps and services that are provided are: - OOD Desktop - Jupyter notebooks - RStudio - MATLAB via a Desktop environment - VS Code - File browsing - Slurm job listing - Terminal/shell access"
+  },
+  {
+    "objectID": "savio/openondemand.html#overview",
+    "href": "savio/openondemand.html#overview",
+    "title": "Open OnDemand",
+    "section": "",
+    "text": "Open OnDemand (OOD) provides browser-based, interactive access to Savio at https://ood.brc.berkeley.edu. You can launch desktops and apps, browse files, submit/monitor Slurm jobs, and open a terminal, all from your browser.\nSome apps and services that are provided are: - OOD Desktop - Jupyter notebooks - RStudio - MATLAB via a Desktop environment - VS Code - File browsing - Slurm job listing - Terminal/shell access"
+  },
+  {
+    "objectID": "savio/openondemand.html#logging-in",
+    "href": "savio/openondemand.html#logging-in",
+    "title": "Open OnDemand",
+    "section": "Logging In",
+    "text": "Logging In\n\nVisit https://ood.brc.berkeley.edu.\nAuthenticate via CILogon (choose University of California, Berkeley unless otherwise directed) and login with your UC Berkeley credentials."
+  },
+  {
+    "objectID": "savio/openondemand.html#service-unit-charges",
+    "href": "savio/openondemand.html#service-unit-charges",
+    "title": "Open OnDemand",
+    "section": "Service Unit Charges",
+    "text": "Service Unit Charges\nMost OOD apps launch Slurm interactive sessions behind the scenes. They incur SUs just like regular Slurm jobs.\nTwo shared nodes—n0000.savio4 and n0001.savio4 (partition: ood-inter) are provided for low-intensity work and do not consume SUs. Treat these like login nodes (no heavy computation). Time is charged from the moment a node is allocated until you stop the session, even if the browser tab is closed.\nTo check usage, go to My Interactive Sessions and view all currently running jobs under Jobs → Active Jobs."
+  },
+  {
+    "objectID": "savio/openondemand.html#using-open-ondemand",
+    "href": "savio/openondemand.html#using-open-ondemand",
+    "title": "Open OnDemand",
+    "section": "Using Open OnDemand",
+    "text": "Using Open OnDemand\nFiles App\nNavigate to Files → Home Directory to: - View, create, rename, and delete files/folders - Upload/download files (For large transfers, use Globus instead)\nView Active Jobs\nJobs → Active Jobs lets you view/cancel Slurm jobs, including those created by sbatch/srun and sessions launched via OOD.\nShell Access\nOpen a cluster shell via Clusters → BRC Shell Access.\nInteractive Apps\nLaunch from Interactive Apps (top menu). Available options include: - Desktop App (full GUI desktop on Savio) - Jupyter Server - RStudio Server - Code Server (VS Code)\nDesktop App\nUse the Desktop App for GUI software (e.g., MATLAB GUI), light visualization, and file management.\nTo start a desktop session: 1. Log in at https://ood.brc.berkeley.edu. 2. Go to Interactive Apps → Desktop and choose shared node (exploration/debugging; no SUs) or compute via Slurm (SUs apply). 3. Fill the form → Launch. 4. Adjust image quality/compression if needed → Launch Desktop, which will open a new tab with your desktop session. 5. To open a command line terminal, use the file manager in the desktop or right-click the desktop → Open Terminal Here\nJupyter Server\nChoose Jupyter Server under Interactive Apps. You will have the option to run on shared nodes (no SUs; low intensity) or via Slurm partitions (SUs apply). When finished, go to My Interactive Sessions and Delete the session to stop charges\nDon’t submit Slurm jobs from the terminal inside Jupyter. The Jupyter server itself is running inside a Slurm job; launching jobs from within it (job-in-job) can cause failures. For job submission from a browser, use Clusters → BRC Shell Access instead.\nRStudio Server\nLaunch via Interactive Apps → RStudio Server. There are three available modes: - Compute via Slurm (SUs apply; choose resources) - Compute on shared OOD node (no SUs; ≤ 8 GB RAM; a few cores only) - Stop charges by Deleting the session under My Interactive Sessions\nFor packages needing compilation or external libs, install from a command-line R session (outside OOD RStudio). Once installed, they’ll be available in RStudio.\nSome variables (e.g., SLURM_CPUS_ON_NODE) are not visible inside OOD RStudio via Sys.getenv() or system().\nCode Server (VS Code)\nLaunch Code Server (VS Code in the browser). There are two available modes: - Compute via Slurm (SUs apply) - Exploration/debugging on shared nodes (no SUs; ≤ 8 GB RAM; a few cores)\nVS Code Remote SSH is not allowed for Savio for security reasons. Use Code Server via OOD instead.\nFor more details on using Open OnDemand, look at the full documentation provided by Research IT."
   }
 ]

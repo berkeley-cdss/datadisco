@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>For Project Partners – Data Discovery</title>
+<title>Software and Modules – Data Discovery</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -19,6 +19,41 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -83,7 +118,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">For Project Partners</li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Software and Modules</li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -118,9 +153,14 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#program-overview" id="toc-program-overview" class="nav-link active" data-scroll-target="#program-overview">Program Overview</a></li>
-  <li><a href="#spring-timeline" id="toc-spring-timeline" class="nav-link" data-scroll-target="#spring-timeline">Spring Timeline</a></li>
-  <li><a href="#spring-2026-dates" id="toc-spring-2026-dates" class="nav-link" data-scroll-target="#spring-2026-dates">Spring 2026 Dates</a></li>
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
+  <li><a href="#accessing-software-using-environment-modules" id="toc-accessing-software-using-environment-modules" class="nav-link" data-scroll-target="#accessing-software-using-environment-modules">Accessing Software Using Environment Modules</a></li>
+  <li><a href="#default-modules" id="toc-default-modules" class="nav-link" data-scroll-target="#default-modules">Default Modules</a></li>
+  <li><a href="#hierarchical-module-structure" id="toc-hierarchical-module-structure" class="nav-link" data-scroll-target="#hierarchical-module-structure">Hierarchical Module Structure</a></li>
+  <li><a href="#example-loading-and-managing-modules" id="toc-example-loading-and-managing-modules" class="nav-link" data-scroll-target="#example-loading-and-managing-modules">Example: Loading and Managing Modules</a></li>
+  <li><a href="#software-provided-on-savio" id="toc-software-provided-on-savio" class="nav-link" data-scroll-target="#software-provided-on-savio">Software Provided on Savio</a></li>
+  <li><a href="#installing-your-own-software" id="toc-installing-your-own-software" class="nav-link" data-scroll-target="#installing-your-own-software">Installing Your Own Software</a></li>
+  <li><a href="#using-specialized-software" id="toc-using-specialized-software" class="nav-link" data-scroll-target="#using-specialized-software">Using Specialized Software</a></li>
   </ul>
 </nav>
     </div>
@@ -129,7 +169,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">For Project Partners</h1>
+<h1 class="title">Software and Modules</h1>
 </div>
 
 
@@ -146,36 +186,68 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="program-overview" class="level2">
-<h2 class="anchored" data-anchor-id="program-overview">Program Overview</h2>
-<p>Since 2015, the <strong>Data Discovery Program</strong> has helped incubate and accelerate research for over 1,000 partner projects. We do this by connecting projects with talented student teams along with project management and technical infrastructure support.</p>
-<p>We welcome all academic institutions, non-profits, government agencies, and industry to partner with us.</p>
-<hr>
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<p>Savio provides a wide range of pre-installed software maintained by Berkeley Research Computing (BRC) system administrators and consultants. This includes compilers, interpreters, tools for data analysis, visualization, bioinformatics, computational biology, and more.</p>
+<p>Software is accessed through Environment Modules, which dynamically set environment variables (e.g., PATH, LD_LIBRARY_PATH) so that different tools and versions can coexist.</p>
+<p>After Savio’s Rocky Linux 8 upgrade (July 2024), modules are managed by the Lmod Environment Module system. In addition to familiar commands such as module avail, module load, and module unload, a new command—module spider—helps you find dependencies and compatible versions of software packages.</p>
 </section>
-<section id="spring-timeline" class="level2">
-<h2 class="anchored" data-anchor-id="spring-timeline">Spring Timeline</h2>
-<p>Exact program deadlines follow UC Berkeley’s academic calendar and will vary by term. Proposals can be submitted beginning in early <strong>August</strong> or <strong>January</strong>, with students applying in the following weeks. Project work begins in the first week of the semester and continues through the last week of classes.</p>
-<hr>
+<section id="accessing-software-using-environment-modules" class="level2">
+<h2 class="anchored" data-anchor-id="accessing-software-using-environment-modules">Accessing Software Using Environment Modules</h2>
+<p>Use the <code>module</code> command to view, load, or unload available software: - <code>module avail</code>: List all available modulefiles in your MODULEPATH. - <code>module list</code>: Show currently loaded modules. - <code>module load &lt;modulefile&gt;</code>: Load one or more modules. - <code>module unload &lt;modulefile&gt;</code>: Unload one or more modules. - <code>module swap &lt;modulefile1&gt; &lt;modulefile2&gt;</code>: Replace one loaded module with another. - <code>module show &lt;modulefile&gt;</code>: Display configuration info for a module. - <code>module whatis &lt;modulefile&gt;</code>: Show a summary description. - <code>module keyword &lt;key&gt;</code>: Search for modules containing specific keywords. - <code>module purge</code>: Unload all currently loaded modules. For more details, run <code>man module</code> on Savio.</p>
 </section>
-<section id="spring-2026-dates" class="level2">
-<h2 class="anchored" data-anchor-id="spring-2026-dates">Spring 2026 Dates</h2>
+<section id="default-modules" class="level2">
+<h2 class="anchored" data-anchor-id="default-modules">Default Modules</h2>
+<p>If you load a module without specifying a version (e.g., <code>module load python</code>), the default version (marked <code>(D)</code>) is loaded. The loaded modules are marked <code>(L)</code> in the <code>module avail</code> output.</p>
+<p>For reproducibility, always specify versions explicitly:</p>
+</section>
+<section id="hierarchical-module-structure" class="level2">
+<h2 class="anchored" data-anchor-id="hierarchical-module-structure">Hierarchical Module Structure</h2>
+<p>Savio organizes modules hierarchically. Some modules (e.g., C libraries) appear only after loading their parent compiler module.</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="ex">module</span> load gcc/13.2.0</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="ex">module</span> avail</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Use <code>module spider</code> to discover hidden modules or dependencies.</p>
+<p>You can also search all available modules:</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">find</span> /global/software/rocky-8.x86_64/modfiles <span class="at">-type</span> d <span class="at">-exec</span> ls <span class="at">-d</span> {} <span class="dt">\;</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Or narrow results with <code>grep</code>:</p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">find</span> /global/software/rocky-8.x86_64/modfiles <span class="at">-type</span> d <span class="at">-exec</span> ls <span class="at">-d</span> {} <span class="dt">\;</span> <span class="kw">|</span> <span class="fu">grep</span> hdf5</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</section>
+<section id="example-loading-and-managing-modules" class="level2">
+<h2 class="anchored" data-anchor-id="example-loading-and-managing-modules">Example: Loading and Managing Modules</h2>
+<div class="sourceCode" id="cb4"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="ex">module</span> purge</span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a><span class="ex">module</span> load gcc/13.2.0 openmpi/4.1.6</span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a><span class="ex">module</span> load intel-oneapi-mkl</span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a><span class="ex">module</span> list</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>To unload and switch:</p>
+<div class="sourceCode" id="cb5"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="ex">module</span> unload openmpi</span>
+<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a><span class="ex">module</span> switch intel-oneapi-mkl netlib-lapack</span>
+<span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a><span class="ex">module</span> list</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Use <code>module show</code> for configuration details and <code>module whatis</code> for summaries.</p>
+</section>
+<section id="software-provided-on-savio" class="level2">
+<h2 class="anchored" data-anchor-id="software-provided-on-savio">Software Provided on Savio</h2>
+<p>To view the full, up-to-date list, run:</p>
+<div class="sourceCode" id="cb6"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="ex">module</span> avail</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>The current common categories are: - <strong>Development Tools</strong>: Emacs, Vim, make, cmake, Ninja, Bazel, Spack - <strong>Version Control</strong>: Git, Mercurial - <strong>Languages &amp; Compilers</strong>: Anaconda, GCC, Intel oneAPI, LLVM, Java, R, Python, MATLAB, Julia, Rust - <strong>Math &amp; Statistics</strong>: MKL, FFTW, LAPACK, ScaLAPACK, GSL, OpenBLAS, Eigen - <strong>I/O &amp; Data</strong>: HDF5, NetCDF, protobuf, LevelDB - <strong>Visualization &amp; ML</strong>: MATLAB, Gnuplot, TensorFlow, PyTorch, Scikit-learn - <strong>Bioinformatics</strong>: ABRicate, BLAST, Bowtie, FastQC, GROMACS, RELION, Snippy - <strong>Utilities</strong>: tmux, parallel, iperf3, rsync, rclone - <strong>Publishing</strong>: TeX Live, Doxygen</p>
+</section>
+<section id="installing-your-own-software" class="level2">
+<h2 class="anchored" data-anchor-id="installing-your-own-software">Installing Your Own Software</h2>
+<p>If software is unavailable on Savio, you can install it yourself.</p>
+<p><strong>Requirements</strong> - Must run on Rocky Linux 8 (x86_64). - Must install without root privileges. - Must fit within your HOME (30 GB) or group directory quota. - Should use existing compilers/libraries (GCC or Intel). - Must comply with software license terms for cluster usage.</p>
+<p>There are two main installation locations for your software: - Personal Use: <code>/global/home/users/&lt;username&gt;</code> - Group-wide Use: <code>/global/home/groups/&lt;groupname&gt;</code></p>
+<p>For scripting languages, install using built-in package managers: - <strong>Python</strong>: <code>pip install --user &lt;package&gt;</code> or use Conda - <strong>R</strong>: <code>install.packages("&lt;package&gt;")</code> - <strong>Perl</strong>: <code>cpanm --local-lib=~/perl5 &lt;package&gt;</code> Conda can also install non-Python software (e.g., R, Julia, Java).</p>
+</section>
+<section id="using-specialized-software" class="level2">
+<h2 class="anchored" data-anchor-id="using-specialized-software">Using Specialized Software</h2>
+<p>Here are some links to introductory guides on the use of various software applications on Savio.</p>
 <ul>
-<li><p><strong>DDMatch mentor portal opens</strong>: <em>Nov.&nbsp;17, 2025</em><br>
-The portal opens for mentors to submit project descriptions. Your proposal will be reviewed by Data Discovery staff before being posted, and we may ask you for more information.</p></li>
-<li><p><strong>Project description deadline</strong>: <em>Dec.&nbsp;10, 2025</em><br>
-Approved mentors will be contacted. Approved projects will be posted for students to apply.</p></li>
-<li><p><strong>Projects posted for students</strong>: <em>Dec.&nbsp;15, 2025</em><br>
-Students can begin applying to posted projects.</p></li>
-<li><p><strong>Student application closes</strong>: <em>Jan.&nbsp;9, 2026</em><br>
-Student submissions close in DDMatch.</p></li>
-<li><p><strong>Student applications viewable</strong>: <em>Jan.&nbsp;12, 2026</em><br>
-Mentors can begin reviewing applications and contacting students to schedule interviews.</p></li>
-<li><p><strong>Mentors can begin extending offers</strong>: <em>Jan.&nbsp;19, 2026</em><br>
-Partners can begin extending offers in DDMatch and forming their team of one to five students.</p></li>
-<li><p><strong>Deadline for team selection</strong>: <em>Jan.&nbsp;23, 2026</em><br>
-Please extend all offers by this date for a prompt start to the program.</p></li>
-<li><p><strong>Project work begins</strong>: <em>Jan.&nbsp;26, 2026</em><br>
-Begin meeting with your team, assigning tasks, and kicking off your project. The Data Discovery course for students will also begin.</p></li>
+<li><a href="https://docs-research-it.berkeley.edu/services/high-performance-computing/user-guide/software/using-software/using-python-savio/">Using Python</a>: An introduction to using Python, a programming language widely used in scientific computing, on Savio.</li>
+<li><a href="https://docs-research-it.berkeley.edu/services/high-performance-computing/user-guide/software/using-software/using-r-savio/">Using R</a>: An introduction to using R, a language and environment for statistical computing and graphics, on Savio.</li>
+<li><a href="https://docs-research-it.berkeley.edu/services/high-performance-computing/user-guide/software/using-software/using-matlab-savio/">Using MATLAB</a>: An introduction to using MATLAB, a matrix-based, technical computing language and environment for solving engineering and scientific problems, on Savio.</li>
+<li><a href="https://docs-research-it.berkeley.edu/services/high-performance-computing/user-guide/software/using-software/using-mathematica-savio/">Using Mathematica</a>: An introduction to using Mathematica on Savio.</li>
+<li><a href="https://docs-research-it.berkeley.edu/services/high-performance-computing/user-guide/software/using-software/using-singularity-savio/">Using Apptainer (Singularity)</a>: An introduction to using Apptainer (formerly Singularity), a software tool that facilitates the movement of software applications and workflows between various computational environments, on Savio.</li>
+<li><a href="https://docs-research-it.berkeley.edu/services/high-performance-computing/user-guide/software/using-software/using-julia/">Using Julia</a></li>
+<li><a href="https://docs-research-it.berkeley.edu/services/high-performance-computing/user-guide/software/using-software/using-perl-savio/">Using Perl</a></li>
 </ul>
 
 

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>For Project Partners – Data Discovery</title>
+<title>Data Transfer – Data Discovery</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -19,6 +19,41 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -83,7 +118,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">For Project Partners</li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Data Transfer</li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -118,9 +153,11 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#program-overview" id="toc-program-overview" class="nav-link active" data-scroll-target="#program-overview">Program Overview</a></li>
-  <li><a href="#spring-timeline" id="toc-spring-timeline" class="nav-link" data-scroll-target="#spring-timeline">Spring Timeline</a></li>
-  <li><a href="#spring-2026-dates" id="toc-spring-2026-dates" class="nav-link" data-scroll-target="#spring-2026-dates">Spring 2026 Dates</a></li>
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
+  <li><a href="#using-globus" id="toc-using-globus" class="nav-link" data-scroll-target="#using-globus">Using Globus</a></li>
+  <li><a href="#using-sftp-via-filezilla" id="toc-using-sftp-via-filezilla" class="nav-link" data-scroll-target="#using-sftp-via-filezilla">Using SFTP via FileZilla</a></li>
+  <li><a href="#using-scp-command-line" id="toc-using-scp-command-line" class="nav-link" data-scroll-target="#using-scp-command-line">Using SCP (Command Line)</a></li>
+  <li><a href="#using-rclone-for-box-and-google-drive" id="toc-using-rclone-for-box-and-google-drive" class="nav-link" data-scroll-target="#using-rclone-for-box-and-google-drive">Using rclone (for Box and Google Drive)</a></li>
   </ul>
 </nav>
     </div>
@@ -129,7 +166,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">For Project Partners</h1>
+<h1 class="title">Data Transfer</h1>
 </div>
 
 
@@ -146,37 +183,102 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="program-overview" class="level2">
-<h2 class="anchored" data-anchor-id="program-overview">Program Overview</h2>
-<p>Since 2015, the <strong>Data Discovery Program</strong> has helped incubate and accelerate research for over 1,000 partner projects. We do this by connecting projects with talented student teams along with project management and technical infrastructure support.</p>
-<p>We welcome all academic institutions, non-profits, government agencies, and industry to partner with us.</p>
-<hr>
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<p>When transferring data, always connect to:</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="ex">dtn.brc.berkeley.edu</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>This is Savio’s Data Transfer Node (DTN), which is designed for file movement, not computation. Executables cannot be run on the DTN, so place scripts or executables in your home or group directory instead.</p>
+<p>There are three main transfer methods you can choose from: 1. Globus: for large/many files 2. SFTP or SCP: small-sized data transfers 3. rclone or Git: cloud or versioned data</p>
 </section>
-<section id="spring-timeline" class="level2">
-<h2 class="anchored" data-anchor-id="spring-timeline">Spring Timeline</h2>
-<p>Exact program deadlines follow UC Berkeley’s academic calendar and will vary by term. Proposals can be submitted beginning in early <strong>August</strong> or <strong>January</strong>, with students applying in the following weeks. Project work begins in the first week of the semester and continues through the last week of classes.</p>
-<hr>
+<section id="using-globus" class="level2">
+<h2 class="anchored" data-anchor-id="using-globus">Using Globus</h2>
+<p>Globus is the easiest and most robust option for medium-to-large data transfers. 1. Visit the <a href="https://www.globus.org/">Globus website</a> and either <a href="https://www.globusid.org/create">create a free Globus ID</a> or login using your UC Berkeley credentials. 2. In the File Manager, turn on two-panel mode by toggling the switch near the top right. 3. In the Collection field at left, search for the Savio endpoint:</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="ex">ucb#brc</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<ol start="4" type="1">
+<li>Authenticate with your BRC cluster username and token PIN + one-time password (Google Authenticator).</li>
+<li>In the other panel, select your personal computer or another storage endpoint.</li>
+<li>Drag-and-drop files between panels and click Start.</li>
+</ol>
+<p>Globus supports scheduled workflows via Globus Timer and command-line scripting using the Globus CLI. You can automate recurring backups or syncs between Savio and external endpoints. For more details on using Globus, check out the <a href="https://docs-research-it.berkeley.edu/services/high-performance-computing/user-guide/data/transferring-data/using-globus-connect-savio/">full documentation</a>.</p>
 </section>
-<section id="spring-2026-dates" class="level2">
-<h2 class="anchored" data-anchor-id="spring-2026-dates">Spring 2026 Dates</h2>
+<section id="using-sftp-via-filezilla" class="level2">
+<h2 class="anchored" data-anchor-id="using-sftp-via-filezilla">Using SFTP via FileZilla</h2>
+<p>This option is good for smaller file transfers.</p>
+<ol type="1">
+<li>If you don’t already have FileZilla, download it from the <a href="https://filezilla-project.org/">FileZilla website</a>. Open FileZilla.</li>
+<li>Open File &gt; Site Manager &gt; New Site and set:</li>
+</ol>
 <ul>
-<li><p><strong>DDMatch mentor portal opens</strong>: <em>Nov.&nbsp;17, 2025</em><br>
-The portal opens for mentors to submit project descriptions. Your proposal will be reviewed by Data Discovery staff before being posted, and we may ask you for more information.</p></li>
-<li><p><strong>Project description deadline</strong>: <em>Dec.&nbsp;10, 2025</em><br>
-Approved mentors will be contacted. Approved projects will be posted for students to apply.</p></li>
-<li><p><strong>Projects posted for students</strong>: <em>Dec.&nbsp;15, 2025</em><br>
-Students can begin applying to posted projects.</p></li>
-<li><p><strong>Student application closes</strong>: <em>Jan.&nbsp;9, 2026</em><br>
-Student submissions close in DDMatch.</p></li>
-<li><p><strong>Student applications viewable</strong>: <em>Jan.&nbsp;12, 2026</em><br>
-Mentors can begin reviewing applications and contacting students to schedule interviews.</p></li>
-<li><p><strong>Mentors can begin extending offers</strong>: <em>Jan.&nbsp;19, 2026</em><br>
-Partners can begin extending offers in DDMatch and forming their team of one to five students.</p></li>
-<li><p><strong>Deadline for team selection</strong>: <em>Jan.&nbsp;23, 2026</em><br>
-Please extend all offers by this date for a prompt start to the program.</p></li>
-<li><p><strong>Project work begins</strong>: <em>Jan.&nbsp;26, 2026</em><br>
-Begin meeting with your team, assigning tasks, and kicking off your project. The Data Discovery course for students will also begin.</p></li>
+<li>Host: <code>dtn.brc.berkeley.edu</code></li>
+<li>Protocol: <code>SFTP - SSH File Transfer Protocol</code></li>
+<li>Logon Type: <code>Interactive</code></li>
+<li>User: <code>&lt;your Savio username&gt;</code></li>
 </ul>
+<ol start="3" type="1">
+<li>Click Connect.</li>
+<li>When prompted:</li>
+</ol>
+<ul>
+<li>Generate a one-time password using Google Authenticator.</li>
+<li>Enter your PIN + one-time password together.</li>
+<li>Uncheck “Remember password until FileZilla is closed.”</li>
+</ul>
+<ol start="5" type="1">
+<li>You’ll now see your Savio home directory.</li>
+</ol>
+<ul>
+<li>Drag files from local → remote to upload.</li>
+<li>Drag remote → local to download.</li>
+</ul>
+<p>For more details on using SFTP via FileZilla, check out the <a href="https://docs-research-it.berkeley.edu/services/high-performance-computing/user-guide/data/transferring-data/using-sftp-savio-filezilla/">full documentation</a>.</p>
+</section>
+<section id="using-scp-command-line" class="level2">
+<h2 class="anchored" data-anchor-id="using-scp-command-line">Using SCP (Command Line)</h2>
+<p>For quick terminal transfers on Mac OS/Linux:</p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Upload a file to Savio</span></span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="fu">scp</span> myfile.txt myusername@dtn.brc.berkeley.edu:/global/home/users/myusername</span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a><span class="co"># Download a file from Savio</span></span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a><span class="fu">scp</span> myusername@dtn.brc.berkeley.edu:~/myfile.txt ~/.</span>
+<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a><span class="co"># Upload a folder recursively</span></span>
+<span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a><span class="fu">scp</span> <span class="at">-r</span> myfolder myusername@dtn.brc.berkeley.edu:/global/scratch/users/myusername</span>
+<span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-10"><a href="#cb3-10" aria-hidden="true" tabindex="-1"></a><span class="co"># Download a folder</span></span>
+<span id="cb3-11"><a href="#cb3-11" aria-hidden="true" tabindex="-1"></a><span class="fu">scp</span> <span class="at">-r</span> myusername@dtn.brc.berkeley.edu:~/myfolder ~/.</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Remember to always connect to dtn.brc.berkeley.edu, not hpc.brc.berkeley.edu!</p>
+<p>For more details on using SCP, check out the <a href="https://docs-research-it.berkeley.edu/services/high-performance-computing/user-guide/data/transferring-data/using-scp-savio/">full documentation</a>.</p>
+</section>
+<section id="using-rclone-for-box-and-google-drive" class="level2">
+<h2 class="anchored" data-anchor-id="using-rclone-for-box-and-google-drive">Using rclone (for Box and Google Drive)</h2>
+<p>rclone is pre-installed on Savio and is great for syncing data to Box or bDrive. rclone works via command line or scripts, supports encryption and integrity checks, and can automate nightly backups.</p>
+<ol type="1">
+<li>SSH into the DTN:</li>
+</ol>
+<div class="sourceCode" id="cb4"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="fu">ssh</span> yourusername@dtn.brc.berkeley.edu</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<ol start="2" type="1">
+<li>Run:</li>
+</ol>
+<div class="sourceCode" id="cb5"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="ex">rclone</span> config</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<ol start="3" type="1">
+<li>Follow prompts to connect to Box or bDrive. (You’ll authorize your account in a browser.)</li>
+</ol>
+<p>Here are some basic commands for using rclone:</p>
+<div class="sourceCode" id="cb6"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="co"># List connected remotes</span></span>
+<span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a><span class="ex">rclone</span> listremotes</span>
+<span id="cb6-3"><a href="#cb6-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-4"><a href="#cb6-4" aria-hidden="true" tabindex="-1"></a><span class="co"># List directories in Box</span></span>
+<span id="cb6-5"><a href="#cb6-5" aria-hidden="true" tabindex="-1"></a><span class="ex">rclone</span> lsd Box:</span>
+<span id="cb6-6"><a href="#cb6-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-7"><a href="#cb6-7" aria-hidden="true" tabindex="-1"></a><span class="co"># Copy from Savio to Box</span></span>
+<span id="cb6-8"><a href="#cb6-8" aria-hidden="true" tabindex="-1"></a><span class="ex">rclone</span> copy /global/home/users/yourusername/project Box:project_backup</span>
+<span id="cb6-9"><a href="#cb6-9" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-10"><a href="#cb6-10" aria-hidden="true" tabindex="-1"></a><span class="co"># Copy from Box to Savio</span></span>
+<span id="cb6-11"><a href="#cb6-11" aria-hidden="true" tabindex="-1"></a><span class="ex">rclone</span> copy Box:admin /global/home/users/yourusername/admin</span>
+<span id="cb6-12"><a href="#cb6-12" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-13"><a href="#cb6-13" aria-hidden="true" tabindex="-1"></a><span class="co"># Sync directories (two-way)</span></span>
+<span id="cb6-14"><a href="#cb6-14" aria-hidden="true" tabindex="-1"></a><span class="ex">rclone</span> sync /global/scratch/users/yourusername/data Box:data</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>For more details on using rclone, check out the <a href="https://docs-research-it.berkeley.edu/services/high-performance-computing/user-guide/data/transferring-data/rclone-box-bdrive/">full documentation</a></p>
 
 
 </section>

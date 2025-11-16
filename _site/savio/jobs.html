@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>For Project Partners – Data Discovery</title>
+<title>Submitting and Running Jobs – Data Discovery</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -19,6 +19,41 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -83,7 +118,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">For Project Partners</li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Submitting and Running Jobs</li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -118,9 +153,16 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#program-overview" id="toc-program-overview" class="nav-link active" data-scroll-target="#program-overview">Program Overview</a></li>
-  <li><a href="#spring-timeline" id="toc-spring-timeline" class="nav-link" data-scroll-target="#spring-timeline">Spring Timeline</a></li>
-  <li><a href="#spring-2026-dates" id="toc-spring-2026-dates" class="nav-link" data-scroll-target="#spring-2026-dates">Spring 2026 Dates</a></li>
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
+  <li><a href="#common-slurm-commands" id="toc-common-slurm-commands" class="nav-link" data-scroll-target="#common-slurm-commands">Common SLURM Commands</a></li>
+  <li><a href="#submitting-jobs" id="toc-submitting-jobs" class="nav-link" data-scroll-target="#submitting-jobs">Submitting Jobs</a></li>
+  <li><a href="#example-basic-batch-job" id="toc-example-basic-batch-job" class="nav-link" data-scroll-target="#example-basic-batch-job">Example: Basic Batch Job</a></li>
+  <li><a href="#interactive-jobs" id="toc-interactive-jobs" class="nav-link" data-scroll-target="#interactive-jobs">Interactive Jobs</a></li>
+  <li><a href="#job-arrays" id="toc-job-arrays" class="nav-link" data-scroll-target="#job-arrays">Job Arrays</a></li>
+  <li><a href="#low-priority-jobs" id="toc-low-priority-jobs" class="nav-link" data-scroll-target="#low-priority-jobs">Low Priority Jobs</a></li>
+  <li><a href="#email-notifications-and-output-files" id="toc-email-notifications-and-output-files" class="nav-link" data-scroll-target="#email-notifications-and-output-files">Email Notifications and Output Files</a></li>
+  <li><a href="#monitoring-jobs" id="toc-monitoring-jobs" class="nav-link" data-scroll-target="#monitoring-jobs">Monitoring Jobs</a></li>
+  <li><a href="#pending-jobs" id="toc-pending-jobs" class="nav-link" data-scroll-target="#pending-jobs">Pending Jobs</a></li>
   </ul>
 </nav>
     </div>
@@ -129,7 +171,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">For Project Partners</h1>
+<h1 class="title">Submitting and Running Jobs</h1>
 </div>
 
 
@@ -146,37 +188,163 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="program-overview" class="level2">
-<h2 class="anchored" data-anchor-id="program-overview">Program Overview</h2>
-<p>Since 2015, the <strong>Data Discovery Program</strong> has helped incubate and accelerate research for over 1,000 partner projects. We do this by connecting projects with talented student teams along with project management and technical infrastructure support.</p>
-<p>We welcome all academic institutions, non-profits, government agencies, and industry to partner with us.</p>
-<hr>
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<p>To submit, run, monitor, and cancel jobs on Savio, you’ll use SLURM (the Simple Linux Utility for Resource Management). SLURM is an open-source scheduler that manages jobs, job steps, nodes, partitions, and accounts on the cluster.</p>
 </section>
-<section id="spring-timeline" class="level2">
-<h2 class="anchored" data-anchor-id="spring-timeline">Spring Timeline</h2>
-<p>Exact program deadlines follow UC Berkeley’s academic calendar and will vary by term. Proposals can be submitted beginning in early <strong>August</strong> or <strong>January</strong>, with students applying in the following weeks. Project work begins in the first week of the semester and continues through the last week of classes.</p>
-<hr>
+<section id="common-slurm-commands" class="level2">
+<h2 class="anchored" data-anchor-id="common-slurm-commands">Common SLURM Commands</h2>
+<pre class="{list-table}"><code>* - Command
+  - Description
+  - Example
+* - `sbatch`
+  - Submit a batch job script
+  - `sbatch myjob.sh`
+* - `srun`
+  - Run an interactive job
+  - `srun --pty bash`
+* - `scancel`
+  - Cancel a job
+  - `scancel 12345`
+* - `squeue`
+  - View job queue
+  - `squeue -u $USER`
+* - `sq`
+  - Explain why a job is pending
+  - `module load sq; sq`
+* - `sacctmgr`
+  - Check project/account access
+  - `sacctmgr -p show associations user=$USER`
+* - `sinfo`
+  - Show node and partition status
+  - `sinfo`
+* - `sacct`
+  - View accounting and completed jobs
+  - `sacct -j 123451`</code></pre>
 </section>
-<section id="spring-2026-dates" class="level2">
-<h2 class="anchored" data-anchor-id="spring-2026-dates">Spring 2026 Dates</h2>
-<ul>
-<li><p><strong>DDMatch mentor portal opens</strong>: <em>Nov.&nbsp;17, 2025</em><br>
-The portal opens for mentors to submit project descriptions. Your proposal will be reviewed by Data Discovery staff before being posted, and we may ask you for more information.</p></li>
-<li><p><strong>Project description deadline</strong>: <em>Dec.&nbsp;10, 2025</em><br>
-Approved mentors will be contacted. Approved projects will be posted for students to apply.</p></li>
-<li><p><strong>Projects posted for students</strong>: <em>Dec.&nbsp;15, 2025</em><br>
-Students can begin applying to posted projects.</p></li>
-<li><p><strong>Student application closes</strong>: <em>Jan.&nbsp;9, 2026</em><br>
-Student submissions close in DDMatch.</p></li>
-<li><p><strong>Student applications viewable</strong>: <em>Jan.&nbsp;12, 2026</em><br>
-Mentors can begin reviewing applications and contacting students to schedule interviews.</p></li>
-<li><p><strong>Mentors can begin extending offers</strong>: <em>Jan.&nbsp;19, 2026</em><br>
-Partners can begin extending offers in DDMatch and forming their team of one to five students.</p></li>
-<li><p><strong>Deadline for team selection</strong>: <em>Jan.&nbsp;23, 2026</em><br>
-Please extend all offers by this date for a prompt start to the program.</p></li>
-<li><p><strong>Project work begins</strong>: <em>Jan.&nbsp;26, 2026</em><br>
-Begin meeting with your team, assigning tasks, and kicking off your project. The Data Discovery course for students will also begin.</p></li>
-</ul>
+<section id="submitting-jobs" class="level2">
+<h2 class="anchored" data-anchor-id="submitting-jobs">Submitting Jobs</h2>
+<p>Jobs on Savio can be batch (non-interactive) or interactive. When submitting, you must specify: <strong>Account (required):</strong> <code>(--account)</code></p>
+<p>Each job runs under an account that determines which resources you can use and how usage is billed. Check your available accounts using:</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="ex">sacctmgr</span> <span class="at">-p</span> show associations user=<span class="va">$USER</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p><strong>Partition (required):</strong> <code>(--partition)</code></p>
+<p>Specifies the group of nodes (e.g., CPU, GPU, HTC). For example:</p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="co">#SBATCH --partition=savio3_htc</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p><strong>Time limit (required):</strong> <code>(--time)</code></p>
+<p>Specifies the maximum wall-clock time your job can run. Format: <code>days-hours:minutes:seconds</code>. For example:</p>
+<div class="sourceCode" id="cb4"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="co">#SBATCH --time=00:30:00   # 30 minutes</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p><strong>QoS (optional; depends on your project):</strong> Defines job priority and limits. Common QoS values include: - <code>savio_normal</code> — default - <code>savio_debug</code> — for short tests - <code>savio_lowprio</code> — low-priority preemptible jobs For example:</p>
+<pre class="batch"><code>#SBATCH --qos=savio_debug</code></pre>
+</section>
+<section id="example-basic-batch-job" class="level2">
+<h2 class="anchored" data-anchor-id="example-basic-batch-job">Example: Basic Batch Job</h2>
+<div class="sourceCode" id="cb6"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="co">#!/bin/bash</span></span>
+<span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a><span class="co">#SBATCH --job-name=test</span></span>
+<span id="cb6-3"><a href="#cb6-3" aria-hidden="true" tabindex="-1"></a><span class="co">#SBATCH --account=fc_NAME</span></span>
+<span id="cb6-4"><a href="#cb6-4" aria-hidden="true" tabindex="-1"></a><span class="co">#SBATCH --partition=savio3_htc</span></span>
+<span id="cb6-5"><a href="#cb6-5" aria-hidden="true" tabindex="-1"></a><span class="co">#SBATCH --time=00:00:30</span></span>
+<span id="cb6-6"><a href="#cb6-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-7"><a href="#cb6-7" aria-hidden="true" tabindex="-1"></a><span class="bu">echo</span> <span class="st">"Hello world from Savio!"</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Submit with:</p>
+<div class="sourceCode" id="cb7"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="ex">sbatch</span> myjob.sh</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Output is saved as:</p>
+<div class="sourceCode" id="cb8"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="ex">slurm-</span><span class="op">&lt;</span>jobid<span class="op">&gt;</span>.out</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</section>
+<section id="interactive-jobs" class="level2">
+<h2 class="anchored" data-anchor-id="interactive-jobs">Interactive Jobs</h2>
+<p>For interactive sessions (e.g., debugging, testing, GUI tools):</p>
+<div class="sourceCode" id="cb9"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a><span class="ex">srun</span> <span class="at">--pty</span> <span class="at">-A</span> <span class="op">&lt;</span>account<span class="op">&gt;</span> -p <span class="op">&lt;</span>partition<span class="op">&gt;</span> -t 00:30:00 bash <span class="at">-i</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>You’ll see:</p>
+<div class="sourceCode" id="cb10"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a><span class="ex">srun:</span> job 669120 queued and waiting for resources</span>
+<span id="cb10-2"><a href="#cb10-2" aria-hidden="true" tabindex="-1"></a><span class="ex">srun:</span> job 669120 has been allocated resources</span>
+<span id="cb10-3"><a href="#cb10-3" aria-hidden="true" tabindex="-1"></a><span class="ex">[user@n0047</span> ~]$</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Now you’re on a compute node. Run your commands normally.</p>
+</section>
+<section id="job-arrays" class="level2">
+<h2 class="anchored" data-anchor-id="job-arrays">Job Arrays</h2>
+<p>Use job arrays to run multiple similar jobs efficiently:</p>
+<div class="sourceCode" id="cb11"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a><span class="co">#!/bin/bash</span></span>
+<span id="cb11-2"><a href="#cb11-2" aria-hidden="true" tabindex="-1"></a><span class="co">#SBATCH --job-name=array_example</span></span>
+<span id="cb11-3"><a href="#cb11-3" aria-hidden="true" tabindex="-1"></a><span class="co">#SBATCH --account=fc_NAME</span></span>
+<span id="cb11-4"><a href="#cb11-4" aria-hidden="true" tabindex="-1"></a><span class="co">#SBATCH --partition=savio3_htc</span></span>
+<span id="cb11-5"><a href="#cb11-5" aria-hidden="true" tabindex="-1"></a><span class="co">#SBATCH --array=0-31</span></span>
+<span id="cb11-6"><a href="#cb11-6" aria-hidden="true" tabindex="-1"></a><span class="co">#SBATCH --output=array_job_%A_task_%a.out</span></span>
+<span id="cb11-7"><a href="#cb11-7" aria-hidden="true" tabindex="-1"></a><span class="co">#SBATCH --error=array_job_%A_task_%a.err</span></span>
+<span id="cb11-8"><a href="#cb11-8" aria-hidden="true" tabindex="-1"></a><span class="co">#SBATCH --time=00:01:00</span></span>
+<span id="cb11-9"><a href="#cb11-9" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb11-10"><a href="#cb11-10" aria-hidden="true" tabindex="-1"></a><span class="bu">echo</span> <span class="st">"Running task </span><span class="va">$SLURM_ARRAY_TASK_ID</span><span class="st">"</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Submit with:</p>
+<div class="sourceCode" id="cb12"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb12-1"><a href="#cb12-1" aria-hidden="true" tabindex="-1"></a><span class="ex">sbatch</span> array_job.sh</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Each array element runs as a separate job (<code>task 0</code>, <code>task 1</code>, etc.).</p>
+</section>
+<section id="low-priority-jobs" class="level2">
+<h2 class="anchored" data-anchor-id="low-priority-jobs">Low Priority Jobs</h2>
+<p>Use the <code>savio_lowprio</code> QoS to take advantage of idle cluster resources. - Pros: Doesn’t count toward your condo allocation - Cons: Lower priority and can be preempted (killed or requeued)</p>
+<p><strong>Example:</strong></p>
+<div class="sourceCode" id="cb13"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a><span class="co">#SBATCH --qos=savio_lowprio</span></span>
+<span id="cb13-2"><a href="#cb13-2" aria-hidden="true" tabindex="-1"></a><span class="co">#SBATCH --requeue</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</section>
+<section id="email-notifications-and-output-files" class="level2">
+<h2 class="anchored" data-anchor-id="email-notifications-and-output-files">Email Notifications and Output Files</h2>
+<p>By default, SLURM writes all job output to <code>slurm-%j.out</code>. To customize this:</p>
+<div class="sourceCode" id="cb14"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb14-1"><a href="#cb14-1" aria-hidden="true" tabindex="-1"></a><span class="co">#SBATCH --output=myjob_%j.out</span></span>
+<span id="cb14-2"><a href="#cb14-2" aria-hidden="true" tabindex="-1"></a><span class="co">#SBATCH --error=myjob_%j.err</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>If you would like to receive email updates:</p>
+<div class="sourceCode" id="cb15"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb15-1"><a href="#cb15-1" aria-hidden="true" tabindex="-1"></a><span class="co">#SBATCH --mail-type=</span><span class="re">END</span><span class="co">,FAIL</span></span>
+<span id="cb15-2"><a href="#cb15-2" aria-hidden="true" tabindex="-1"></a><span class="co">#SBATCH --mail-user=EMAIL</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p><strong>Example:</strong></p>
+<div class="sourceCode" id="cb16"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb16-1"><a href="#cb16-1" aria-hidden="true" tabindex="-1"></a><span class="co">#!/bin/bash</span></span>
+<span id="cb16-2"><a href="#cb16-2" aria-hidden="true" tabindex="-1"></a><span class="co">#SBATCH --job-name=test</span></span>
+<span id="cb16-3"><a href="#cb16-3" aria-hidden="true" tabindex="-1"></a><span class="co">#SBATCH --account=fc_NAME</span></span>
+<span id="cb16-4"><a href="#cb16-4" aria-hidden="true" tabindex="-1"></a><span class="co">#SBATCH --partition=savio3_htc</span></span>
+<span id="cb16-5"><a href="#cb16-5" aria-hidden="true" tabindex="-1"></a><span class="co">#SBATCH --nodes=1</span></span>
+<span id="cb16-6"><a href="#cb16-6" aria-hidden="true" tabindex="-1"></a><span class="co">#SBATCH --ntasks-per-node=1</span></span>
+<span id="cb16-7"><a href="#cb16-7" aria-hidden="true" tabindex="-1"></a><span class="co">#SBATCH --cpus-per-task=8</span></span>
+<span id="cb16-8"><a href="#cb16-8" aria-hidden="true" tabindex="-1"></a><span class="co">#SBATCH --time=00:00:30</span></span>
+<span id="cb16-9"><a href="#cb16-9" aria-hidden="true" tabindex="-1"></a><span class="co">#SBATCH --output=test_%j.out</span></span>
+<span id="cb16-10"><a href="#cb16-10" aria-hidden="true" tabindex="-1"></a><span class="co">#SBATCH --error=test_%j.err</span></span>
+<span id="cb16-11"><a href="#cb16-11" aria-hidden="true" tabindex="-1"></a><span class="co">#SBATCH --mail-type=</span><span class="re">END</span><span class="co">,FAIL</span></span>
+<span id="cb16-12"><a href="#cb16-12" aria-hidden="true" tabindex="-1"></a><span class="co">#SBATCH --mail-user=EMAIL</span></span>
+<span id="cb16-13"><a href="#cb16-13" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb16-14"><a href="#cb16-14" aria-hidden="true" tabindex="-1"></a><span class="bu">echo</span> <span class="st">"hello world"</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</section>
+<section id="monitoring-jobs" class="level2">
+<h2 class="anchored" data-anchor-id="monitoring-jobs">Monitoring Jobs</h2>
+<p><strong>Via Command Line</strong></p>
+<pre class="{list-table}"><code>* - Command
+  - Purpose
+  - Example
+* - `squeue -u $USER`
+  - View active jobs
+  - 
+* - `sacct -j &lt;jobid&gt;`
+  - View completed job info
+  - `sacct -j 12345 --format=JobID,JobName,Elapsed,MaxRSS`
+* - `sinfo`
+  - Show node/partition status
+  - `sinfo -p savio3_htc`
+* - `wwall -j &lt;jobid&gt;`
+  - Check resource usage snapshot
+  - 
+* - `wwtop`
+  - “top”-like node summary
+  - </code></pre>
+<p>To monitor a running job interactively:</p>
+<div class="sourceCode" id="cb18"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb18-1"><a href="#cb18-1" aria-hidden="true" tabindex="-1"></a><span class="ex">srun</span> <span class="at">--jobid</span><span class="op">=&lt;</span>jobid<span class="op">&gt;</span> --pty /bin/bash</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p><strong>Via MyBRC Portal</strong> 1. Visit <a href="https://mybrc.brc.berkeley.edu/">MyBRC Portal</a> and go to <code>Jobs → Job List</code> 2. Filter by user/project 3. Click a job’s SLURM ID to view: - Start/end times - Nodes used - CPUs &amp; memory - Service Units consumed</p>
+</section>
+<section id="pending-jobs" class="level2">
+<h2 class="anchored" data-anchor-id="pending-jobs">Pending Jobs</h2>
+<p>To diagnose pending jobs:</p>
+<div class="sourceCode" id="cb19"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb19-1"><a href="#cb19-1" aria-hidden="true" tabindex="-1"></a><span class="ex">module</span> load sq</span>
+<span id="cb19-2"><a href="#cb19-2" aria-hidden="true" tabindex="-1"></a><span class="ex">sq</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>will provide you with an explanation.</p>
+<p>For a raw queue check:</p>
+<div class="sourceCode" id="cb20"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb20-1"><a href="#cb20-1" aria-hidden="true" tabindex="-1"></a><span class="ex">squeue</span> <span class="at">-p</span> <span class="op">&lt;</span>partition_name<span class="op">&gt;</span> --state=PD <span class="at">-l</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>To estimate start time:</p>
+<div class="sourceCode" id="cb21"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb21-1"><a href="#cb21-1" aria-hidden="true" tabindex="-1"></a><span class="ex">squeue</span> <span class="at">-j</span> <span class="op">&lt;</span>jobid<span class="op">&gt;</span> --start</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Tips to start faster: - Request fewer nodes or shorter wall time - Submit to a less-busy partition - Use <code>sinfo</code> to see idle nodes - Use <code>savio_lowprio</code> QoS when possible</p>
+<p>For more details on using running and submitting jobs, look at the <a href="https://docs-research-it.berkeley.edu/services/high-performance-computing/user-guide/running-your-jobs/">full documentation</a> provided by Research IT.</p>
 
 
 </section>
