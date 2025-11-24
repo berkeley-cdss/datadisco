@@ -18,7 +18,7 @@ We would like to thank everyone who’s contributed to the College of Computing,
 All parts of the Symposium take place in the lobby of the Hearst Memorial Mining Building at UC Berkeley on Wednesday, December 10, 2025.
 
 - **1:30 p.m.** Poster session begins  
-- **2:00 p.m.** Keynote address — Associate Dean of Students, Professor Narges Norouzi  
+- **2:00 p.m.** Keynote address: Associate Dean of Students, Professor Narges Norouzi  
 - **2:15 p.m.** Presentation of student awards  
 - **3:00 p.m.** Event concludes
 
