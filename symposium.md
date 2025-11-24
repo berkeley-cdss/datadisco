@@ -2,7 +2,6 @@
 title: "Symposium Events"
 ---
 
-
 # CDSS Data Discovery Fall 2025 Symposium
 
 ## About Data Discovery
