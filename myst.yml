@@ -4,6 +4,7 @@ project:
   toc:
     - file: index.md
     - file: schedule.md
+    - file: symposium.md
     - file: ddmatch.md
       children:
         - file: get-involved/partner.md

@@ -1,0 +1,126 @@
+title: "CDSS Data Discovery Fall 2025 Symposium"
+
+about:
+  section_title: "About Data Discovery"
+  description: >
+    The Data Discovery Program connects teams of Berkeley students with mentors
+    across campus and beyond, using data to understand real-world problems in
+    academia, industry, government and nonprofits.
+    The Symposium is the culmination of the semester as student researchers share
+    their work through poster presentations. Please join us in celebrating their
+    contributions to the data research community.
+  website: "https://cdss.berkeley.edu/discovery"
+  contact: "cdss-datadiscovery@berkeley.edu"
+
+acknowledgments: >
+  We would like to thank everyone who’s contributed to the College of Computing,
+  Data Science, and Society’s Data Discovery program and making the Symposium come
+  to life. Data Discovery would not be possible without the leadership of
+  Professor Deb Nolan. Sierra J. White-Koutsoubos and Associate Dean of Students
+  Professor Narges Norouzi have provided invaluable guidance. Jessica McDaniels
+  arranged crucial details of the event, and Camille Simsuangco Roxas helped
+  execute it. CDSS Development contributed funds for the Symposium. Claire Chen,
+  Keryssa Li and Leo Liao have helped keep Data Discovery running smoothly this
+  semester. Ryan Lovett helped arrange access to computing resources and provided
+  technical support, and we acknowledge the National Science Foundation’s National
+  Artificial Intelligence Research Resource Pilot for providing computational
+  resources (award number NAIRR240387). Thank you to the experts who shared their
+  time and expertise through guest lectures and panels for the Data Discovery
+  course. Finally, we’d like to thank the Data Discovery mentors who provide the
+  projects and mentorship that make the program possible.
+
+schedule:
+  date: "Wednesday, December 10, 2025"
+  location: "Hearst Memorial Mining Building lobby, UC Berkeley"
+  items:
+    - time: "1:30 p.m."
+      activity: "Poster session begins"
+    - time: "2:00 p.m."
+      activity: "Keynote address"
+      speaker: "Associate Dean of Students, Professor Narges Norouzi"
+    - time: "2:15 p.m."
+      activity: "Presentation of student awards"
+    - time: "3:00 p.m."
+      activity: "Event concludes"
+
+posters:
+  template:
+    title: "Presentation title"
+    authors:
+      - "Student Author 1"
+      - "Student Author 2"
+      - "Student Author 3"
+      - "Student Author 4"
+    mentor:
+      name: "Mentor Name"
+      affiliation: "Mentor Affiliation"
+
+other_researchers:
+  section_description: >
+    We would also like to celebrate the Data Discovery teams who are presenting
+    their work elsewhere and aren’t represented at the Symposium.
+  projects:
+    - title: "Measuring, Mapping, and Interpreting the Shadow Internet"
+      students:
+        - "Horia Danciu"
+        - "Jenna Kudaimi"
+      mentors:
+        - name: "Abigail De Kosnik"
+          affiliation: "alpha60"
+
+    - title: "Healthcare Access for Transitional-Aged Youth"
+      students:
+        - "Zen Huang"
+        - "Jaxon Kaeller"
+        - "Fatema Zamani"
+        - "Jennifer Sun"
+      mentors:
+        - name: "Jennifer Andersen"
+          affiliation: "Aspiranet"
+        - name: "Alex Borja"
+          affiliation: "Aspiranet"
+
+    - title: >
+        Agentic AI for Retinal Imaging and Oculomotor Analytics:
+        Building Prompt-Driven Clinical Agents
+      students:
+        - "Diana Tao"
+        - "Yuki Chen"
+        - "Yash Thapliyal"
+        - "Jenny Shang"
+      mentors:
+        - name: "Yifan Zhang"
+          affiliation: "C. Light Technologies, Inc."
+        - name: "Emily Chen"
+          affiliation: "C. Light Technologies, Inc."
+
+    - title: "AI & Blockchain TurboTax for Carbon Accounting and Emissions Reduction"
+      students:
+        - "Tiffany Yeh"
+        - "Anica Chen"
+        - "Cedric Xu"
+        - "Daniel Li"
+      mentors:
+        - name: "Paul Bryzek"
+          affiliation: "CarbonSustain, Inc."
+
+    - title: "AI-Powered Survey Calling: Voice-First Data Collection Prototype"
+      students:
+        - "Vivienne Lee"
+        - "Rahul Bassi"
+        - "Anderson Mao"
+        - "Brandon Carlos"
+        - "Aanvi Koolwal"
+      mentors:
+        - name: "Nikolaus Wischmann"
+          affiliation: "GrapeData"
+
+    - title: "Building ML models for Asset Quality & Discovery on the Stellar Blockchain"
+      students:
+        - "Armaann Karnnavat"
+        - "Thomas Lee"
+        - "Akhil Korupolu"
+        - "Keval Amin"
+      mentors:
+        - name: "Pooja Doctor"
+          affiliation: "Stellar Development Foundation"
