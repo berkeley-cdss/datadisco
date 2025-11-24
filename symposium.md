@@ -1,6 +1,9 @@
 ---
-title: "CDSS Data Discovery Fall 2025 Symposium"
+title: "Symposium Events"
 ---
+
+
+# CDSS Data Discovery Fall 2025 Symposium
 
 ## About Data Discovery
 The Data Discovery Program connects teams of Berkeley students with mentors across campus and beyond, using data to understand real-world problems in academia, industry, government and nonprofits.
