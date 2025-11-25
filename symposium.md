@@ -27,6 +27,7 @@ All parts of the Symposium take place in the lobby of the Hearst Memorial Mining
 Student Author 1, Student Author 2, Student Author 3 and Student Author 4  
 Mentored by Mentor Name, Mentor Affiliation
 
+<!--
 ## Other Data Discovery Researchers
 We would also like to celebrate the Data Discovery teams who are presenting their work elsewhere and aren’t represented at the Symposium.
 
@@ -53,3 +54,4 @@ Mentored by Nikolaus Wischmann, GrapeData
 ### Building ML models for Asset Quality & Discovery on the Stellar Blockchain
 Armaann Karnnavat, Thomas Lee, Akhil Korupolu, and Keval Amin  
 Mentored by Pooja Doctor, Stellar Development Foundation
+-->
