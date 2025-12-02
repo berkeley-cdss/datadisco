@@ -24,272 +24,326 @@ All parts of the Symposium take place in the lobby of the Hearst Memorial Mining
 
 ## Posters
 
-**Health Community Data Optimization & Engagement Platform**  
+**Health Community Data Optimization & Engagement Platform**
+
 Maryum Syed, Matthew Ho, Collin Nguyen, Joshua Davis, Nia Shelton  
 Mentored by Jolie Lam, CITRIS and the Banatao Institute - UC Berkeley
 ----
 
 **Analyzing AI Policies Across College Syllabi**  
+
 Christopher Mach, Lynn Chien, Smrithi Senthilnathan, Sophie McKenna  
 Mentored by Igor Chirikov, Berkeley Center for Studies in Higher Education
 ----
 
 **Automated Deep-Learning Segmentation and Density Estimation of Polymetallic Nodules in Deep-Sea Seafloor Imagery**  
+
 Manasvi Lodha, Inez Guadalupe Alvarez, Hitha Sri Varganti, Vihaan Khandelwal  
 Mentored by Kimberly Baldwin, Bureau of Ocean Energy Management
 ----
 
 **Using Reinforcement Learning to Reduce Energy Waste for the Drying Process of a Wood Panel Manufacturer**  
+
 Emily Hsu, Abraham Guan, Rohan Bhagavan  
 Mentored by Ricardo Perez, Umbo Energy
 ----
 
 **FLS Labeling - Hard Negative Mining for Sentence Transformers**  
+
 Aditi Bordia, Tiana Zhou, Yi Hong Ng  
 Mentored by Yu Shen, BART
 ----
 
 **Continuous Glucose Monitors for Gestational Diabetes**  
+
 Nathaniel Santoso, Allen Zhou  
 Mentored by Dr. Michael Kohn, Dr. Nasim Sobhani, University of California, San Francisco (UCSF)
 ----
 
 **California CTE Pathways: A Spacial Analysis**  
+
 Adrian Mar  
 Mentored by Sarah Whiting, Jude He, Ten Strands
 ----
 
 **AI Governance Training for South Korean DPOs**  
+
 Andre Leung, Deeksha Vaidyanathan, Erin Kim, Renta Oshima  
 Mentored by Danielle Mordini, HewardMills
 ----
 
 **Analyzing California K12 Facility Master Plans With LLMs**  
+
 Sierra Meisel, Hamza Khalilullah  
 Mentored by Sara Hinkley, Ten Strands
 ----
 
 **Knowledge graph question answering for FDA 510(k) submissions**  
+
 Collin Lee, William Wu, Evelyn Shen  
 Mentored by Joey Yip, Medhive Ai
 ----
 
 **Tracking Inequities in California School Facility Funding**  
+
 Kristen Li, Avery Schmit-Hipolito  
 Mentored by Sara Hinkley, Center for Cities + Schools
 ----
 
 **FDA Citizen Petition Analysis**  
+
 Adithya Ayanam, Herman Ho, Kyaw Min Khant, Smriti Rangarajan  
 Mentored by Allison Schmitt, University of Oregon School of Law
 ----
 
 **Wildfire Data Repository for the East Bay Hills**  
+
 Nicolas Bonville, Elise Chang, Sosie Casteel, Nicolas Sapountzis, Andrew Shoenen  
 Mentored by Alec Dara-Abrams, Berkeley FireSafe
 ----
 
 **Interpreting AlphaEarth’s Embedding Space for Environmental Monitoring**  
+
 Aayan Rizvi, Eric Yu  
 Mentored by Huiqi Wang, The Keenan Group
 ----
 
 **Drug Discovery Lead Optimization with Agents and Deep Learning**  
+
 Alivia Ding, Caroline Chen, Katherine Ge, Rhythm Goyal, Viraj Roy Gupta  
 Mentored by Alan Cheng, Alec Glisman, David Li He, Xiaodong Zhu, Merck & Co
 ----
 
 **Coursewise AI Support Chatbot**  
+
 Miguel Contreras, Ethan Zhang, Michelle Li, Arnav Agarwal  
 Mentored by Angikaar Chana, Equivalence Systems
 ----
 
 **Mineralog: Mineral Composition Analysis for Geological Characterization**  
+
 Kevin Geng, Raghavan Srinivas, Rebecca Bachtra  
 Mentored by Kimberly Baldwin, Kevin Smith, Bureau of Ocean Energy Management
 ----
 
 **No poster title, but alternative project title is Carbon Sustain: Sustainability Awareness and Compliance through Tools and Data**  
+
 Tiffany Yeh, Anica Chen, Daniel Li, Cedric Xu  
 Mentored by Paul Bryzek, CarbonSustain.io
 ----
 
 **Trip Mode Segmentation, Classification, and Forecasting for Verified Carbon Credits**  
+
 William Chang, Shiama Srikantan, Anthony Gomez-Mier, Dylan Stier  
 Mentored by Aurora Khatibi Garrity, HERO2
 ----
 
 **Hallucinations Detection in Medical Device Question Answering**  
+
 Mark Shi, Amber Tien, Sean Yue, Arhaan Aggarwal  
 Mentored by Joey Yip, MedHive
 ----
 
 **Identifying Anomaly Aurora with Computer Vision Models**  
+
 Tommy Duong, Alex Toohey, Sabrina Nazarzai  
 Mentored by Brian Harding, Claire Gasque, UC Berkeley Space Sciences Laboratory
 ----
 
 **Safety Analysis of Autonomous Vehicles in Real-World Settings**  
+
 Neel Panchumarthi, Scarlet Shi  
 Mentored by Dr. Peggy Wang, UC Berkeley Institute for Transportation Studies - California PATH Research Center
 ----
 
 **Quantifying carbon dioxide emissions from U.S. power plants using deep learning and simulated satellite data**  
+
 Deleena Ghosh, Liberty Lauer, Rohin Juneja  
 Mentored by Prof. Ronald Cohen, Hikari Murayama, Naomi Asimow, Cohen Research Group
 ----
 
 **Interactive visual dashboard for Microbial Communities**  
+
 Haaziq Kazi, Lia Shamir, Rohan Panchal, Fion Wu, Annie Gao  
 Mentored by Jennifer Kuehl, Arkin Lab
 ----
 
 **Geopogo AI**  
+
 Sanatan Mishra, Akshay Sunkara, Chenghao Li, Yuanbo Pang  
 Mentored by Mike Hoppe, Dave Alpert, Geopogo
 ----
 
 **Predicting Student Chronic Absenteeism**  
+
 Joshua Xiong, Erin Pan, Angel Tovar, Alex Zhai  
 Mentored by Ana Costa, Oakland Natives Give Back
 ----
 
 **CourseWise – Competitive Analysis and Candidate Metrics**  
+
 Emma Cao, Amelia Jin, Geoffrey Kim, John Hu  
 Mentored by Angikaar Chana, CouseWise
 ----
 
 **Improving VerifAI Decision Quality**  
+
 Keyue Liao, Victoria Fengyi Ruan, Ellie Wang, Amanda Wu, Zoe Yip  
 Mentored by Nikolaus Wischmann, GrapeData
 ----
 
 **C. Light Retina Agent**  
+
 Diana Tao, Jenny Shang, Yash Thapliyal, Yuki Chen  
 Mentored by Yifan Zhang, C. Light technology
 ----
 
 **Expanding Our Understanding of Environmental and Climate Action in Schools; Emphasis on Future Goals and Funding**  
+
 Aniruthan Ravisankar, Jesus Ochoa, Ojas Sathaye, Perseus Zhao  
 Mentored by Devin Ngo, Sarah Whiting, Judy He, Ten Strands
 ----
 
 **Enhancing RR\ID Editorial Workflows: Improving Reviewer Quality-Check Portal and Conflict-of-Interest Detection Tool**  
+
 Riley Roggenkamp, Tracy Lian, Dominic Yap  
 Mentored by Reily Fairchild, Viraj Bhosale, Rapid Reviews\Infectious Diseases (RR\ID)
 ----
 
 **Exploring Electric Bus Effectiveness in Anaheim, CA**  
+
 Brian Whitney, Jacqueline Vo  
 Mentored by Timothy Lipman, Matthew Elke, Transportation Sustainability Research Center (TSRC)
 ----
 
 **AI Governance Training for South Korean DPOs**  
+
 Andre Leung, Deeksha Vaidyanathan, Erin Kim, Renta Oshima  
 Mentored by Christine Fostvedt-Mills, HewardMills
 ----
 
 **Automating Oxford Nanopore DNA Sequencing Pipeline**  
+
 Jaina Gandhi, Bashar Kabbarah, Reina Kushihashi, Jennifer Sun, Alana Waterman  
 Mentored by Scott Geller, Brian McCarthy, UC Berkeley DNA Sequencing Facility
 ----
 
-**Why the FDA Takes So Long to Say No: A Computational Approach to Governmental Accountability**  
+**Why the FDA Takes So Long to Say No: A Computational Approach to Governmental Accountability** 
+
 Abtin Khashayar, Anh Tran, Avani Kulshreshtha, Ashley Huang  
 Mentored by Allison Schmitt, University of Oregon School of Law, UC Berkeley Center for Law & Technology
 ----
 
 **Sharpen DTX AI Powered Recommendation Engine: A Framework to Personalize Mental Health Support for At-Risk Children**  
+
 Krish Bala, Pranay Gonuguntla, Pedro Ochoa, Dhruv Syngol, Claudia Wu  
 Mentored by Tim Farrell, Robyn Hussen Farrel, Resiliency Technologies Inc.
 ----
 
 **Explainable Data Analytics: A Neurosymbolic AI Approach**  
+
 Jason Park, Kaden Tang, Wayland La, Eric Li, Yinghan Sun, Daniel Firoozabadi  
 Mentored by Naveen Ashish, Inferlink Corporation
 ----
 
 **Does Human Capital Matter?: Analysis Of The Impact Of Dedicated Staff On Environmental And Climate Action In Schools**  
+
 Pratham Rangwala, Huy Nguyen, Uichan Lee  
 Mentored by Judy He, Sarah Whiting, Ten Strands
 ----
 
 **FDA Citizen Petition Analysis**  
+
 Adithya Ayanam, Herman Ho, Kyaw Min Khant, Smriti Rangarajan  
 Mentored by Professor Allison Schmitt, University of Oregon School of Law
 ----
 
 **CWN EmpowerHer**  
+
 Jennifer Ren, Sarah Wan, Cindy Wang, Rebecca Kang  
 Mentored by Jolie Lam, CITRIS and Cal Women's Network
 ----
 
 **Where are California's Green Career Pathways?**  
+
 Adrian Mar  
 Mentored by Sarah Whiting, Ten Strands
 ----
 
 **Determining Sentiment from Wall Street Analyst Reports**  
+
 Amy Tran, Martin Li, Holden Carrillo, Amber Yu  
 Mentored by Ethan Yen, Gilead Sciences
 ----
 
 **Quantifying Wall Street Sentiment: A Multi-Model Evaluation of Analyst Reports**  
+
 Amy Tran, Martin Li, Holden Carrillo, Amber Yu  
 Mentored by Ethan Yen, Gilead Sciences
 ----
 
 **Quantifying Market Sentiment: A Multi-Model Analysis of Wall Street Reports**  
+
 Amy Tran, Martin Li, Holden Carrillo, Amber Yu  
 Mentored by Ethan Yen, Gilead Sciences
 ----
 
 **Improving BART Chatbot Using MemGPT Tool Calling**  
+
 Ethan Qiu, Neil Kamath, Audrey Wong, Ray Lin  
 Mentored by Yu Shen, Bay Area Rapid Transit (BART)
 ----
 
 **Exploring Time-Series Forecasting for Network Utilization in Scientific Data Flows**  
+
 Hetvi Patel, Mehul Jaiswal, Hugo Fang  
 Mentored by John Wu, Alex Sim, Lawrence Berkeley National Laboratory
 ----
 
 **Generative AI in Surface Water Anomaly Testing**  
+
 Akansha Jain, Diego Gutierrez, Himani Balaga, Tony Getsin  
 Mentored by Dan Wang, California Water Boards
 ----
 
 **IRIS**  
+
 Hanjo Kim, Anupriya Islam, Gilbert Harijanto, Andre Ramos  
 Mentored by Ryan Lingo, Honda Research Institude USA
 ----
 
 **Redesigning an entity-linking model**  
+
 Tanish Kher, Purva Marfatia, Nathan Tran  
 Mentored by Adam Anderson, Collin Duong, UC Berkeley D-Lab
 ----
 
 **Human vs. LLM Text Simplification for K-12 Learners**  
+
 Khue N Do, Holden Fees, Senula James Wijeratne, Siya Patel  
 Mentored by Anastasia V. Smirnova, San Francisco State University - ECOLE Lab
 ----
 
 **Automating Anti-Displacement Policy Discovery: An LLM-Powered Web Scraping Solution**  
+
 Allen Lopez Iyer, Ariana Siordia, Bo Wang, Zack Yu  
 Mentored by Karen Chapple, Madeleine Parker, Chenghao Li, Urban Displacement Center
 ----
 
 **AI Peer Reviewer Matching**  
+
 Kovidh Singh  
 Mentored by Hildy Baker, RR\ID
 ----
 
 **Equitable Stewardship of California’s Water in a Changing Climate**  
+
 Isabelle Wang, Rain Zou, Isabelle Goebel, Sabi Can Ruso  
 Mentored by Dino Bellugi, Laurel Larsen, UC Berkeley Department of Geography
 ----
 
 **Impacts of Operational Decisions and a Changing Climate on California’s Water Future**  
+
 Isabelle Wang, Rain Zou, Isabelle Goebel, Sabi Can Ruso  
 Mentored by Dino Bellugi, James Gilbert, Laurel Larsen, UC Berkeley Department of Geography
 ----
