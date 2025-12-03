@@ -54,16 +54,6 @@ Nathaniel Santoso, Allen Zhou
 Mentored by Dr. Michael Kohn, Dr. Nasim Sobhani, University of California, San Francisco (UCSF)
 
 
-**California CTE Pathways: A Spacial Analysis**  
-Adrian Mar  
-Mentored by Sarah Whiting, Jude He, Ten Strands
-
-
-**AI Governance Training for South Korean DPOs**  
-Andre Leung, Deeksha Vaidyanathan, Erin Kim, Renta Oshima  
-Mentored by Danielle Mordini, HewardMills
-
-
 **Analyzing California K12 Facility Master Plans With LLMs**  
 Sierra Meisel, Hamza Khalilullah  
 Mentored by Sara Hinkley, Ten Strands
@@ -229,16 +219,6 @@ Adrian Mar
 Mentored by Sarah Whiting, Ten Strands
 
 
-**Determining Sentiment from Wall Street Analyst Reports**  
-Amy Tran, Martin Li, Holden Carrillo, Amber Yu  
-Mentored by Ethan Yen, Gilead Sciences
-
-
-**Quantifying Wall Street Sentiment: A Multi-Model Evaluation of Analyst Reports**  
-Amy Tran, Martin Li, Holden Carrillo, Amber Yu  
-Mentored by Ethan Yen, Gilead Sciences
-
-
 **Quantifying Market Sentiment: A Multi-Model Analysis of Wall Street Reports**  
 Amy Tran, Martin Li, Holden Carrillo, Amber Yu  
 Mentored by Ethan Yen, Gilead Sciences
@@ -282,11 +262,6 @@ Mentored by Karen Chapple, Madeleine Parker, Chenghao Li, Urban Displacement Cen
 **AI Peer Reviewer Matching**  
 Kovidh Singh  
 Mentored by Hildy Baker, RR\ID
-
-**Equitable Stewardship of California’s Water in a Changing Climate**  
-Isabelle Wang, Rain Zou, Isabelle Goebel, Sabi Can Ruso  
-Mentored by Dino Bellugi, Laurel Larsen, UC Berkeley Department of Geography
-
 
 **Impacts of Operational Decisions and a Changing Climate on California’s Water Future**  
 Isabelle Wang, Rain Zou, Isabelle Goebel, Sabi Can Ruso  
