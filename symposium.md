@@ -56,7 +56,7 @@ Mentored by Dr. Michael Kohn, Dr. Nasim Sobhani, University of California, San F
 
 **Analyzing California K12 Facility Master Plans With LLMs**  
 Sierra Meisel, Hamza Khalilullah  
-Mentored by Sara Hinkley, Ten Strands
+Mentored by Sara Hinkley, Center for Cities + Schools
 
 
 **Knowledge graph question answering for FDA 510(k) submissions**  
