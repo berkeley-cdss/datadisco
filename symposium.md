@@ -23,41 +23,42 @@ All parts of the Symposium take place in the lobby of the Hearst Memorial Mining
 - **3:00 p.m.** Event concludes
 
 
-## Fall Symposium 25' Awardees
+## Fall Symposium 2025 Awardees
 
-## Research Storytelling
+### Research Storytelling
 The Research Storytelling award recognizes projects that translate complex research into clear, compelling, and engaging narratives for broad audiences.
 
-**Automated Oxford Nanopore DNA Sequencing Pipeline**  
+**1) Automated Oxford Nanopore DNA Sequencing Pipeline**   
 Awardees: Jaina Gandhi, Bashar Kabbarah, Reina Kushihashi, Jennifer Sun, Alana Waterman  
 Mentors: Scott Geller, Brian McCarthy, UC Berkeley DNA Sequencing Facility
 
-**Coping with AI: Faculty Sentiments and AI Policies Across Course Syllabi**  
+**2) Coping with AI: Faculty Sentiments and AI Policies Across Course Syllabi**  
 Awardees: Christopher Mach, Lynn Chien, Smrithi Senthilnathan, Sophie McKenna  
 Mentor: Igor Chirikov, Berkeley Center for Studies in Higher Education
 
-## Methods: Statistical Inference
+
+### Methods: Statistical Inference
 The Methods award for Statistical Inference is presented for exemplary use of statistical methods to produce meaningful and clear results.
 
-**Continuous Glucose Monitors for Gestational Diabetes**  
+**1) Continuous Glucose Monitors for Gestational Diabetes**  
 Awardees: Allen M. Zhou and Nathaniel E. Santoso  
 Mentors: Dr. Michael A. Kohn and Dr. Nasim C. Sobhani, UC San Francisco
 
-## Methods: Large Language Modeling
+### Methods: Large Language Modeling
 The Methods award for Large Language Modeling celebrates a team that demonstrates a unique application of large language models, showcasing their capability to generate meaningful insights.
 
-**Quantifying Market Sentiment: A Multi-Model Analysis of Wall Street Reports**  
+**1) Quantifying Market Sentiment: A Multi-Model Analysis of Wall Street Reports**  
 Awardees: Amy Tran, Holden Carrillo, Martin Li, Amber Yu  
 Mentor: Ethan Yen, Gilead Sciences
 
-## Honorable Mention for Poster Design
+### Honorable Mention for Poster Design
 We highlight two posters for their thoughtful and attractive poster design in communicating their work.
 
-**Energy Efficiency and Reliability Exploration: Ride Electric Bus Fleet in Anaheim**  
+**1) Energy Efficiency and Reliability Exploration: Ride Electric Bus Fleet in Anaheim**  
 Awardees: Brian Whitney and Jacqueline Vo  
 Mentors: Timothy Lipman and Matthew Elke, Transportation Sustainability Research Center
 
-**Safety Evaluation of Autonomous Vehicles in Real-World Settings**  
+**2) Safety Evaluation of Autonomous Vehicles in Real-World Settings**  
 Awardees: Scarlet Shi and Neel Panchumarthi  
 Mentor: Peggy Wang, California PATH Research Center at UC Berkeley Institute for Transportation Studies
 
