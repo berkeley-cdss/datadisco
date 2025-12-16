@@ -25,7 +25,7 @@ All parts of the Symposium take place in the lobby of the Hearst Memorial Mining
 
 ## Fall Symposium 25' Awardees
 
-### Research Storytelling
+## Research Storytelling
 The Research Storytelling award recognizes projects that translate complex research into clear, compelling, and engaging narratives for broad audiences.
 
 **Automated Oxford Nanopore DNA Sequencing Pipeline**  
@@ -36,21 +36,21 @@ Mentors: Scott Geller, Brian McCarthy, UC Berkeley DNA Sequencing Facility
 Awardees: Christopher Mach, Lynn Chien, Smrithi Senthilnathan, Sophie McKenna  
 Mentor: Igor Chirikov, Berkeley Center for Studies in Higher Education
 
-### Methods: Statistical Inference
+## Methods: Statistical Inference
 The Methods award for Statistical Inference is presented for exemplary use of statistical methods to produce meaningful and clear results.
 
 **Continuous Glucose Monitors for Gestational Diabetes**  
 Awardees: Allen M. Zhou and Nathaniel E. Santoso  
 Mentors: Dr. Michael A. Kohn and Dr. Nasim C. Sobhani, UC San Francisco
 
-### Methods: Large Language Modeling
+## Methods: Large Language Modeling
 The Methods award for Large Language Modeling celebrates a team that demonstrates a unique application of large language models, showcasing their capability to generate meaningful insights.
 
 **Quantifying Market Sentiment: A Multi-Model Analysis of Wall Street Reports**  
 Awardees: Amy Tran, Holden Carrillo, Martin Li, Amber Yu  
 Mentor: Ethan Yen, Gilead Sciences
 
-### Honorable Mention for Poster Design
+## Honorable Mention for Poster Design
 We highlight two posters for their thoughtful and attractive poster design in communicating their work.
 
 **Energy Efficiency and Reliability Exploration: Ride Electric Bus Fleet in Anaheim**  
