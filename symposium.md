@@ -40,6 +40,8 @@ Advisors: Dr. Michael A. Kohn and Dr. Nasim C. Sobhani, UC San Francisco
 Awardees: Amy Tran, Holden Carrillo, Martin Li, and Amber Yu
 Advisor: Ethan Yen, Gilead Sciences 
 
+---
+
 ## Posters
 **Health Community Data Optimization & Engagement Platform**
 Maryum Syed, Matthew Ho, Collin Nguyen, Joshua Davis, Nia Shelton  
