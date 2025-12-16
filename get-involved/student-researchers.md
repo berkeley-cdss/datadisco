@@ -16,7 +16,7 @@ Exact program deadlines vary by semester. Typically, Data Discovery applications
   2. What experiences do you bring that would help make this Data Discovery project successful? Consider including examples of times you showed leadership, resourcefulness, or the ability to work independently (max 250 words)*.
   3. What do you wish to gain through participating in this project? Your response should address why you’ve chosen this project in particular (max 250 words)*.
 
-## Data Discovery Application Advice for Students
+## Application Advice for Students
 
 ### What Mentors Look For
 Overall, mentors look for students who demonstrate:
@@ -26,7 +26,7 @@ Overall, mentors look for students who demonstrate:
 - **Concise and concrete examples** that demonstrate your skills and experience, rather than simply naming them.
 - **A collaborative mindset**, including willingness to contribute to tedious or repetitive tasks when needed.
 
----
+
 
 ### For a Compelling Written Application
 To strengthen your written responses:
@@ -37,7 +37,7 @@ To strengthen your written responses:
 - **Do not submit applications written by generative AI.**
 - Take time to **customize your short-answer responses** for each project, even though your profile information will repeat across applications.
 
----
+
 
 ### During the Interview
 When interviewing with mentors:
@@ -47,7 +47,7 @@ When interviewing with mentors:
 - Be prepared to **verify and expand on what you wrote in your application**, as interviews often serve as fact checking.
 - Ask thoughtful questions about the project’s goals, data, and subject area.
 
----
+
 
 ### Skills Mentors Value
 Mentors often prioritize:
@@ -58,7 +58,7 @@ Mentors often prioritize:
 
 Simply listing skills on a resume is not sufficient. Mentors want to see how you have applied them in practice.
 
----
+
 
 ### Things to Know Before Applying
 Before applying to Data Discovery and choosing a project:
@@ -68,7 +68,7 @@ Before applying to Data Discovery and choosing a project:
 - Be ready to contribute as a **member of a team**. Not everyone will be the leader or work on the most visible tasks.
 - Research is often **slow and iterative**, and results may not be flashy or innovative. Even so, your contributions are valuable and provide authentic insight into how research is conducted.
 
----
+
 
 ### Career Engagement Resources
 - **Preparing for interviews:** https://career.berkeley.edu/prepare-for-success/interviewing/interview-preparation/
