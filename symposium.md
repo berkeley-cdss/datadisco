@@ -26,22 +26,22 @@ All parts of the Symposium take place in the lobby of the Hearst Memorial Mining
 ## Fall Symposium 25’ Awardees
 **Automated Oxford Nanopore DNA Sequencing Pipeline**
 Awardees: Jaina Gandhi, Bashar Kabbarah, Reina Kushihashi, Jennifer Sun, and Alana Waterman
-Advisors: Scott Geller and Brian McCarthy, UC Berkeley DNA Sequencing Facility
+Mentored by Scott Geller and Brian McCarthy, UC Berkeley DNA Sequencing Facility
 
 
 **Coping with AI: Faculty Sentiments and AI Policies Across Course Syllabi**
 Awardees: Christopher Mach, Lynn Chien, Smrithi Senthilnathan, and Sophie McKenna
-Advisor: Igor Chirikov, Berkeley Center for Studies in Higher Education
+Mentored by Igor Chirikov, Berkeley Center for Studies in Higher Education
 
 
 **Continuous Glucose Monitors for Gestational Diabetes**
 Awardees: Allen M. Zhou and Nathaniel E. Santoso
-Advisors: Dr. Michael A. Kohn and Dr. Nasim C. Sobhani, UC San Francisco
+Mentored by Dr. Michael A. Kohn and Dr. Nasim C. Sobhani, UC San Francisco
 
 
 **Quantifying Market Sentiment: A Multi-Model Analysis of Wall Street Reports**
 Awardees: Amy Tran, Holden Carrillo, Martin Li, and Amber Yu
-Advisor: Ethan Yen, Gilead Sciences 
+Mentored by Ethan Yen, Gilead Sciences 
 
 
 ---
