@@ -48,7 +48,7 @@ The Methods award for Large Language Modeling celebrates a team that demonstrate
 
 **Quantifying Market Sentiment: A Multi-Model Analysis of Wall Street Reports**  
 Awardees: Amy Tran, Holden Carrillo, Martin Li, Amber Yu  
-Mentors: Ethan Yen, Gilead Sciences
+Mentor: Ethan Yen, Gilead Sciences
 
 ### Honorable Mention for Poster Design
 We highlight two posters for their thoughtful and attractive poster design in communicating their work.
