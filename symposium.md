@@ -26,11 +26,11 @@ All parts of the Symposium take place in the lobby of the Hearst Memorial Mining
 ## Fall Symposium 2025 Awardees
 
 **Automated Oxford Nanopore DNA Sequencing Pipeline (Awarded for Research Storytelling)**   
-Awardees: Jaina Gandhi, Bashar Kabbarah, Reina Kushihashi, Jennifer Sun, Alana Waterman  
+Awardees: Jaina Gandhi, Bashar Kabbarah, Reina Kushihashi, Jennifer Sun and Alana Waterman  
 Mentors: Scott Geller, Brian McCarthy, UC Berkeley DNA Sequencing Facility
 
 **Coping with AI: Faculty Sentiments and AI Policies Across Course Syllabi (Awarded for Research Storytelling)**  
-Awardees: Christopher Mach, Lynn Chien, Smrithi Senthilnathan, Sophie McKenna  
+Awardees: Christopher Mach, Lynn Chien, Smrithi Senthilnathan and Sophie McKenna  
 Mentor: Igor Chirikov, Berkeley Center for Studies in Higher Education
 
 **Continuous Glucose Monitors for Gestational Diabetes (Awarded for Methods: Statistical Inference)**  
@@ -38,7 +38,7 @@ Awardees: Allen M. Zhou and Nathaniel E. Santoso
 Mentors: Dr. Michael A. Kohn and Dr. Nasim C. Sobhani, UC San Francisco
 
 **Quantifying Market Sentiment: A Multi-Model Analysis of Wall Street Reports (Awarded for Methods: Large Language Modeling)**  
-Awardees: Amy Tran, Holden Carrillo, Martin Li, Amber Yu  
+Awardees: Amy Tran, Holden Carrillo, Martin Li and Amber Yu  
 Mentor: Ethan Yen, Gilead Sciences
 
 **Energy Efficiency and Reliability Exploration: Ride Electric Bus Fleet in Anaheim (Honorable Mention for Poster Design)**  

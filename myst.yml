@@ -3,6 +3,10 @@ project:
   title: "Data Discovery"
   toc:
     - file: index.md
+    - file: orientation.md
+      children:
+        - file: orientation/spring26.md
+        - file: orientation/fall25.md
     - file: schedule.md
     - file: symposium.md
     - file: ddmatch.md
