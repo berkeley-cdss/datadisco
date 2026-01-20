@@ -17,4 +17,3 @@ Thank you for participating in Data Discovery for this Spring Semester! Because 
   </p>
 </object>
 
-[Download the PDF](../assets/sp26.pdf)
