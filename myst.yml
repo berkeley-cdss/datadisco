@@ -8,10 +8,6 @@ project:
         - file: orientation/spring26.md
         - file: orientation/fall25.md
           hidden: true
-        - file: ./assets/sp26.pdf
-          hidden: true
-        - file: ./assets/f25.pdf
-          hidden: true
     - file: schedule.md
     - file: symposium.md
     - file: ddmatch.md
