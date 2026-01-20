@@ -7,7 +7,6 @@ project:
       children:
         - file: orientation/spring26.md
         - file: orientation/fall25.md
-          hidden: true
         - file: orientation/sp26.pdf
           hidden: true
         - file: orientation/f25.pdf
