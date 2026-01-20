@@ -1,6 +1,10 @@
 version: 1
 project:
   title: "Data Discovery"
+  static:
+    - assets
+  exclude:
+    - "**/*.pdf"
   toc:
     - file: index.md
     - file: orientation.md
