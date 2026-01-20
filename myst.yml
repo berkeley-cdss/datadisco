@@ -7,9 +7,10 @@ project:
       children:
         - file: orientation/spring26.md
         - file: orientation/fall25.md
-        - file: orientation/sp26.pdf
           hidden: true
-        - file: orientation/f25.pdf
+        - file: assets/sp26.pdf
+          hidden: true
+        - file: assets/f25.pdf
           hidden: true
     - file: schedule.md
     - file: symposium.md
