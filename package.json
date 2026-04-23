@@ -6,6 +6,9 @@
   "version": "1.0.0",
   "main": "inject-siteimprove.js",
   "scripts": {
+    "build": "myst build --html",
+    "preview": "python -m http.server 8000 --directory _site",
+    "start": "myst start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

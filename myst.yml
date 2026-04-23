@@ -13,7 +13,10 @@ project:
         - file: orientation/fall25.md
           hidden: true
     - file: schedule.md
-    - file: symposium.md
+    - title: Symposium Events
+      children:
+        - file: symposium/SP26symposium.md
+        - file: symposium/F25symposium.md
     - file: ddmatch.md
       children:
         - file: get-involved/partner.md
