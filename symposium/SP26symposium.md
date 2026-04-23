@@ -1,5 +1,5 @@
 ---
-title: "Symposium Events"
+title: "Spring 2026"
 ---
 
 # CDSS Data Discovery Spring 2026 Symposium

@@ -1,5 +1,5 @@
 ---
-title: "Symposium Events"
+title: "Fall 2025"
 ---
 
 # CDSS Data Discovery Fall 2025 Symposium
