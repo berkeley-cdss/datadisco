@@ -29,9 +29,9 @@ To be posted after the event
 
 ---
 
-## Posters
+## Poster Categories
 
-### Business
+## Business
 **Optimizing Cross-Platform AI Token Allocation Through Predictive Usage Modeling**  
 Andrew Taylor, Angela Wu, Taewoo Kim, Yirina Wang  
 Mentored by Nick Cawthon, COFAIR  
@@ -61,7 +61,7 @@ Collin Hargreaves, Nicholas Saban, Shiyi Chen
 Mentored by Huiqi Wang, UC Berkeley  
 
 
-### Education
+## Education
 **Identifying Risk Factors of Student Attendance through machine learning**  
 Edan Wong, Jeremy Li, Olivia Lee  
 Mentored by Ana Costa, Oakland Natives Give Back  
@@ -87,7 +87,7 @@ Cadence Loh, Maria Ava, Rebecca Kong
 Mentored by Jolie Lam, CITRIS  
 
 
-### Environment
+## Environment
 **Are California School Districts Ready for Climate Impacts?**  
 Patrick Chi, Stesha Simon, Zacharia Makari, Karina Parikh  
 Mentored by Sarah Whiting, Ten Strands  
@@ -153,7 +153,7 @@ Umar Ghani, Tanay Pant, Tanish Kher
 Mentored by Irina Kitiashvili, NASA  
 
 
-### Medicine & Public Health
+## Medicine & Public Health
 **Multimodal Machine Learning for Retinal Video Analysis in Neurodegenerative Disease**  
 Adrian Nguyen, Linjie (Jenny) Shang, Naman Rudrakshi, Yifei (Diana) Tao  
 Mentored by Yifan Zhang, C. Light Technologies  
@@ -183,7 +183,7 @@ Abraham Guan, Brian Zhou, Ishanth Hombaiah, Karen Meng, Minggang Li
 Mentored by Walter Alvarado, NASA  
 
 
-### Public Policy & Social Science
+## Public Policy & Social Science
 **Investigating CANS Scores and Serious Incidents**  
 Brooke Uyeda, Chunmin Zheng, Daniel Lancet  
 Mentored by Alex Borja, Aspiranet  
@@ -209,7 +209,7 @@ Tiantong Lu, Jerry Cheng, Rithik Anumula, Vedashnii Raghu
 Mentored by Adam Anderson, FactGrid  
 
 
-### Other Presentations Elsewhere
+## Other Presentations Elsewhere
 **Client Satisfaction Surveys: Assessing for Efficacy**  
 Matthew Yang, Stephen Tan, Wendy Liu  
 Mentored by Alex Borja, Aspiranet  
