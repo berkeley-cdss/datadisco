@@ -137,7 +137,7 @@ Joseph Wong, Lisa Hao, Theo Dela Cruz
 Mentored by Kimberly Baldwin, BOEM  
 
 **Automated Identification of Deep-Sea Polymetallic Nodules from Seafloor Imagery**  
-Brian Hwang, Kailash Ramesh  
+Brian Hwang, Kailash Ramesh, Thang Hoang Nguyen 
 Mentored by Kimberly Baldwin, BOEM  
 
 **AI Powered Quality Assurance and Quality Control for Water Data**  
