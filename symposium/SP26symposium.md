@@ -190,7 +190,7 @@ Christopher Mach, Lynn Chien, Smrithi Senthilnathan, Sophie McKenna
 Mentored by Igor Chirikov, UC Berkeley  
 
 **UC Berkeley EvaCun 2026 Team: NLP for Ancient Languages**  
-Zoya Brahimzadeh, Alyssa Li, Mahi Nagananda, Ojas Sathaye  
+Zoya Brahimzadeh, Mahi Nagananda, Ojas Sathaye  
 Mentored by Adam Anderson, FactGrid  
 
 **Building Evaluation Infrastructure for Legal Reasoning AI**  
