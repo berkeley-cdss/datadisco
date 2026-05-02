@@ -184,9 +184,6 @@ Mentored by Walter Alvarado, NASA
 
 
 ## Public Policy & Social Science
-**Investigating CANS Scores and Serious Incidents**  
-Brooke Uyeda, Chunmin Zheng, Daniel Lancet  
-Mentored by Alex Borja, Aspiranet  
 
 **Analyzing Generative AI Policies Across College Syllabi**  
 Christopher Mach, Lynn Chien, Smrithi Senthilnathan, Sophie McKenna  
@@ -210,6 +207,10 @@ Mentored by Adam Anderson, FactGrid
 
 
 ## Other Presentations Elsewhere
+**Investigating CANS Scores and Serious Incidents**  
+Brooke Uyeda, Chunmin Zheng, Daniel Lancet  
+Mentored by Alex Borja, Aspiranet  
+
 **Client Satisfaction Surveys: Assessing for Efficacy**  
 Matthew Yang, Stephen Tan, Wendy Liu  
 Mentored by Alex Borja, Aspiranet  
