@@ -56,11 +56,6 @@ Mentored by Goran Muric, InferLink Corporation
 Reyansh Pallikonda, Carter Chen, Nicholas Cruz  
 Mentored by Rodney Martin, NASA  
 
-**TreeAgent: A Multi Agent AI Framework for Tree Labeling and Uncertainty Quantification**  
-Collin Hargreaves, Nicholas Saban, Shiyi Chen  
-Mentored by Huiqi Wang, UC Berkeley  
-
-
 ## Education
 **Identifying Risk Factors of Student Attendance through machine learning**  
 Edan Wong, Jeremy Li, Olivia Lee  
@@ -207,6 +202,11 @@ Mentored by Adam Anderson, FactGrid
 
 
 ## Other Presentations Elsewhere
+
+**TreeAgent: A Multi Agent AI Framework for Tree Labeling and Uncertainty Quantification**  
+Collin Hargreaves, Nicholas Saban, Shiyi Chen  
+Mentored by Huiqi Wang, UC Berkeley  
+
 **Investigating CANS Scores and Serious Incidents**  
 Brooke Uyeda, Chunmin Zheng, Daniel Lancet  
 Mentored by Alex Borja, Aspiranet  
