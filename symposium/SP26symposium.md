@@ -231,6 +231,10 @@ Mentored by Dhushan Thevarajah, Coeuraj
 Bo Wang  
 Mentored by Karen Chapple, UDP  
 
+**Validation of Immersive Crime Scene Digital Twin for Training**
+Arya Prince, Kartik Pandian 
+Mentored by Simon Su, NIST
+
 **AI Automation of Building Code Compliance**  
 Amogh Janganure, Anna Buckeye, Dylan Cha, Noor Rauf  
 Mentored by Mike Hoppe, Geopogo  
