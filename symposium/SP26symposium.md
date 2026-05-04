@@ -153,11 +153,11 @@ Mentored by Irina Kitiashvili, NASA
 Adrian Nguyen, Linjie (Jenny) Shang, Naman Rudrakshi, Yifei (Diana) Tao  
 Mentored by Yifan Zhang, C. Light Technologies  
 
-**Leveraging agents for mixture of experts in drug discovery predictions**  
+**Agents in the loop for small molecule drug design**
 Ava Joshi, Akansha Jain, Gautam Ramkumar, Linai (Annie) Gao, Shreyash Goli  
 Mentored by Alan Cheng, Merck & Co.  
 
-**Agents in the loop for small molecule drug design**  
+**Leveraging agents for mixture of experts in drug discovery predictions**    
 Suryatejas Appana, Ameya Kiwalkar, Samantha Alonso, Hilary Wang  
 Mentored by Alan Cheng, Merck & Co.  
 
