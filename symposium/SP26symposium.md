@@ -31,65 +31,6 @@ To be posted after the event
 
 ## Poster Categories
 
-## Business
-**Optimizing Cross-Platform AI Token Allocation Through Predictive Usage Modeling**  
-Andrew Taylor, Angela Wu, Taewoo Kim, Yirina Wang  
-Mentored by Nick Cawthon & Ashish Singh, COFAIR  
-
-**Can Analysts Predict Markets? Using Equity Research Reports to Forecast Gilead Sciences Stock Price**  
-Qamil Mirza bin Abdullah, Holden Carrillo, Zhen Liu, Tara Timm, Amy Tran  
-Mentored by Ethan Yen, Gilead Sciences  
-
-**Rivian Product Development AI Assistant**  
-Canhui Huang, Ethan Ngo  
-Mentored by Zhangli Hu, Rivian  
-
-**BART: Legacy Codebase Documentation Agent**  
-Rianna Zhu, Haylie Yee, Nikhil Kotta, Carlos Ganoza  
-Mentored by Yu Shen, BART  
-
-**LLM-as-a-Judge: Using Large Language Models to Evaluate Machine Translation Quality**  
-Elaine Zhang, Syed Rayyan Ali  
-Mentored by Goran Muric, InferLink Corporation  
-
-**Optimal Risk Assessment through Likelihood x Consequence**  
-Carter Chen, Nico Cruz, Reyansh Pallikonda  
-Mentored by Rodney Martin, NASA Ames Research Center   
-
-## Education
-**Identifying Risk Factors of Student Attendance**  
-Edan Wong, Jeremy Li, Olivia Lee  
-Mentored by Ana Costa & Yusuf Ajiboye, Oakland Natives Give Back  
-
-**CourseWise Education Meta-Analytics II: Developing an Internal Metrics Dashboard**  
-Cynthia Wen, Rena Shrestha, Chunmin Zheng  
-Mentored by Angikaar Singh Chana, Equivalence Systems LLC  
-
-**Evaluating Small Open-Source Language Models for AI Education**  
-Ria Jain, Sanjana Sathishkumar, Yiran Hu, SzuLun Huang, Seoha Choi, Lance Santana  
-Mentored by Eric Van Dusen, UC Berkeley  
-
-**Does Human Capital Matter?: Analysis Of The Impact Of Dedicated Staff On Environmental And Climate Action In Schools**  
-Pratham Rangwala, Huy Nguyen, Uichan Lee  
-Mentored by Judy He and Sarah Whiting, Ten Strands  
-
-**Text Simplification for Children: Evaluating Large Language Models vis-à-vis the human baseline**  
-Cole Fees, Katie Kee, Isole Kim, Tanvi Munjeti, Matthew Takagi  
-Mentored by Anastasia Smirnova, Experimental and Computational Linguistics Ensemble Lab (ECOLE), San Francisco State University  
-
-**EmpowerHer Too: Cal Women’s Network Mentorship Program**  
-Cadence Loh, Maria Amabella Ava, Rebecca Kong  
-Mentored by Jolie Lam, CITRIS and the Banatao Institute  
-
-**Leveraging AI to Assist with Transfer Course Articulation**  
-Erin Kim, Dave Datugan, Shanaya Wickremesinghe, Elizabeth Varghese, Ryan Suh  
-Mentored by Angikaar Chana, Equivalence Systems, LLC  
-
-**ConflictQuery: An AI-Powered Compliance Classification System for Academics**  
-Amber Gupta, Jack Hu, Manya Sriram  
-Mentored by Lawrence Ebringer, ConflictQuery  
-
-
 ## Environment
 **Are California School Districts Ready for Climate Impacts?**  
 Karina Parikh, Patrick Chi, Stesha Simon, Zach Makari  
@@ -99,7 +40,7 @@ Mentored by Devin Ngo & Sarah Whiting, Ten Strands
 Jason Chang, Natasha Gill, Jeremy Kemmerer, Kelly Le  
 Mentored by Sarah Whiting, Ten Strands  
 
-**Equitable Stewardship of California's Water in a Changing Climate**  
+**Operational Decisions and a Changing Climate: Shaping California’s Water Future**  
 Aryan Achuthan, Isabelle Wang, Rain Zou, Isabelle Goebel, Sabi Can Ruso  
 Mentored by Dino Bellugi and James Gilbert, UC Berkeley  
 
@@ -154,6 +95,66 @@ Mentored by Kristen Okorn, NASA
 **2D Spatial Detection and Tracking of Emerging Solar Active Regions Using Acoustic Power Suppression Maps**  
 Umar Ghani, Tanay Pant, Tanish Kher  
 Mentored by Irina Kitiashvili, NASA  
+
+
+## Business
+**Optimizing Cross-Platform AI Token Allocation Through Predictive Usage Modeling**  
+Andrew Taylor, Angela Wu, Taewoo Kim, Yirina Wang  
+Mentored by Nick Cawthon & Ashish Singh, COFAIR  
+
+**Can Analysts Predict Markets? Using Equity Research Reports to Forecast Gilead Sciences Stock Price**  
+Qamil Mirza bin Abdullah, Holden Carrillo, Zhen Liu, Tara Timm, Amy Tran  
+Mentored by Ethan Yen, Gilead Sciences  
+
+**Rivian Product Development AI Assistant**  
+Canhui Huang, Ethan Ngo  
+Mentored by Zhangli Hu, Rivian  
+
+**BART: Legacy Codebase Documentation Agent**  
+Rianna Zhu, Haylie Yee, Nikhil Kotta, Carlos Ganoza  
+Mentored by Yu Shen, BART  
+
+**LLM-as-a-Judge: Using Large Language Models to Evaluate Machine Translation Quality**  
+Elaine Zhang, Syed Rayyan Ali  
+Mentored by Goran Muric, InferLink Corporation  
+
+**Optimal Risk Assessment through Likelihood x Consequence**  
+Carter Chen, Nico Cruz, Reyansh Pallikonda  
+Mentored by Rodney Martin, NASA Ames Research Center   
+
+
+## Education
+**Identifying Risk Factors of Student Attendance**  
+Edan Wong, Jeremy Li, Olivia Lee  
+Mentored by Ana Costa & Yusuf Ajiboye, Oakland Natives Give Back  
+
+**CourseWise Education Meta-Analytics II: Developing an Internal Metrics Dashboard**  
+Cynthia Wen, Rena Shrestha, Chunmin Zheng  
+Mentored by Angikaar Singh Chana, Equivalence Systems LLC  
+
+**Evaluating Small Open-Source Language Models for AI Education**  
+Ria Jain, Sanjana Sathishkumar, Yiran Hu, SzuLun Huang, Seoha Choi, Lance Santana  
+Mentored by Eric Van Dusen, UC Berkeley  
+
+**Does Human Capital Matter?: Analysis Of The Impact Of Dedicated Staff On Environmental And Climate Action In Schools**  
+Pratham Rangwala, Huy Nguyen, Uichan Lee  
+Mentored by Judy He and Sarah Whiting, Ten Strands  
+
+**Text Simplification for Children: Evaluating Large Language Models vis-à-vis the human baseline**  
+Cole Fees, Katie Kee, Isole Kim, Tanvi Munjeti, Matthew Takagi  
+Mentored by Anastasia Smirnova, Experimental and Computational Linguistics Ensemble Lab (ECOLE), San Francisco State University  
+
+**EmpowerHer Too: Cal Women’s Network Mentorship Program**  
+Cadence Loh, Maria Amabella Ava, Rebecca Kong  
+Mentored by Jolie Lam, CITRIS and the Banatao Institute  
+
+**Leveraging AI to Assist with Transfer Course Articulation**  
+Erin Kim, Dave Datugan, Shanaya Wickremesinghe, Elizabeth Varghese, Ryan Suh  
+Mentored by Angikaar Chana, Equivalence Systems, LLC  
+
+**ConflictQuery: An AI-Powered Compliance Classification System for Academics**  
+Amber Gupta, Jack Hu, Manya Sriram  
+Mentored by Lawrence Ebringer, ConflictQuery  
 
 
 ## Medicine & Public Health
