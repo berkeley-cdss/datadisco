@@ -34,108 +34,116 @@ To be posted after the event
 ## Business
 **Optimizing Cross-Platform AI Token Allocation Through Predictive Usage Modeling**  
 Andrew Taylor, Angela Wu, Taewoo Kim, Yirina Wang  
-Mentored by Nick Cawthon, COFAIR  
+Mentored by Nick Cawthon & Ashish Singh, COFAIR  
 
-**Analyst Sentiment as Alpha: Trading Strategy Development and Predictive Signal**  
-Qamil Mirza Bin Abdullah, Tara Timm, Amy Tran, Holden Carrillo, Zhen Liu  
+**Can Analysts Predict Markets? Using Equity Research Reports to Forecast Gilead Sciences Stock Price**  
+Qamil Mirza bin Abdullah, Holden Carrillo, Zhen Liu, Tara Timm, Amy Tran  
 Mentored by Ethan Yen, Gilead Sciences  
 
 **Rivian Product Development AI Assistant**  
 Canhui Huang, Ethan Ngo  
 Mentored by Zhangli Hu, Rivian  
 
-**Techniques for Legacy codebase understanding and documentation with LLM and LikeC4**  
-Haylie Yee, Nikhil Kotta, Carlos Atalluz, Rianna Zhu  
+**BART: Legacy Codebase Documentation Agent**  
+Rianna Zhu, Haylie Yee, Nikhil Kotta, Carlos Ganoza  
 Mentored by Yu Shen, BART  
 
 **LLM-as-a-Judge: Using Large Language Models to Evaluate Machine Translation Quality**  
 Elaine Zhang, Syed Rayyan Ali  
 Mentored by Goran Muric, InferLink Corporation  
 
-**Optimal Risk Assessment for Autonomous Critical Systems**  
-Reyansh Pallikonda, Carter Chen, Nicholas Cruz  
-Mentored by Rodney Martin, NASA  
+**Optimal Risk Assessment through Likelihood x Consequence**  
+Carter Chen, Nico Cruz, Reyansh Pallikonda  
+Mentored by Rodney Martin, NASA Ames Research Center   
 
 ## Education
-**Identifying Risk Factors of Student Attendance through machine learning**  
+**Identifying Risk Factors of Student Attendance**  
 Edan Wong, Jeremy Li, Olivia Lee  
-Mentored by Ana Costa, Oakland Natives Give Back  
+Mentored by Ana Costa & Yusuf Ajiboye, Oakland Natives Give Back  
 
-**CourseWise Education Meta-Analytics II – Internal Metrics & Impact Dashboard**  
-Rena Shrestha, Cynthia Wen  
-Mentored by Angikaar Singh Chana, CourseWise  
+**CourseWise Education Meta-Analytics II: Developing an Internal Metrics Dashboard**  
+Cynthia Wen, Rena Shrestha, Chunmin Zheng  
+Mentored by Angikaar Singh Chana, Equivalence Systems LLC  
 
-**CourseWise AI Support Chatbot II – Retrieval-Augmented Help for Partner Institutions**  
-Shanaya Wickremesinghe, Dave Datugan, Erin Kim, Ryan Suh, Elizabeth Varghese  
-Mentored by Angikaar Singh Chana, CourseWise  
-
-**Evaluating Small Open-Source Language Models for Introductory AI Education**  
-Sanjana Sathishkumar, Ria Jain, Yiran Hu, Seoha Choi, Szu Lun Huang  
+**Evaluating Small Open-Source Language Models for AI Education**  
+Ria Jain, Sanjana Sathishkumar, Yiran Hu, SzuLun Huang, Seoha Choi, Lance Santana  
 Mentored by Eric Van Dusen, UC Berkeley  
 
-**Text Simplification for Children: Evaluating Large Language Models vis-a-vis the human baseline**  
-Cole Fees, Isole Kim, Katie Kee, Matthew Takagi, Tanvi Munjeti  
-Mentored by Anastasia Smirnova, San Francisco State University  
+**Does Human Capital Matter?: Analysis Of The Impact Of Dedicated Staff On Environmental And Climate Action In Schools**  
+Pratham Rangwala, Huy Nguyen, Uichan Lee  
+Mentored by Judy He and Sarah Whiting, Ten Strands  
 
-**EmpowerHer Too CAL Women's Network Mentorship Program**  
-Cadence Loh, Maria Ava, Rebecca Kong  
-Mentored by Jolie Lam, CITRIS  
+**Text Simplification for Children: Evaluating Large Language Models vis-à-vis the human baseline**  
+Cole Fees, Katie Kee, Isole Kim, Tanvi Munjeti, Matthew Takagi  
+Mentored by Anastasia Smirnova, Experimental and Computational Linguistics Ensemble Lab (ECOLE), San Francisco State University  
+
+**EmpowerHer Too: Cal Women’s Network Mentorship Program**  
+Cadence Loh, Maria Amabella Ava, Rebecca Kong  
+Mentored by Jolie Lam, CITRIS and the Banatao Institute  
+
+**Leveraging AI to Assist with Transfer Course Articulation**  
+Erin Kim, Dave Datugan, Shanaya Wickremesinghe, Elizabeth Varghese, Ryan Suh  
+Mentored by Angikaar Chana, Equivalence Systems, LLC  
+
+**ConflictQuery: An AI-Powered Compliance Classification System for Academics**  
+Amber Gupta, Jack Hu, Manya Sriram  
+Mentored by Lawrence Ebringer, ConflictQuery  
 
 
 ## Environment
 **Are California School Districts Ready for Climate Impacts?**  
-Patrick Chi, Stesha Simon, Zacharia Makari, Karina Parikh  
+Karina Parikh, Patrick Chi, Stesha Simon, Zach Makari  
+Mentored by Devin Ngo & Sarah Whiting, Ten Strands  
+
+**Analyzing the Landscape of Funding for Environmental & Climate Action**  
+Jason Chang, Natasha Gill, Jeremy Kemmerer, Kelly Le  
 Mentored by Sarah Whiting, Ten Strands  
 
-**Which School Districts Have the Green: Analyzing the Landscape of Funding for Environmental and Climate Action**  
-Jason Chang, Jeremy Kemmerer, Kelly Le, Natasha Gill  
-Mentored by Sarah Whiting, Ten Strands  
+**Equitable Stewardship of California's Water in a Changing Climate**  
+Aryan Achuthan, Isabelle Wang, Rain Zou, Isabelle Goebel, Sabi Can Ruso  
+Mentored by Dino Bellugi and James Gilbert, UC Berkeley  
 
-**Equitable stewardship of California's water in a changing climate**  
-Aryan Achuthan  
-Mentored by Dino Bellugi, UC Berkeley  
+**Analysis of Surface Albedo and Climate Variability Relationships at Donner Pass**  
+Allen Liu, Christopher Chang, Angelo Payavala, Josh Tsang  
+Mentored by Gabe Lewis, Central Sierra Snow Laboratory  
 
-**Donner Pass snow albedo investigation**  
-Christopher Chang, Allen Liu, Angelo Payavala, Pak To Josh Tsang  
-Mentored by Gabe Lewis, Central Sierra Snow Lab  
-
-**Satellite Imagery over the Anaktuvuk River Fire**  
+**Arctic Vegetation Classification Via Machine Learning and Remote Sensing**  
 Jose de Jesus Ochoa Tolento, Thomás Teixeira Scarioli  
-Mentored by Colette Brown, UC Berkeley  
+Mentored by Colette Reifsnyder-Brown, Energy and Resources Group, UC Berkeley  
 
-**Quantifying air pollution from U.S. power plants using deep learning and satellite data**  
-Ria Voodi, Pranav Walimbe, Ryuto Tsuruoka  
-Mentored by Hikari Murayama, UC Berkeley  
+**Satellite-based Power Plant CO2 Emissions Quantification Using Deep Learning**  
+Ria Voodi, Rohin Juneja, Deleena Ghosh  
+Mentored by Hikari Murayama and Ronald Cohen, UC Berkeley  
 
-**Data Fusion Pipeline for Interpretation of Physico-Chemical Properties for Advanced Nuclear Reactors and Fusion Systems**  
+**Quantifying Power Plant NOx Emissions Using Deep Learning**  
+Pranav Walimbe, Ryuto Tsuruoka  
+Mentored by Hikari Murayama and Ronald Cohen, UC Berkeley  
+
+**Meeting the NASEM Grand Challenges: A Data-Driven NLP Temporal Analysis of AEESP Research Publications/Themes**  
+Abhiram Bhavaraju, Ryan Ngo, Riya Sehgal  
+Mentored by Kara Nelson, Association of Environmental Engineering & Science Professors  
+
+**Building Data Processing and Analysis Pipeline for Electrochemical Impedance Spectroscopy (EIS)**  
 Anqi Tao, Medha Rakesh, Ayush Guha  
-Mentored by Raluca Scarlat, SALT Lab  
-
-**Visualizing Trends in Unhealthy Air**  
-Veronica Le  
-Mentored by Ronald Cohen, UC Berkeley  
+Mentored by Raluca O. Scarlat & Matei Ignuta-Ciuncanu, Momoka Imoto, The SALT Research Group  
 
 **Real World Analysis of Electric Bus Operation in Anaheim Phase II**  
 Annie Liu, Jocelyn Wu, Krithika Muralidhar, Lavin Yau  
 Mentored by Timothy Lipman, UC Berkeley  
 
-**Mapping the Grand Challenges of Environmental Engineering**  
-Abhiram Bhavaraju, Riya Sehgal, Ryan Ngo  
-Mentored by Kara Nelson, AEESP  
+**Interactive Dashboard Design for Microbial Data Exploration**  
+Martin Sim, Ju Ho Kim, Zouxuan Wu, Jeffrey Gao  
+Mentored by Jennifer Kuehl & Shekhar Mishra, LBL  
 
-**Microbial Community and Geochemical Dashboard**  
-Zouxuan Wu, Jeffrey Gao, Ju Ho Kim, Martin Sim  
-Mentored by Jennifer Kuehl, LBL  
+**How Much Clay? Predicting Mineral Composition from Wireline Logs**  
+Joseph Wong, Theo Dela Cruz, Lisa Hao  
+Mentored by Kimberly Baldwin, U.S. Department of the Interior  
 
-**Analysis of Mineral Composition Data for Geological Characterization**  
-Joseph Wong, Lisa Hao, Theo Dela Cruz  
-Mentored by Kimberly Baldwin, BOEM  
+**Governing the Sea: Automating Detection of Deep Sea Polymetallic Nodules**  
+Brian Hwang, Thang Nguyen, Kailash Ramesh  
+Mentored by Kimberly Baldwin, Erick Huchzermeyer, Kevin Smith, Obediah Racicot, U.S. Department of the Interior  
 
-**Automated Identification of Deep-Sea Polymetallic Nodules from Seafloor Imagery**  
-Brian Hwang, Kailash Ramesh, Thang Hoang Nguyen 
-Mentored by Kimberly Baldwin, BOEM  
-
-**AI Powered Quality Assurance and Quality Control for Water Data**  
+**AI-Powered Quality Assurance and Quality Control for Water Data**  
 Ciann Amalan, Tanush Obili, Aneya Sobalkar, Joshua Min  
 Mentored by Dan Wang, CA Water Board  
 
@@ -143,62 +151,58 @@ Mentored by Dan Wang, CA Water Board
 Holden Fees, Ngan Nguyen, Zakaria Al-Alie  
 Mentored by Kristen Okorn, NASA  
 
-**Connecting Turbulent Solar Magnetoconvection to the Early Emergence and Evolution of Space Weather Relevant Active Regions**  
+**2D Spatial Detection and Tracking of Emerging Solar Active Regions Using Acoustic Power Suppression Maps**  
 Umar Ghani, Tanay Pant, Tanish Kher  
 Mentored by Irina Kitiashvili, NASA  
 
 
 ## Medicine & Public Health
-**Multimodal Machine Learning for Retinal Video Analysis in Neurodegenerative Disease**  
-Adrian Nguyen, Linjie (Jenny) Shang, Naman Rudrakshi, Yifei (Diana) Tao  
-Mentored by Yifan Zhang, C. Light Technologies  
+**Retinal Laser Scans for Disease Progression Prediction in Multiple Sclerosis Patients**  
+Naman Rudrakshi, Adrian Nguyen, Diana Tao, Jenny Shang  
+Mentored by Yifan Zhang & Emily Chen, C. Light Technologies  
 
-**Agents in the loop for small molecule drug design**
-Ava Joshi, Akansha Jain, Gautam Ramkumar, Linai (Annie) Gao, Shreyash Goli  
-Mentored by Alan Cheng, Merck & Co.  
+**Agents in the Loop for Small Molecule Drug Design**  
+Akansha Jain, Ava Joshi, Annie Liao, Gautam Ramkumar, Shreyash Goli  
+Mentored by Alan Cheng, Alec Glisman, Claire Suen, David He, Xiaodong Zhu, Merck & Co.  
 
-**Leveraging agents for mixture of experts in drug discovery predictions**    
-Suryatejas Appana, Ameya Kiwalkar, Samantha Alonso, Hilary Wang  
-Mentored by Alan Cheng, Merck & Co.  
+**LLM-Orchestrated Mixture-of-Experts for Solubility Prediction**  
+Samantha Alonso, Surya Appana, Ameya Kiwalkar, Hilary Wang  
+Mentored by Alan Cheng & Claire Suen, Merck & Co.  
 
-**DNA sequencing data pipeline optimization and ongoing development**  
-Sahana Gopalan, Anjana Niranjanan, Anthony Ho, Siya Patel  
-Mentored by Scott Geller, UC Berkeley  
+**Optimizing DNA Sequencing Pipelines**  
+Anjana Niranjanan, Anthony Ho, Sahana Gopalan, Siya Patel  
+Mentored by Scott Geller, UC Berkeley DNA Sequencing Facility  
 
-**Rapid Reviews Infectious Diseases**  
+**The Future of Rapid Research: AI-Powered Preprint Review**  
 Khushi Kolte, Lillian Yao, Noah Fond, Ted Nguyen  
-Mentored by Hildy Fong Baker, RRID  
+Mentored by Angel Paul, Stef Bertozzi, Hildy Fong Baker, RRID  
 
-**The CITRIS Health Community Data Optimization and Engagement Platform**  
-David Richard Veksler, Michelle Bao, Namira Khanum  
-Mentored by Jolie Lam, CITRIS  
+**CITRIS Health Newsletter and Chatbot Hub**  
+Namira Khanum, Michelle Bao, David Veksler  
+Mentored by Jolie Lam, CITRIS Health  
 
-**Training and Benchmarking AI ML Models Using Space Biology Transcriptomic Data**  
-Abraham Guan, Brian Zhou, Ishanth Hombaiah, Karen Meng, Minggang Li  
+**Training and Benchmarking AI Models for Space Biology**  
+Abraham Westley Guan, Brian Zhou, Ishanth Hombaiah, Karen Meng, Martin Li  
 Mentored by Walter Alvarado, NASA  
 
 
 ## Public Policy & Social Science
 
+**NLP for Cuneiform Languages**  
+Zoya Brahimzadeh, Mahi Nagananda, Ojas Sathaye  
+Mentored by Adam Anderson, Fact Grid  
+
 **Analyzing Generative AI Policies Across College Syllabi**  
 Christopher Mach, Lynn Chien, Smrithi Senthilnathan, Sophie McKenna  
 Mentored by Igor Chirikov, UC Berkeley  
 
-**UC Berkeley EvaCun 2026 Team: NLP for Ancient Languages**  
-Zoya Brahimzadeh, Mahi Nagananda, Ojas Sathaye  
-Mentored by Adam Anderson, FactGrid  
-
-**Building Evaluation Infrastructure for Legal Reasoning AI**  
-Amber Gupta, Jinze Hu, Manya Sriram  
-Mentored by Lawrence Ebringer, ConflictQuery  
-
 **HERO2: Incentivizing Sustainable Transportation Behavior through Predictive Analytics & Behavioral Nudging**  
-Aayan Agarwal, Sanjana Alluri, Aahan Bagga, Caden Luu, Carl Eagan Djapardi  
-Mentored by Aurora Khatibi Garrity and Anferney Walther, HERO2  
+Aayan Agarwal, Sanjana Alluri, Caden Luu, Aahan Bagga, Carl Djapardi  
+Mentored by Aurora Garrity, Ryan Xu, Anferney Walther, Alexander Stepanov, HERO2  
 
-**TokenWorks OCR and LLM Workflow: Advanced Document Layout Analysis and Automated Text Extraction**  
-Tiantong Lu, Jerry Cheng, Rithik Anumula, Vedashnii Raghu  
-Mentored by Adam Anderson, FactGrid  
+**TokenWorks - OCR for Cuneiform Sources: Evaluating & Refining a Pipeline**  
+Vedashnii Raghu, Tiantong Lu, Rithik Anumula, Jerry Cheng  
+Mentored by Adam Anderson, Token Works  
 
 
 ## Other Presentations Elsewhere
@@ -207,34 +211,34 @@ Mentored by Adam Anderson, FactGrid
 Collin Hargreaves, Nicholas Saban, Shiyi Chen  
 Mentored by Huiqi Wang, UC Berkeley  
 
-**Investigating CANS Scores and Serious Incidents**  
+**CANS Scores, Incident Risks, and Formulating Youth Treatment Plans**  
 Brooke Uyeda, Chunmin Zheng, Daniel Lancet  
 Mentored by Alex Borja, Aspiranet  
 
-**Client Satisfaction Surveys: Assessing for Efficacy**  
+**Analyzing Declining Response Rates in Client Satisfaction Surveys**  
 Matthew Yang, Stephen Tan, Wendy Liu  
 Mentored by Alex Borja, Aspiranet  
 
 **Physics-guided AI for Streamflow Forecasting, Flood Control, and Water Supply Prediction in California**  
 Alexander Zhai  
-Mentored by Dino Bellugi, UC Berkeley  
+Mentored by Dino Bellugi & Sabi Can Russo, UC Berkeley  
 
-**Equitable Access to the San Francisco Bay Shoreline**  
+**Exploring Inequitable Access to the SF Bay Shoreline**  
 Ishita Bhadra, Jeffrey Ding  
 Mentored by Sasha Harris-Lovett, SF Estuary Partnership  
 
-**Validation of Emotional, Cognitive, and Relational Dynamics Metrics**  
+**Meta-meetings**  
 Amir Rafiei, Peyton Li  
 Mentored by Dhushan Thevarajah, Coeuraj  
 
-**Urban Displacement Project: AI widget**  
+**Full-Stack RAG Chatbot for Policy Database Search**  
 Bo Wang  
-Mentored by Karen Chapple, UDP  
+Mentored by Karen Chapple & Chenghao Li, Urban Displacement Project, UC Berkeley 
 
-**Validation of Immersive Crime Scene Digital Twin for Training**
-Arya Prince, Kartik Pandian 
-Mentored by Simon Su, NIST
+**Poisson Disk Sampling for 3D Forensic Scene Point Cloud Compression**
+Arya Prince
+Mentored by Jackie Sun, Yu Xuan Bu, Simon Su, NIST
 
-**AI Automation of Building Code Compliance**  
+**Automated Detection of Accessibility Compliance in Architectural Floorplans Using Computer Vision**  
 Amogh Janganure, Anna Buckeye, Dylan Cha, Noor Rauf  
 Mentored by Mike Hoppe, Geopogo  
