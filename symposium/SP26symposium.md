@@ -132,7 +132,7 @@ Mentored by Ana Costa & Yusuf Ajiboye, Oakland Natives Give Back
 Cynthia Wen, Rena Shrestha, Chunmin Zheng  
 Mentored by Angikaar Singh Chana, Equivalence Systems LLC  
 
-**Evaluating Small Open-Source Language Models for AI Education**  
+**Evaluating Small Language Models for AI Education**  
 Ria Jain, Sanjana Sathishkumar, Yiran Hu, SzuLun Huang, Seoha Choi, Lance Santana  
 Mentored by Eric Van Dusen, UC Berkeley  
 
@@ -150,7 +150,7 @@ Mentored by Jolie Lam, CITRIS and the Banatao Institute
 
 **Leveraging AI to Assist with Transfer Course Articulation**  
 Erin Kim, Dave Datugan, Shanaya Wickremesinghe, Elizabeth Varghese, Ryan Suh  
-Mentored by Angikaar Chana, Equivalence Systems, LLC  
+Mentored by Angikaar Singh Chana, Equivalence Systems, LLC  
 
 **ConflictQuery: An AI-Powered Compliance Classification System for Academics**  
 Amber Gupta, Jack Hu, Manya Sriram  
