@@ -193,7 +193,7 @@ Mentored by Walter Alvarado, NASA
 Zoya Brahimzadeh, Mahi Nagananda, Ojas Sathaye  
 Mentored by Adam Anderson, Fact Grid  
 
-**Analyzing Generative AI Policies Across College Syllabi**  
+**GenAI in the Classroom: Instructor Policy Variation and Shifting Grading Components**  
 Christopher Mach, Lynn Chien, Smrithi Senthilnathan, Sophie McKenna  
 Mentored by Igor Chirikov, UC Berkeley  
 
