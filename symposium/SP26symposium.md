@@ -24,7 +24,45 @@ All parts of the Symposium take place in the lobby of the Hearst Memorial Mining
 
 
 ## Spring Symposium 2026 Awardees
-To be posted after the event
+
+## Research and Storytelling Awards
+
+**Agents in the Loop for Small Molecule Drug Design** 
+Akansha Jain, Annie Gao, Ava Joshi, Gautam Ramkumar, Shreyash Goli
+Advised by Alan Cheng, Alec Glisman, Claire Suen, David He and Xiaodong Zhu Merck & Co
+
+**Predicting Total Clay Content from Well Logs**
+Joseph Wong, Lisa Hao, Theo Dela Cruz
+Advised by Kimberly Baldwin & Kevin Smith, U.S. Department of the Interior
+
+**Governing the Sea: Automating Detection of Deep Sea Polymetallic Nodules**
+Brian Hwang, Kailash Ramesh, Thang Nguyen
+Advised by Kimberly Baldwin, Erick Huchzermeyer, Kevin Smith, Obediah Racicot, U.S. Department of the Interior
+
+**Arctic Vegetation Classification Using Machine Learning & Remote Sensing**
+Jose de Jesus Ochoa Tolento & Thomas Teixeira Scarioli
+Advised by Colette Brown, UC Berkeley
+
+**Training and Benchmarking AI/ML Models Using Space Biology Transcriptomic Data**
+Abraham Guan, Brian Zhou, Karen Meng, Ishanth Hombaiah, Martin Li
+Advised by Walter Alvarado, NASA
+
+
+
+## Honorable Mentions
+
+**Retinal Laser Scans for Disease Progression Prediction in MS Patients**
+Adrian Nguyen, Diana Tao, Jenny Shang, Naman Rudrakshi
+Advised by Yifan Zhang and Emily Chen, CLight Technologies
+
+**Identifying Risk Factors of Student Attendance**
+Edan Wong, Jeremy Li, Olivia Lee
+Advised by Ana Costa and Yusuf Ajiboye, Oakland Natives Give Back
+
+**Can Analysts Predict Markets? Using Equity Research Reports to Forecast Gilead Sciences Stock Price**
+Amy Tran, Holden Carrillo, Qamil Mirza, Tara Timm, Zhen Liu
+Advised by Ethan Yen, Gilead Sciences
+
 
 
 ---
