@@ -22,15 +22,25 @@
   photo: assets/george-obaido.jpg
   website: https://cdss.berkeley.edu/discovery/program-team/george-obaido
 
+- name: Riley VanMeter
+  role: Associate Instructor
+  email: rileyvanmeter@berkeley.edu
+  photo: assets/Riley.jpg
+  website: https://sites.google.com/view/rileyvanmeter/home
+
+- name: Rena Shrestha
+  role: Data Discovery Student Intern
+  email: renashrestha@berkeley.edu
+  photo: assets/Rena.png
+  website: https://www.linkedin.com/in/rena-shrestha-970352265/
+
 - name: Emily Remirez
-  role: Research Program Co-Director
-  email: eremirez@berkeley.edu
+  role: Past Data Discovery Staff
   photo: assets/emily-remirez.jpg
-  website: https://cdss.berkeley.edu/discovery/program-team/emily/remirez
+  website: https://cdss.berkeley.edu/discovery/program-team/emily/remirez-
 
 - name: Claire Chen
-  role: Data Discovery Student Intern
-  email: claire.chen@berkeley.edu
+  role: Past Data Discovery Staff
   photo: assets/claire.png
   website: https://www.linkedin.com/in/claire-chen-581941255/
 

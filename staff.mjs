@@ -164,7 +164,8 @@ const staffDirective = {
     const rolePlurals = {
       'Instructor': 'Instructors',
       'Teaching Assistant': 'Teaching Assistants',
-      'Tutor': 'Tutors'
+      'Tutor': 'Tutors',
+      'Past Data Discovery Staff': 'Past Data Discovery Staff'
     };
 
     const children = [];
