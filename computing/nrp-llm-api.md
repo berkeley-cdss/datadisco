@@ -10,7 +10,7 @@ The following learning sequence focuses on applying models to a research project
 
 | Topic | What you should be able to do |
 | --- | --- |
-| Access and API tokens | Join the project namespace `nrp-nairr260129`, confirm LLM access, create a token, and keep it out of notebooks and Git repositories. |
+| Access and API tokens | Join the project namespace `nrp-nairr260129`, confirm LLM access, create a token, and keep it secret — never hardcode it or commit it to a notebook or Git repository. |
 | First request from a notebook | Connect from DataHub or a local Python notebook, send a prompt, and read the response. |
 | Model selection | Choose a chat, multimodal, or embedding model; check available model IDs before starting a project. |
 | Prompting for research tasks | Write clear instructions with examples for labeling text, extracting fields, and summarizing documents. |
@@ -31,7 +31,19 @@ Our project's namespace is **`nrp-nairr260129`**. A namespace identifies the pro
 1. Sign in to NRP with your institutional account and open the [Namespaces page](https://nrp.ai/namespaces/).
 2. Look for **`nrp-nairr260129`** and check whether you are already a member. If you are not, ask the project's namespace administrator to add you. Include the namespace name in your request; you do not need to create a new namespace for this project.
 3. Confirm that your group has the LLM flag enabled, as required by [NRP's API access guide](https://nrp.ai/documentation/userdocs/ai/llm-managed/api-access/). If the namespace is missing or you cannot access the LLM service, contact the project team for help.
-4. Once membership and LLM access are confirmed, follow the token-creation link in the API access guide to create your own API token.
+4. Once membership and LLM access are confirmed, go to the [LLM API Keys page](https://nrp.ai/llmtoken). Under **Create new API key**, enter a name in **Alias** (any label you'll recognize, e.g. `DDTest`), set **Group** to `nrp/access/nrp-nairr260129`, and click **Create new API key for general LLM API access**.
+
+![Create new API key form on the LLM API Keys page](../assets/api1.png)
+
+5. A dialog appears with your new key: **"Please save and secure your API key. It will not be shown again. If you lose it, you'll need to regenerate a new one."** Copy it immediately and store it somewhere safe (see below) — you will need it for the notebook steps below, and NRP will not show it to you again.
+
+![API key creation confirmation dialog warning that the key will not be shown again](../assets/api2.png)
+
+> **Keep your API key secret.** Your key is tied to your NRP account and to the project's shared quota, so anyone who has it can make requests — and use up quota — as you. This is the step first-time users most often get wrong:
+> - Never type your key directly into a notebook cell, script, or config file that gets committed or pushed to GitHub — public **or** private repos. Private repos still leak through forks, collaborators, and accidental visibility changes.
+> - Enter it at runtime instead, with `getpass()` (see step 2 below) or an environment variable / local `.env` file listed in `.gitignore`. Never hardcode it as a string.
+> - If a key is ever committed by mistake, treat it as compromised: go back to the [LLM API Keys page](https://nrp.ai/llmtoken) and delete or regenerate it immediately. Removing it in a later commit is not enough — it remains visible in your Git history.
+> - Before sharing or submitting a notebook, clear its cell outputs and confirm no key appears anywhere in the file.
 
 NRP's [resource and membership guide](https://nrp.ai/documentation/userdocs/start/hierarchy/) explains how namespace administrators manage access. DataHub access alone should not be taken as confirmation of NRP LLM API access.
 
@@ -55,7 +67,7 @@ If Jupyter asks you to restart the kernel after installation, do so before conti
 
 ### 2. Enter your NRP token and connect
 
-Paste your personal NRP API token into the hidden input when prompted. Do not paste it into the code itself or save it in a shared notebook. Run this cell again after restarting the kernel.
+Paste your personal NRP API token into the hidden input when prompted. Do not paste it into the code itself or save it in a shared notebook — see **Keep your API key secret** above. Run this cell again after restarting the kernel.
 
 ```python
 from getpass import getpass
@@ -160,6 +172,7 @@ Each run creates a new CSV. If a request fails, earlier completed records remain
 | --- | --- |
 | `ModuleNotFoundError: openai` | Run the installation cell in this notebook's kernel, then restart the kernel if needed. |
 | Authentication or permission error (401/403) | Re-enter your NRP token and confirm membership in `nrp-nairr260129` and LLM access with the project administrator. |
+| Key accidentally committed or shared | Treat it as compromised. Delete or regenerate it right away on the [LLM API Keys page](https://nrp.ai/llmtoken), then update the notebooks or scripts that use it. |
 | Model unavailable | Rerun the model-list cell and choose an available chat model. |
 | Rate limit (429) | Pause before retrying and reduce request frequency; follow the [NRP fair use policy](https://nrp.ai/documentation/userdocs/ai/llm-managed/fair-use/). |
 | Timeout or temporary server error | Retry later. For larger runs, use increasing retry delays and resume from saved records. |
