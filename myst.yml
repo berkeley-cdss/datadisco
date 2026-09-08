@@ -47,6 +47,7 @@ project:
             - file: datahub/example.md
             - file: datahub/moreexamples.md
             - file: datahub/llm.md
+        - file: computing/nrp-llm-api.md
     - file: program-team.md
     - file: support.md
   plugins:
