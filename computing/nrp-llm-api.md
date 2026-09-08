@@ -31,11 +31,15 @@ Our project's namespace is **`nrp-nairr260129`**. A namespace identifies the pro
 1. Sign in to NRP with your institutional account and open the [Namespaces page](https://nrp.ai/namespaces/).
 2. Look for **`nrp-nairr260129`** and check whether you are already a member. If you are not, ask the project's namespace administrator to add you. Include the namespace name in your request; you do not need to create a new namespace for this project.
 3. Confirm that your group has the LLM flag enabled, as required by [NRP's API access guide](https://nrp.ai/documentation/userdocs/ai/llm-managed/api-access/). If the namespace is missing or you cannot access the LLM service, contact the project team for help.
-4. Once membership and LLM access are confirmed, go to the [LLM API Keys page](https://nrp.ai/llmtoken). Under **Create new API key**, enter a name in **Alias** (any label you'll recognize, e.g. `DDTest`), set **Group** to `nrp/access/nrp-nairr260129`, and click **Create new API key for general LLM API access**.
+4. Once membership and LLM access are confirmed, sign in at [nrp.ai](https://nrp.ai) and go to **My account → LLM API keys** in the top navigation bar (this takes you to the [LLM API Keys page](https://nrp.ai/llmtoken)).
+
+![NRP "My account" menu with "LLM API keys" highlighted](../assets/dashboard1.png)
+
+5. Under **Create new API key**, enter a name in **Alias** (any label you'll recognize, e.g. `DDTest`), set **Group** to `nrp/access/nrp-nairr260129`, and click **Create new API key for general LLM API access**.
 
 ![Create new API key form on the LLM API Keys page](../assets/api1.png)
 
-5. A dialog appears with your new key: **"Please save and secure your API key. It will not be shown again. If you lose it, you'll need to regenerate a new one."** Copy it immediately and store it somewhere safe (see below) — you will need it for the notebook steps below, and NRP will not show it to you again.
+6. A dialog appears with your new key: **"Please save and secure your API key. It will not be shown again. If you lose it, you'll need to regenerate a new one."** Copy it immediately and store it somewhere safe (see below) — you will need it for the notebook steps below, and NRP will not show it to you again.
 
 ![API key creation confirmation dialog warning that the key will not be shown again](../assets/api2.png)
 
