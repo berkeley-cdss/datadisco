@@ -1,8 +1,8 @@
 ---
-title: "Creating a Partner's Project"
+title: "Creating a Mentor's Project"
 ---
 
-This guide walks partners through the steps required to successfully submit a project on the DD Match platform.
+This guide walks mentors through the steps required to successfully submit a project on the DD Match platform.
 
 ---
 

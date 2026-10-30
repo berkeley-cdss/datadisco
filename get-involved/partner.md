@@ -1,5 +1,5 @@
 ---
-title: "For Project Partners"
+title: "For Project Mentors"
 ---
 
 ## Program Overview
@@ -33,7 +33,7 @@ Exact program deadlines follow UC Berkeley’s academic calendar and will vary b
   Mentors can begin reviewing applications and contacting students to schedule interviews.
 
 - **Mentors can begin extending offers**: *Jan. 19, 2026*  
-  Partners can begin extending offers in DDMatch and forming their team of one to five students.
+  Mentors can begin extending offers in DDMatch and forming their team of one to five students.
 
 - **Deadline for team selection**: *Jan. 23, 2026*  
   Please extend all offers by this date for a prompt start to the program.
