@@ -5,6 +5,12 @@ short_title: "🍂 Fall 2025"
 
 # CDSS Data Discovery Fall 2025 Symposium
 
+:::{tip} 📄 Printable program
+[**Download the Fall 2025 Symposium program (PDF)**](../assets/program-f25.pdf), designed to print and fold into a booklet.
+
+To make the booklet, print all pages **double-sided, flipping on the short edge**. Stack the sheets in order and fold them in half.
+:::
+
 ## About Data Discovery
 The Data Discovery Program connects teams of Berkeley students with mentors across campus and beyond, using data to understand real-world problems in academia, industry, government and nonprofits.
 
