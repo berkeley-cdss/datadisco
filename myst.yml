@@ -45,7 +45,6 @@ project:
             - file: savio/jobs.md
         - file: computing/datahub.md
           children:
-            - file: computing/datahub.md
             - file: datahub/jupyterhub.md
             - file: datahub/packages.md
             - file: datahub/example.md
