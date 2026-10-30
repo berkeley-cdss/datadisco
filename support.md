@@ -1,5 +1,6 @@
 ---
 title: Contact Us
+short_title: "✉️ Contact Us"
 ---
 
 Please contact us at [cdss-datadiscovery@berkeley.edu](mailto:cdss-datadiscovery@berkeley.edu).

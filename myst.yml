@@ -17,7 +17,7 @@ project:
         - file: syllabus/syllabus-fall26.md
         - file: syllabus/syllabus-spring26.md
         - file: syllabus/syllabus-fall25.md
-    - title: Symposium Events
+    - title: 🏆 Symposium Events
       children:
         - file: symposium/SP26symposium.md
         - file: symposium/F25symposium.md
@@ -34,7 +34,7 @@ project:
             - file: ddmatch/create-student.md
             - file: ddmatch/apply-project.md
             - file: ddmatch/review-offer.md
-    - title: Computing Infrastructure
+    - title: 💻 Computing Infrastructure
       children:
         - file: computing/savio.md
           children:

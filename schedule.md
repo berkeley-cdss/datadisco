@@ -1,5 +1,6 @@
 ---
 title: "Academic Syllabus"
+short_title: "📅 Academic Syllabus"
 ---
 
 Course syllabuses for the Data Discovery program, by semester.

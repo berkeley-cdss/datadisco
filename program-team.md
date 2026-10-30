@@ -1,5 +1,6 @@
 ---
 title: "Program Team"
+short_title: "👥 Program Team"
 ---
 
 Meet the CDSS Data Discovery Team!
