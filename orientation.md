@@ -1,5 +1,5 @@
 ---
-title: "Partner Orientation"
+title: "Mentor Orientation"
 ---
 
 Thank you for participating in Data Discovery! Because of you, students will be getting valuable hands-on experience to complement their coursework.

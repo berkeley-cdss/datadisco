@@ -6,7 +6,7 @@ Welcome to the Data Discovery Onboarding Guidebook. This guidebook will walk men
 
 ## What's in this guidebook
 
-- **[Partner Orientation](orientation.md):** orientation slides for mentors, by semester.
+- **[Mentor Orientation](orientation.md):** orientation slides for mentors, by semester.
 - **[Academic Syllabus](schedule.md):** the Data Discovery course syllabus for each semester.
 - **[Symposium Events](symposium/SP26symposium.md):** the end-of-semester symposium, where student researchers share their work through poster presentations.
 - **[DD Match Platform Guide](ddmatch.md):** step-by-step guides for [mentors](get-involved/partner.md) ([creating an account](ddmatch/create-partner.md), [submitting projects](ddmatch/create-project.md), [extending offers](ddmatch/extend-offer.md)) and [student researchers](get-involved/student-researchers.md) ([creating an account](ddmatch/create-student.md), [applying to projects](ddmatch/apply-project.md), [reviewing offers](ddmatch/review-offer.md)).

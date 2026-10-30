@@ -1,5 +1,5 @@
 ---
-title: "Spring 2026: Partner Orientation"
+title: "Spring 2026: Mentor Orientation"
 ---
 
 Thank you for participating in Data Discovery for this Spring Semester! Because of you, students will be getting valuable hands-on experience to complement their coursework.
@@ -10,6 +10,6 @@ Thank you for participating in Data Discovery for this Spring Semester! Because 
 
 [Download the orientation slides (PDF)](../assets/orientation-sp26.pdf)
 
-## Partner Welcome
+## Mentor Welcome
 
-[Download the Spring 2026 partner welcome letter (PDF)](../assets/sp26.pdf)
+[Download the Spring 2026 mentor welcome letter (PDF)](../assets/sp26.pdf)

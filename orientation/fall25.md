@@ -1,5 +1,5 @@
 ---
-title: "Fall 2025: Partner Orientation"
+title: "Fall 2025: Mentor Orientation"
 ---
 
 Thank you for participating in Data Discovery for this Fall Semester! Because of you, students will be getting valuable hands-on experience to complement their coursework.
@@ -10,6 +10,6 @@ Thank you for participating in Data Discovery for this Fall Semester! Because of
 
 [Download the orientation slides (PDF)](../assets/orientation-f25.pdf)
 
-## Partner Welcome
+## Mentor Welcome
 
-[Download the Fall 2025 partner welcome letter (PDF)](../assets/f25.pdf)
+[Download the Fall 2025 mentor welcome letter (PDF)](../assets/f25.pdf)
