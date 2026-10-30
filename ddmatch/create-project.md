@@ -94,7 +94,7 @@ You'll see **Project created successfully**, and your project appears on the **P
 ![Step 9: Project created](../assets/proj9.png)
 
 > ✅ Congratulations! Your project has been successfully submitted for consideration and will undergo review by the Data Discovery Program Team. Please await further communication regarding the status of your submission.
-
+>
 > Once approved, your project will appear in the student-facing portal, where eligible students can apply to join your team. In the meantime, you may return to your dashboard to monitor progress, update project details, or manage your profile.
-
+>
 > If you have any questions, feel free to contact cdss-datadiscovery@berkeley.edu.
