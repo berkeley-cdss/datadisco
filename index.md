@@ -15,6 +15,7 @@ Bring a research project and lead a team of Berkeley students.
 - [Create a mentor account](ddmatch/create-partner.md)
 - [Submit a project](ddmatch/create-project.md)
 - [Extend offers to students](ddmatch/extend-offer.md)
+- [Add project coordinators](ddmatch/add-coordinator.md)
 :::
 
 :::{card} 🎓 For Student Researchers

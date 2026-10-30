@@ -29,6 +29,7 @@ project:
             - file: ddmatch/create-project.md
             - file: ddmatch/extend-offer.md
             - file: ddmatch/list-offer.md
+            - file: ddmatch/add-coordinator.md
         - file: get-involved/student-researchers.md
           children:
             - file: ddmatch/create-student.md
