@@ -1,7 +1,9 @@
 ---
-title: "Academic Schedule (Fall 2025)"
+title: "Academic Syllabus"
 ---
 
-:::{schedule} ./schedule.yml
+Course syllabuses for the Data Discovery program, by semester.
 
-:::
+- [Fall 2026](syllabus/syllabus-fall26.md)
+- [Spring 2026](syllabus/syllabus-spring26.md)
+- [Fall 2025](syllabus/syllabus-fall25.md)

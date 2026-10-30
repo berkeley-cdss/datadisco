@@ -13,6 +13,10 @@ project:
         - file: orientation/spring26.md
         - file: orientation/fall25.md
     - file: schedule.md
+      children:
+        - file: syllabus/syllabus-fall26.md
+        - file: syllabus/syllabus-spring26.md
+        - file: syllabus/syllabus-fall25.md
     - title: Symposium Events
       children:
         - file: symposium/SP26symposium.md
