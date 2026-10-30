@@ -1,5 +1,6 @@
 ---
 title: Open OnDemand
+short_title: "🌐 Open OnDemand"
 ---
 
 ## Overview

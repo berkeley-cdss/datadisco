@@ -1,5 +1,6 @@
 ---
 title: Using Savio
+short_title: "🖥️ Using Savio"
 ---
 
 Research IT provides the [Savio computing cluster](https://research-it.berkeley.edu/services-projects/high-performance-computing-savio) for use by campus researchers and their collaborators. Savio is a Linux cluster with high-speed, low-latency networking and a high-speed parallel filesystem for high performance computing (HPC).

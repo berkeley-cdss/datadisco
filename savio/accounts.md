@@ -1,5 +1,6 @@
 ---
 title: Accounts
+short_title: "🔑 Accounts"
 ---
 
 ## Request an Account

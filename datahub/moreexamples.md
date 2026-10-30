@@ -1,5 +1,6 @@
 ---
 title: More Examples
+short_title: "🧪 More Examples"
 ---
 
 Once your environment is ready, you can start writing Python code in notebooks.  

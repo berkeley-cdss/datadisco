@@ -1,5 +1,6 @@
 ---
 title: "Fall 2025: Academic Syllabus"
+short_title: "🍂 Fall 2025"
 ---
 
 Syllabus for CDSS 198: Data Discovery, Fall 2025.

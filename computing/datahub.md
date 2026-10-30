@@ -1,5 +1,6 @@
 ---
 title: Using DataHub
+short_title: "☁️ Using DataHub"
 ---
 
 [DataHub](https://cdss.berkeley.edu/datahub-home-page) is a campus-wide JupyterHub service, and there is a dedicated instance for CDSS Discovery students at [https://cdss-discovery.datahub.berkeley.edu](https://cdss-discovery.datahub.berkeley.edu). It runs on [NRP Nautilus](https://nationalresearchplatform.org/nautilus/). Our goal is to provide students with access to GPUs and more computing than they may have available on their personal devices.

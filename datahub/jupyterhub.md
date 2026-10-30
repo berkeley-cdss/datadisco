@@ -1,5 +1,6 @@
 ---
 title: Choosing Your Server Options
+short_title: "🎛️ Choosing Your Server Options"
 ---
 
 When you log in to the CDSS DataHub (JupyterHub), you will see the **Server Options** page. This is where you decide how your computing environment will be set up.

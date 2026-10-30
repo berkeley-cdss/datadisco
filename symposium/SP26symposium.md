@@ -1,5 +1,6 @@
 ---
 title: "Spring 2026"
+short_title: "🌸 Spring 2026"
 ---
 
 # CDSS Data Discovery Spring 2026 Symposium

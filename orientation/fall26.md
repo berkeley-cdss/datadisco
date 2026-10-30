@@ -1,5 +1,6 @@
 ---
 title: "Fall 2026: Mentor Orientation"
+short_title: "🍂 Fall 2026"
 ---
 
 Thank you for participating in Data Discovery for this Fall Semester! Because of you, students will be getting valuable hands-on experience to complement their coursework.

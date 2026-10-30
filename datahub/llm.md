@@ -1,5 +1,6 @@
 ---
 title: Working with LLMs
+short_title: "💬 Working with LLMs"
 ---
 
 ![Working with LLMs](../assets/llms.png)

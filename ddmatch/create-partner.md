@@ -1,5 +1,6 @@
 ---
 title: "Creating a Mentor Account"
+short_title: "👤 Create a Mentor Account"
 ---
 
 This guide walks new mentors through the account signup process on the DDMatch platform.

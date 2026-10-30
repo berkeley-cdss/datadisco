@@ -1,5 +1,6 @@
 ---
 title: "For Project Mentors"
+short_title: "🤝 For Project Mentors"
 ---
 
 ## Program Overview

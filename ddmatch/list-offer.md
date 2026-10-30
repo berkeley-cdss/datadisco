@@ -1,5 +1,6 @@
 ---
 title: "View Accepted Offers"
+short_title: "📋 View Accepted Offers"
 ---
 
 ## Step: Review your accepted offers

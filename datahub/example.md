@@ -1,5 +1,6 @@
 ---
 title: Simple Python Example
+short_title: "🐍 Simple Python Example"
 ---
 
 ![Simple Python Example](../assets/simple.png)

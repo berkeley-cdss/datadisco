@@ -1,5 +1,6 @@
 ---
 title: Submitting and Running Jobs
+short_title: "⚙️ Submitting and Running Jobs"
 ---
 
 ## Overview

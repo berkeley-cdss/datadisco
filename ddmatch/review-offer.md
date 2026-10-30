@@ -1,5 +1,6 @@
 ---
 title: "Respond to an Offer"
+short_title: "✅ Respond to an Offer"
 ---
 
 ## Step 1: Open the **Offers** page

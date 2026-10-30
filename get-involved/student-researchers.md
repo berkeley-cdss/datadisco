@@ -1,5 +1,6 @@
 ---
 title: "For Student Researchers"
+short_title: "🎓 For Student Researchers"
 ---
 
 ## Overview

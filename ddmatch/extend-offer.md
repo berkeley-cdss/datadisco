@@ -1,5 +1,6 @@
 ---
 title: "Extend an Offer"
+short_title: "📨 Extend an Offer"
 ---
 
 ## Step 1: Open Applications

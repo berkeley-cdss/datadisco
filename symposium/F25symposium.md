@@ -1,5 +1,6 @@
 ---
 title: "Fall 2025"
+short_title: "🍂 Fall 2025"
 ---
 
 # CDSS Data Discovery Fall 2025 Symposium

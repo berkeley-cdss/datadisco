@@ -1,5 +1,6 @@
 ---
 title: "Spring 2026: Academic Syllabus"
+short_title: "🌸 Spring 2026"
 ---
 
 Syllabus for CDSS 170: Data Discovery Research Practicum, Spring 2026.

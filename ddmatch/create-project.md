@@ -1,5 +1,6 @@
 ---
 title: "Creating a Mentor's Project"
+short_title: "📝 Create a Project"
 ---
 
 This guide walks mentors through the steps required to successfully submit a project on the DD Match platform.

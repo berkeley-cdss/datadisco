@@ -1,5 +1,6 @@
 ---
 title: Installing Packages
+short_title: "📦 Installing Packages"
 ---
 
 Most common Python libraries such as **NumPy**, **Pandas**, **Matplotlib**, **Scikit-learn**, **TensorFlow**, and **PyTorch** are already installed on the CDSS DataHub.  

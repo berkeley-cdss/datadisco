@@ -1,5 +1,6 @@
 ---
 title: Using NRP LLM API
+short_title: "🤖 Using NRP LLM API"
 ---
 
 The National Research Platform (NRP) hosts language models that you can use from a Python notebook or a browser. For Data Discovery projects, start with the [NRP-managed LLM service](https://nrp.ai/documentation/userdocs/ai/llm-managed/). The broader [Nautilus introduction](https://nrp.ai/documentation/userdocs/tutorial/introduction/) is useful background for projects that also need cluster computing.

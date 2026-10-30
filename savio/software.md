@@ -1,5 +1,6 @@
 ---
 title: Software and Modules
+short_title: "📦 Software and Modules"
 ---
 
 ## Overview

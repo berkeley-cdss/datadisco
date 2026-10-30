@@ -1,5 +1,6 @@
 ---
 title: "Spring 2026: Mentor Orientation"
+short_title: "🌸 Spring 2026"
 ---
 
 Thank you for participating in Data Discovery for this Spring Semester! Because of you, students will be getting valuable hands-on experience to complement their coursework.

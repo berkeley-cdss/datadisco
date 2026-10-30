@@ -1,5 +1,6 @@
 ---
 title: "Create a Student Account"
+short_title: "👤 Create a Student Account"
 ---
 
 ## Step 1: Open Student Login

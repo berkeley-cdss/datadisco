@@ -1,5 +1,6 @@
 ---
 title: "Apply to Projects"
+short_title: "📝 Apply to Projects"
 ---
 
 ## Step 1: Find a project on the homepage
