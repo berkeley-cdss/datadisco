@@ -9,9 +9,9 @@ project:
     - file: index.md
     - file: orientation.md
       children:
+        - file: orientation/fall26.md
         - file: orientation/spring26.md
         - file: orientation/fall25.md
-          hidden: true
     - file: schedule.md
     - title: Symposium Events
       children:

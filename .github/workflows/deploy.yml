@@ -47,6 +47,9 @@ jobs:
       - name: Copy CNAME file
         run: cp CNAME _build/html/
 
+      - name: Copy embedded PDFs
+        run: mkdir -p _build/html/assets && cp assets/*.pdf _build/html/assets/
+
       - name: Inject Siteimprove analytics
         run: node inject-siteimprove.js
 
