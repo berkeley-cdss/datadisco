@@ -2,14 +2,83 @@
 title: "Welcome"
 ---
 
-Welcome to the Data Discovery Onboarding Guidebook. This guidebook will walk mentors and student researchers through the Data Discovery Program: how to use the [DD Match Platform](https://ddmatch.cdss.berkeley.edu/), access computing resources such as [Savio](computing/savio.md), [DataHub](computing/datahub.md), and the [NRP LLM API](computing/nrp-llm-api.md), and navigate key processes throughout the semester. You’ll learn how to create an account, submit and manage projects, connect with mentors and students, and make the most of available computing and research tools.
+Welcome to the **Data Discovery Onboarding Guidebook**! 👋 This guidebook will walk mentors and student researchers through the Data Discovery Program: how to use the [DD Match Platform](https://ddmatch.cdss.berkeley.edu/), access computing resources such as [Savio](computing/savio.md), [DataHub](computing/datahub.md), and the [NRP LLM API](computing/nrp-llm-api.md), and navigate key processes throughout the semester. You’ll learn how to create an account, submit and manage projects, connect with mentors and students, and make the most of available computing and research tools.
 
-## What's in this guidebook
+## 🚀 Get started
 
-- **[Mentor Orientation](orientation.md):** orientation slides for mentors, by semester.
-- **[Academic Syllabus](schedule.md):** the Data Discovery course syllabus for each semester.
-- **[Symposium Events](symposium/SP26symposium.md):** the end-of-semester symposium, where student researchers share their work through poster presentations.
-- **[DD Match Platform Guide](ddmatch.md):** step-by-step guides for [mentors](get-involved/partner.md) ([creating an account](ddmatch/create-partner.md), [submitting projects](ddmatch/create-project.md), [extending offers](ddmatch/extend-offer.md)) and [student researchers](get-involved/student-researchers.md) ([creating an account](ddmatch/create-student.md), [applying to projects](ddmatch/apply-project.md), [reviewing offers](ddmatch/review-offer.md)).
-- **Computing Infrastructure:** how to use [Savio](computing/savio.md), UC Berkeley's high-performance computing cluster; [DataHub](computing/datahub.md), a JupyterHub service with a dedicated instance for Data Discovery students; and the [NRP LLM API](computing/nrp-llm-api.md) for working with large language models.
-- **[Program Team](program-team.md):** the people behind the Data Discovery Program.
-- **[Contact Us](support.md):** how to reach the program team, including computing support.
+::::{grid} 1 1 2 2
+
+:::{card} 🤝 For Mentors
+Bring a research project and lead a team of Berkeley students.
+
+- [Getting involved as a mentor](get-involved/partner.md)
+- [Create a mentor account](ddmatch/create-partner.md)
+- [Submit a project](ddmatch/create-project.md)
+- [Extend offers to students](ddmatch/extend-offer.md)
+:::
+
+:::{card} 🎓 For Student Researchers
+Find a project and gain hands-on data science experience.
+
+- [Getting involved as a student](get-involved/student-researchers.md)
+- [Create a student account](ddmatch/create-student.md)
+- [Apply to projects](ddmatch/apply-project.md)
+- [Review and accept offers](ddmatch/review-offer.md)
+:::
+
+::::
+
+## 📚 Explore the guidebook
+
+::::{grid} 1 2 2 3
+
+:::{card} 🧭 Mentor Orientation
+:link: orientation.md
+Orientation slides for mentors, by semester.
+:::
+
+:::{card} 📅 Academic Syllabus
+:link: schedule.md
+The Data Discovery course syllabus for each semester.
+:::
+
+:::{card} 🏆 Symposium Events
+:link: symposium/SP26symposium.md
+The end-of-semester symposium, where students present their work through posters.
+:::
+
+:::{card} 🔗 DD Match Platform Guide
+:link: ddmatch.md
+Step-by-step guides to matching mentors and students on DD Match.
+:::
+
+:::{card} 🖥️ Savio
+:link: computing/savio.md
+UC Berkeley's high-performance computing cluster.
+:::
+
+:::{card} ☁️ DataHub
+:link: computing/datahub.md
+A JupyterHub service with a dedicated instance for Data Discovery students.
+:::
+
+:::{card} 🤖 NRP LLM API
+:link: computing/nrp-llm-api.md
+Access large language models for your research.
+:::
+
+:::{card} 👥 Program Team
+:link: program-team.md
+Meet the people behind the Data Discovery Program.
+:::
+
+:::{card} ✉️ Contact Us
+:link: support.md
+How to reach the program team, including computing support.
+:::
+
+::::
+
+:::{tip} Need help?
+Email the program team at [cdss-datadiscovery@berkeley.edu](mailto:cdss-datadiscovery@berkeley.edu). For computing questions, use the [CDSS Discovery Computing](https://groups.google.com/a/lists.berkeley.edu/g/cdss-discovery-computing) mailing list.
+:::
