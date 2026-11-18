@@ -12,6 +12,9 @@ The Symposium is the culmination of the semester as student researchers share th
 
 You can visit our webpage at https://cdss.berkeley.edu/discovery or email us at cdss-datadiscovery@berkeley.edu.
 
+## Acknowledgments
+We thank everyone who contributed to the College of Computing, Data Science, and Society’s Data Discovery program and helped bring the symposium to life. We thank our guest speakers, Professors John DeNero, Ron Cohen, and Irene Chen, as well as Rachel Torres and Misha Coleman, for sharing their expertise with Data Discovery students this semester. We are grateful to Professor Narges Norouzi, Associate Dean, for her leadership throughout the semester. We also thank Robbie Powers, Associate Dean of Students, for his guidance and support, and Dr. Rogers Walker for his ongoing support of the Data Discovery program. Jessica McDaniels-Archie coordinated key event details, and Camille Simsuangco Roxas helped carry out those plans. Rena Shrestha and Rohan Bhagat helped keep the program running smoothly throughout the semester. Ryan Lovett helped arrange access to computing resources and provided technical support. We thank Research IT and the National Science Foundation’s National Artificial Intelligence Research Resource Pilot for providing computing resources (awards NAIRR240387 and NAIRR260129). Finally, we thank the Data Discovery mentors for contributing projects and guiding students throughout the semester.
+
 ## Schedule
 All parts of the Symposium take place in the lobby of the Gateway Building at UC Berkeley on Wednesday, December 9, 2026.
 
@@ -62,7 +65,7 @@ Mentored by Danika Heaney, BEACO2N Project with Cohen Lab at UC Berkeley
 
 
 ## Business
-**ClipQuotes: Computer Vision & Multimodal Media Processing Intern**  
+**ClipQuotes: Computer Vision & Multimodal Media Processing**  
 Kaito Suzuki, Austin Tenbrink, Saumit Reddy Kodakandla  
 Mentored by Kenneth Kron, AikiField  
 
@@ -200,13 +203,13 @@ Mentored by William Ratcliff, National Institute of Standards and Technology
 
 **Time Series Analysis of Network Utilization for Distributed Scientific Workflows**  
 Nishanth Koushik, Yingxin Deng, Braedyn Thompson, Jiahui Chen  
-Mentored by John, Lawrence Berkeley National Laboratory  
+Mentored by John Wu, Lawrence Berkeley National Laboratory  
 
 **AI Training for Architectural Design**  
 Krithika Muralidhar, Yuqian Jiang  
 Mentored by Dave Alpert, Geopogo  
 
-**Neural Voice Cloning Research Intern**  
+**Neural Voice Cloning Research**  
 Yi Kei Yan, Medha Rakesh  
 Mentored by Kenneth Kron, AikiField  
 
