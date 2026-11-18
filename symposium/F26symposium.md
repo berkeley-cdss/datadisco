@@ -66,7 +66,7 @@ Mentored by Danika Heaney, BEACO2N Project with Cohen Lab at UC Berkeley
 
 ## Business
 **ClipQuotes: Computer Vision & Multimodal Media Processing**  
-Kaito Suzuki, Austin Tenbrink, Saumit Reddy Kodakandla  
+Austin Tenbrink, Saumit Reddy Kodakandla  
 Mentored by Kenneth Kron, AikiField  
 
 **COFAIR: Community Sentiment & Outbound Efficacy Lab**  
@@ -110,7 +110,7 @@ Nathan Ye, Jonathan Yu, Nikhil Kotta, John Han, Jingyi Lu
 Mentored by Alan Cheng, Merck & Co.  
 
 **AI for Science Discovery and Knowledge Evaluation/Management**  
-Shengyi Wang, Ria Voodi, Tianyi Li, Ganesh Karayi, Nicholas Lawrence, Victoria Ogunmakinwa, Arshad Shiju  
+Tianyi Li, Ganesh Karayi, Nicholas Lawrence, Victoria Ogunmakinwa, Arshad Shiju  
 Mentored by Hildy Fong Baker, Rapid Reviews\Infectious Diseases (RR\ID)  
 
 **Building a Foundation Model for Volumetric Electron Microscopy Image Segmentation**  
@@ -168,7 +168,7 @@ Hinson Yuen, Xinran Xu, Jiali Zhu, Justin Lee, Michelle Zhu
 Mentored by Brian DeLay, UC Berkeley History Department  
 
 **Recovering and Organizing James Bradford DeLong's Weblog Archives**  
-Nicole Shimamoto, Jason Zeng, Joubin Sheed, Emily Liang  
+Nicole Shimamoto, Jason Zeng, Emily Liang  
 Mentored by James Bradford DeLong, DeLong's Grasping Reality SubStack  
 
 **San Mateo County Housing Precarity Report**  
@@ -176,7 +176,7 @@ Lawrenze Vigo, Asher Lee Nguyen, Julio Diaz, Esha Bansiya
 Mentored by Tim Thomas, Eviction Research Network (ERN) at UC Berkeley  
 
 **Scaling a Legal Reasoning AI: Evaluation, Analytics & Institutional Reach**  
-Surabhi Verma, Arjun Kelkar, Hwayoung Shin  
+Arjun Kelkar, Hwayoung Shin  
 Mentored by Lawrence Ebringer, ConflictQuery  
 
 **Seeds of Peace**  
