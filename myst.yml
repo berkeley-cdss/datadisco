@@ -19,6 +19,7 @@ project:
         - file: syllabus/syllabus-fall25.md
     - title: 🏆 Symposium Events
       children:
+        - file: symposium/F26symposium.md
         - file: symposium/SP26symposium.md
         - file: symposium/F25symposium.md
     - file: ddmatch.md

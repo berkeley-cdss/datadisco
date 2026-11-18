@@ -44,7 +44,7 @@ The Data Discovery course syllabus for each semester.
 :::
 
 :::{card} 🏆 Symposium Events
-:link: symposium/SP26symposium.md
+:link: symposium/F26symposium.md
 The end-of-semester symposium, where students present their work through posters.
 :::
 
